@@ -1,0 +1,2907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 01 - La veille, c&#x27;est quoi ?</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F01-Q1 Quel est le but principal d&#x27;une veille ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel est le but principal d&#x27;une veille ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une veille qui ne sert aucune décision est inutile, même si elle collecte beaucoup.</p><p><em>À revoir : fiche 01, La veille, c&#x27;est quoi ? (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f01-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Lire le plus d&#x27;articles possible sur son secteur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Archiver toutes les actualités du secteur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Aider quelqu&#x27;un à prendre une décision]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F01-Q2 Quelle activité examine l&#x27;intérieur de l&#x27;organisation ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle activité examine l&#x27;intérieur de l&#x27;organisation ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La veille regarde vers l&#x27;extérieur ; l&#x27;audit examine l&#x27;organisation elle-même.</p><p><em>À revoir : fiche 01, La veille, c&#x27;est quoi ? (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f01-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;audit]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La veille]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La recherche documentaire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F01-Q3 Que veut dire « continue » dans la définition de la veille ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que veut dire « continue » dans la définition de la veille ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La veille suit son sujet dans le temps ; elle ne s&#x27;arrête pas après une première recherche.</p><p><em>À revoir : fiche 01, La veille, c&#x27;est quoi ? (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f01-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Qu&#x27;on y consacre toute sa journée de travail]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Qu&#x27;on ne la fait pas une fois pour toutes]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Qu&#x27;elle est faite par une seule personne]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 02 - De l&#x27;information au renseignement</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q1 Quelle phrase est un renseignement, et pas seulement une inf</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle phrase est un renseignement, et pas seulement une information ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le renseignement relie le fait à l&#x27;organisation et propose une suite.</p><p><em>À revoir : fiche 02, De l&#x27;information au renseignement (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f02-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une nouvelle version de PostgreSQL vient de sortir, avec de nouvelles fonctions]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[PostgreSQL est une base de données libre, utilisée par de nombreuses entreprises]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Notre base de données passera hors support en juin : il faut prévoir la migration]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q2 Que se passe-t-il quand on transmet seulement des informatio</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que se passe-t-il quand on transmet seulement des informations brutes au décideur ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une veille utile fait ce travail à la place du décideur.</p><p><em>À revoir : fiche 02, De l&#x27;information au renseignement (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f02-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le décideur doit faire lui-même le travail d&#x27;analyse]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le décideur gagne du temps, car il a tout sous les yeux]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rien de particulier, c&#x27;est la méthode recommandée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q3 Quelle question le renseignement doit-il toujours traiter ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle question le renseignement doit-il toujours traiter ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est la question « et alors ? » qui transforme une information en renseignement.</p><p><em>À revoir : fiche 02, De l&#x27;information au renseignement (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f02-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Qui a écrit l&#x27;article ?]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Combien d&#x27;articles parlent du sujet ?]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Et alors, qu&#x27;est-ce que cela change pour nous ?]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 03 - Les familles de veille</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q1 La fin de support d&#x27;un logiciel relève de quelle famille de </text></name>
+    <questiontext format="html"><text><![CDATA[<p>La fin de support d&#x27;un logiciel relève de quelle famille de veille ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Versions et fins de support sont des sujets de veille technologique.</p><p><em>À revoir : fiche 03, Les familles de veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f03-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Concurrentielle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Technologique]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sociétale]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q2 Une sanction de la CNIL relève de quelle famille ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une sanction de la CNIL relève de quelle famille ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les décisions des autorités font partie de la veille réglementaire.</p><p><em>À revoir : fiche 03, Les familles de veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f03-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Technologique]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Concurrentielle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Réglementaire]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q3 Quelles familles sont au cœur de ce cours ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelles familles sont au cœur de ce cours ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ce sont elles que votre diplôme évalue.</p><p><em>À revoir : fiche 03, Les familles de veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f03-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Technologique et réglementaire]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Concurrentielle et sociétale]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Toutes, à égalité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 04 - Le cycle de la veille</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q1 Quelle est la première étape du cycle ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle est la première étape du cycle ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>On commence toujours par savoir qui a besoin de quoi.</p><p><em>À revoir : fiche 04, Le cycle de la veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f04-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;expression du besoin]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La collecte]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le choix des outils]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q2 Quelle étape fait du processus un cycle et pas une simple ch</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle étape fait du processus un cycle et pas une simple chaîne ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;évaluation renvoie au début du cycle pour corriger le besoin, les sources ou les formats.</p><p><em>À revoir : fiche 04, Le cycle de la veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f04-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La diffusion]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;évaluation et l&#x27;ajustement]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La collecte]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q3 Quelle étape répond à la question « qu&#x27;est-ce que cela chang</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle étape répond à la question « qu&#x27;est-ce que cela change pour nous ? » ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est l&#x27;étape qui transforme l&#x27;information en renseignement.</p><p><em>À revoir : fiche 04, Le cycle de la veille (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f04-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le ciblage]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La capitalisation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le traitement et l&#x27;analyse]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 05 - Push, pull et méthode mixte</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q1 Recevoir une alerte par courriel quand un mot-clé apparaît s</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Recevoir une alerte par courriel quand un mot-clé apparaît sur le web, c&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;information arrive sans que vous alliez la chercher.</p><p><em>À revoir : fiche 05, Push, pull et méthode mixte (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f05-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Du pull]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Du push]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ni l&#x27;un ni l&#x27;autre]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q2 Quel est le principal risque du push ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel est le principal risque du push ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Mal réglé, le push envoie beaucoup trop de résultats.</p><p><em>À revoir : fiche 05, Push, pull et méthode mixte (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f05-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Être noyé sous trop d&#x27;informations]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Oublier de consulter les sources]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ne pas pouvoir suivre les sources institutionnelles]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q3 Dans le dossier, quand la réponse « mixte » est-elle accepté</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans le dossier, quand la réponse « mixte » est-elle acceptée ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le correcteur attend que chaque choix soit justifié par les besoins.</p><p><em>À revoir : fiche 05, Push, pull et méthode mixte (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f05-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Toujours, car tout dispositif sérieux mélange les deux modes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Seulement si l&#x27;on utilise un outil payant pour le push]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Quand on précise quelles sources relèvent de quel mode, et pourquoi]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 06 - Les rôles et les erreurs classiques</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q1 Qui exprime les besoins et décide ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Qui exprime les besoins et décide ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le décideur commande la veille et dit si elle a servi.</p><p><em>À revoir : fiche 06, Les rôles et les erreurs classiques (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f06-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le veilleur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;expert]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le décideur]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q2 S&#x27;abonner à cinquante newsletters sans avoir le temps de les</text></name>
+    <questiontext format="html"><text><![CDATA[<p>S&#x27;abonner à cinquante newsletters sans avoir le temps de les lire, c&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Trop collecter et trop peu trier noie les informations importantes.</p><p><em>À revoir : fiche 06, Les rôles et les erreurs classiques (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f06-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[De l&#x27;infobésité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une veille sans destinataire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une absence de capitalisation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q3 Dans ce cours, que désigne le mot « capteur » ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans ce cours, que désigne le mot « capteur » ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les personnes sont des correspondants ; les capteurs sont des outils.</p><p><em>À revoir : fiche 06, Les rôles et les erreurs classiques (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f06-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une personne qui signale une information]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un outil qui détecte les nouveautés]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un expert qui valide l&#x27;information]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 07 - Partir des symptômes</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q1 Lequel est un symptôme exploitable ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel est un symptôme exploitable ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un symptôme est un fait observable et vérifiable, pas une opinion ni une solution.</p><p><em>À revoir : fiche 07, Partir des symptômes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f07-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Deux composants de la plateforme ne sont plus maintenus]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Notre informatique est vieillissante]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Il faudrait passer au cloud]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q2 Par quoi commence-t-on une veille ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Par quoi commence-t-on une veille ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Partir des outils donne une veille impressionnante mais inutile.</p><p><em>À revoir : fiche 07, Partir des symptômes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f07-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le choix d&#x27;un agrégateur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;analyse des problèmes de l&#x27;organisation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;abonnement à des newsletters]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q3 Quels trois éléments la phrase « pour décider de X… » oblige</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quels trois éléments la phrase « pour décider de X… » oblige-t-elle à nommer ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Sans ces trois éléments, le besoin reste vague.</p><p><em>À revoir : fiche 07, Partir des symptômes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f07-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un outil, une source, un budget]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un axe, une priorité, une fréquence]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un destinataire, une décision, une échéance]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 08 - Les parties prenantes</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q1 À quoi sert la cartographie des parties prenantes ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quoi sert la cartographie des parties prenantes ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle évite la veille sans destinataire et fixe déjà les formats attendus.</p><p><em>À revoir : fiche 08, Les parties prenantes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f08-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À choisir les outils de collecte et le budget de la veille]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À noter la fiabilité des sources avant de les retenir]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[À garantir que la veille a des lecteurs et à préparer la diffusion]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q2 Un directeur général veut plutôt :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un directeur général veut plutôt :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Chaque lecteur a son format ; la direction veut de quoi décider.</p><p><em>À revoir : fiche 08, Les parties prenantes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f08-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une liste détaillée des versions et des failles de chaque logiciel]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une note courte avec les décisions à prendre]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Tous les articles collectés dans la semaine]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q3 Combien de parties prenantes minimum le dossier D1 exige-t-i</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de parties prenantes minimum le dossier D1 exige-t-il ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Direction générale, DSI, RSSI, tech lead, DPO et soignants.</p><p><em>À revoir : fiche 08, Les parties prenantes (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f08-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Six]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Trois]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dix]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 09 - Cadrer avec le QQOQCCP</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q1 Que signifie le deuxième C de QQOQCCP ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que signifie le deuxième C de QQOQCCP ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi.</p><p><em>À revoir : fiche 09, Cadrer avec le QQOQCCP (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f09-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Comment]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Contrôle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combien]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q2 Pourquoi écrire une colonne d&#x27;exclusions ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi écrire une colonne d&#x27;exclusions ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;élargissement progressif du périmètre est la première cause d&#x27;infobésité.</p><p><em>À revoir : fiche 09, Cadrer avec le QQOQCCP (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f09-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Pour empêcher le périmètre de grossir sans fin]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pour remplir le tableau plus vite]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce que la CNIL l&#x27;exige]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q3 Quelle question précise le temps de travail et le budget dis</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle question précise le temps de travail et le budget disponibles ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>« Combien » fixe les moyens ; « quand » fixe le calendrier et le rythme.</p><p><em>À revoir : fiche 09, Cadrer avec le QQOQCCP (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f09-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quand ?]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Combien ?]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Comment ?]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 10 - Axes, priorités et plan de veille</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q1 Combien d&#x27;axes le dossier D1 demande-t-il ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien d&#x27;axes le dossier D1 demande-t-il ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Quatre axes obligatoires et un axe libre justifié.</p><p><em>À revoir : fiche 10, Axes, priorités et plan de veille (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f10-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Quatre, tous imposés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Cinq, dont un libre]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Autant qu&#x27;on veut, selon le temps disponible]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q2 Un axe très important et très urgent est en :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un axe très important et très urgent est en :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Il demande un suivi continu et des alertes immédiates.</p><p><em>À revoir : fiche 10, Axes, priorités et plan de veille (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f10-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Priorité 2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Priorité 4]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Priorité 1]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q3 Quelles rubriques du plan de veille sont le plus souvent oub</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelles rubriques du plan de veille sont le plus souvent oubliées ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Sans ressources, le plan reste une intention ; sans indicateurs, on ne sait pas s&#x27;il sert.</p><p><em>À revoir : fiche 10, Axes, priorités et plan de veille (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f10-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Ressources et indicateurs]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Contexte et périmètre]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Axes et priorités]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 11 - Les types de sources</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q1 Le texte d&#x27;un règlement publié au Journal officiel de l&#x27;Unio</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le texte d&#x27;un règlement publié au Journal officiel de l&#x27;Union européenne est une source :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le Journal officiel produit le texte lui-même.</p><p><em>À revoir : fiche 11, Les types de sources (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f11-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Secondaire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Primaire]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Informelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q2 Une newsletter qui résume les alertes du CERT-FR est une sou</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une newsletter qui résume les alertes du CERT-FR est une source :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle rapporte une information produite par le CERT-FR.</p><p><em>À revoir : fiche 11, Les types de sources (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f11-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Primaire, car elle est publiée régulièrement]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Primaire, car elle cite une autorité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Secondaire, car elle reprend le CERT-FR]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q3 À quoi sert une source secondaire ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quoi sert une source secondaire ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle permet de repérer vite, mais il faut toujours remonter à la source primaire.</p><p><em>À revoir : fiche 11, Les types de sources (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f11-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[À repérer et comprendre une information]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À prouver une information]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À remplacer la source primaire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 12 - Les grandes sources institutionnelles</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q1 Quel organisme peut sanctionner une entreprise pour non-resp</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel organisme peut sanctionner une entreprise pour non-respect du RGPD ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La CNIL contrôle le RGPD en France.</p><p><em>À revoir : fiche 12, Les grandes sources institutionnelles (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f12-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;ANSSI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;ENISA]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La CNIL]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q2 Où lit-on le texte officiel d&#x27;une directive européenne ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Où lit-on le texte officiel d&#x27;une directive européenne ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>EUR-Lex publie le droit de l&#x27;Union européenne.</p><p><em>À revoir : fiche 12, Les grandes sources institutionnelles (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f12-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sur EUR-Lex]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sur Légifrance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sur le site d&#x27;un cabinet d&#x27;avocats]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q3 Quel organisme publie des alertes de sécurité propres au sec</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel organisme publie des alertes de sécurité propres au secteur de la santé ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le CERT Santé, rattaché à l&#x27;Agence du numérique en santé, alerte les acteurs de santé.</p><p><em>À revoir : fiche 12, Les grandes sources institutionnelles (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f12-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La HAS]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le CERT Santé]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La CNIL]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 13 - Noter la fiabilité d&#x27;une source</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q1 Une source notée 8 sur 10 obtient la cote :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une source notée 8 sur 10 obtient la cote :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un score de 7 ou 8 sur 10 donne la cote B, plutôt fiable.</p><p><em>À revoir : fiche 13, Noter la fiabilité d&#x27;une source (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f13-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q2 Que fait-on d&#x27;une source cotée C ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que fait-on d&#x27;une source cotée C ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une source C sert à repérer, jamais à prouver.</p><p><em>À revoir : fiche 13, Noter la fiabilité d&#x27;une source (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f13-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On la cite seule dans une recommandation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On la supprime de la liste des sources dès qu&#x27;on la repère]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[On s&#x27;en sert pour repérer, puis on cherche la source primaire]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q3 Quel critère vérifie si l&#x27;auteur a un intérêt à orienter l&#x27;i</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel critère vérifie si l&#x27;auteur a un intérêt à orienter l&#x27;information ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un éditeur qui vante son propre produit n&#x27;est pas neutre.</p><p><em>À revoir : fiche 13, Noter la fiabilité d&#x27;une source (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f13-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;autorité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;objectivité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;actualité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 14 - Normes et référentiels : toujours avec la version</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q1 Comment cite-t-on correctement la norme de sécurité de l&#x27;inf</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Comment cite-t-on correctement la norme de sécurité de l&#x27;information ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une norme se cite avec son numéro complet et son édition.</p><p><em>À revoir : fiche 14, Normes et référentiels : toujours avec la version (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f14-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ISO 27001, la norme internationale de la sécurité, dans sa dernière version]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ISO/IEC 27001:2022, avec son amendement de 2024]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La norme de sécurité de l&#x27;ISO]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q2 Une norme ISO est en général :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une norme ISO est en général :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle aide à prouver la conformité, mais elle n&#x27;est pas une loi.</p><p><em>À revoir : fiche 14, Normes et référentiels : toujours avec la version (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f14-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Obligatoire pour toutes les entreprises]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Gratuite]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Volontaire]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q3 Quel référentiel traite de l&#x27;accessibilité numérique en Fran</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel référentiel traite de l&#x27;accessibilité numérique en France ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le RGAA est le référentiel français de l&#x27;accessibilité numérique.</p><p><em>À revoir : fiche 14, Normes et référentiels : toujours avec la version (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f14-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le RGAA]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le RGESN]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le référentiel HDS]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 15 - Le circuit de collecte et ses outils</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q1 Quel outil sert de point d&#x27;entrée unique ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel outil sert de point d&#x27;entrée unique ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;agrégateur rassemble toutes les sources au même endroit.</p><p><em>À revoir : fiche 15, Le circuit de collecte et ses outils (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f15-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une newsletter]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un moteur de recherche]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un agrégateur de flux RSS]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q2 Pourquoi vérifier qu&#x27;un agrégateur permet l&#x27;export OPML ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi vérifier qu&#x27;un agrégateur permet l&#x27;export OPML ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est le critère de pérennité.</p><p><em>À revoir : fiche 15, Le circuit de collecte et ses outils (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f15-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Pour pouvoir changer d&#x27;outil sans perdre ses sources]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pour imprimer les articles collectés dans un seul document]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pour respecter le RGPD lors du stockage des flux]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q3 Lequel ne fait pas partie des cinq critères de choix d&#x27;un ou</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel ne fait pas partie des cinq critères de choix d&#x27;un outil ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les cinq critères sont le coût, l&#x27;hébergement, le RGPD, le partage et la pérennité.</p><p><em>À revoir : fiche 15, Le circuit de collecte et ses outils (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f15-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;hébergement des données]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La couleur de l&#x27;interface]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La pérennité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 16 - Construire une bonne alerte</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q1 À quoi servent les guillemets dans une requête ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quoi servent les guillemets dans une requête ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>&quot;AI Act&quot; cherche ces deux mots côte à côte, dans cet ordre.</p><p><em>À revoir : fiche 16, Construire une bonne alerte (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f16-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À exclure un mot]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[À chercher une expression exacte]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À ajouter un synonyme]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q2 Que faire si plus de la moitié des résultats d&#x27;une alerte so</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que faire si plus de la moitié des résultats d&#x27;une alerte sont inutiles ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une alerte dont plus de la moitié des résultats sont inutiles produit surtout du bruit : on la reformule ou on la supprime.</p><p><em>À revoir : fiche 16, Construire une bonne alerte (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f16-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La garder telle quelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ajouter d&#x27;autres mots-clés plus larges]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La reformuler ou la supprimer]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q3 Quelle livraison est conseillée pour une alerte ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle livraison est conseillée pour une alerte ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Tout arrive ainsi au même point d&#x27;entrée.</p><p><em>À revoir : fiche 16, Construire une bonne alerte (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f16-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En flux RSS vers l&#x27;agrégateur]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par SMS]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par courriel, dans la messagerie personnelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 17 - Vulnérabilités et fins de support</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q1 Que mesure le score CVSS ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que mesure le score CVSS ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le CVSS note de 0 à 10 la gravité technique d&#x27;une faille ; c&#x27;est l&#x27;EPSS qui mesure la probabilité qu&#x27;elle soit exploitée.</p><p><em>À revoir : fiche 17, Vulnérabilités et fins de support (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f17-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La probabilité qu&#x27;une faille soit exploitée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La gravité technique d&#x27;une faille]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le nombre d&#x27;entreprises touchées]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q2 Une faille inscrite au catalogue KEV est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une faille inscrite au catalogue KEV est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>KEV signifie « vulnérabilités exploitées connues ».</p><p><em>À revoir : fiche 17, Vulnérabilités et fins de support (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f17-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une faille sans correctif]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une faille sans gravité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une faille déjà exploitée par des attaquants]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q3 Sans quoi aucun outil de suivi des failles ne peut fonctionn</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Sans quoi aucun outil de suivi des failles ne peut fonctionner ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;outil doit savoir quels produits surveiller.</p><p><em>À revoir : fiche 17, Vulnérabilités et fins de support (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f17-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sans inventaire des composants et de leurs versions]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sans abonnement payant à une base de vulnérabilités]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sans compte sur un réseau social de chercheurs en sécurité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 18 - Filtrer et vérifier</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q1 Dans quel ordre traite-t-on une information ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans quel ordre traite-t-on une information ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Inutile de vérifier une information qu&#x27;on va écarter.</p><p><em>À revoir : fiche 18, Filtrer et vérifier (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f18-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Vérifier, filtrer, analyser, consigner, catégoriser]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Filtrer, vérifier, catégoriser, analyser, consigner]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Analyser, filtrer, vérifier, consigner, catégoriser]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q2 Deux articles reprennent la même dépêche. Combien de sources</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Deux articles reprennent la même dépêche. Combien de sources indépendantes avez-vous ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ils ont la même origine : ce n&#x27;est pas un recoupement.</p><p><em>À revoir : fiche 18, Filtrer et vérifier (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f18-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Deux]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Trois]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q3 Tant qu&#x27;on n&#x27;a pas trouvé la source primaire, l&#x27;information </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Tant qu&#x27;on n&#x27;a pas trouvé la source primaire, l&#x27;information est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle reste en attente jusqu&#x27;à la vérification.</p><p><em>À revoir : fiche 18, Filtrer et vérifier (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f18-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Confirmée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Fausse]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[À confirmer]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 19 - Signaux faibles, signaux forts</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q1 Un projet de règlement encore en discussion, sans calendrier</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un projet de règlement encore en discussion, sans calendrier, est plutôt :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Son contenu et son échéance restent incertains.</p><p><em>À revoir : fiche 19, Signaux faibles, signaux forts (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f19-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un signal fort]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un signal faible]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une information sans intérêt]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q2 Quelle action un signal fort demande-t-il ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle action un signal fort demande-t-il ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le fait est confirmé et l&#x27;échéance connue : il faut agir.</p><p><em>À revoir : fiche 19, Signaux faibles, signaux forts (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f19-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Attendre d&#x27;autres indices]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;archiver]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Décider et planifier]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q3 Qu&#x27;est-ce qui distingue vraiment un signal faible d&#x27;un signa</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Qu&#x27;est-ce qui distingue vraiment un signal faible d&#x27;un signal fort ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ce n&#x27;est pas l&#x27;importance qui compte mais la certitude : un même sujet passe de faible à fort quand il se confirme.</p><p><em>À revoir : fiche 19, Signaux faibles, signaux forts (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f19-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le niveau de certitude sur l&#x27;information]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;importance du sujet]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La longueur de l&#x27;article]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 20 - La grille d&#x27;impact</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q1 Une information totalise 15 sur 18. Que fait-on ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une information totalise 15 sur 18. Que fait-on ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>À partir de 14, l&#x27;information est prioritaire.</p><p><em>À revoir : fiche 20, La grille d&#x27;impact (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f20-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On l&#x27;archive dans la base, sans la diffuser]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[On la diffuse vite et on étudie une recommandation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On attend la prochaine revue de veille pour en parler]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q2 Une note de 3 en « effort de mise en œuvre » signifie :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une note de 3 en « effort de mise en œuvre » signifie :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le critère est inversé pour que le meilleur total reste le plus haut.</p><p><em>À revoir : fiche 20, La grille d&#x27;impact (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f20-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un effort très faible]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un projet très lourd]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un effort moyen]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q3 Quelle note est correctement justifiée ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle note est correctement justifiée ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une note se justifie par un fait de l&#x27;organisation.</p><p><em>À revoir : fiche 20, La grille d&#x27;impact (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f20-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Impact : 3, car le sujet fait beaucoup parler dans la presse]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Impact : 3, car c&#x27;est un sujet important pour tout le monde]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Impact : 3, car l&#x27;application touchée ne peut pas s&#x27;arrêter plus de 2 heures]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 21 - Radar technologique et matrice impact × maturité</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q1 Une technologie à tester sur un projet au risque maîtrisé se</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une technologie à tester sur un projet au risque maîtrisé se place dans l&#x27;anneau :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>« Essayer » veut dire tester en conditions réelles, à petite échelle.</p><p><em>À revoir : fiche 21, Radar technologique et matrice impact × maturité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f21-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Adopter]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Suspendre]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Essayer]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q2 Un texte applicable dans six mois, à fort impact, est dans l</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un texte applicable dans six mois, à fort impact, est dans la zone :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Impact fort et maturité forte : on agit.</p><p><em>À revoir : fiche 21, Radar technologique et matrice impact × maturité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f21-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Agir]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Préparer]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Ignorer pour l&#x27;instant]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q3 Le radar est-il exigé dans le dossier D1 ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le radar est-il exigé dans le dossier D1 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le radar est facultatif ; la grille d&#x27;impact, elle, est exigée.</p><p><em>À revoir : fiche 21, Radar technologique et matrice impact × maturité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f21-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Oui, il est obligatoire pour tous les axes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Non, il est facultatif]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Oui, mais seulement pour l&#x27;axe réglementaire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 22 - Évaluer l&#x27;impact environnemental</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q1 Qu&#x27;est-ce qui pesait le plus dans l&#x27;empreinte du numérique, </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Qu&#x27;est-ce qui pesait le plus dans l&#x27;empreinte du numérique, d&#x27;après l&#x27;étude de 2020 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les terminaux (ordinateurs, téléphones, écrans) représentaient près de 80 % de l&#x27;empreinte carbone du numérique.</p><p><em>À revoir : fiche 22, Évaluer l&#x27;impact environnemental (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f22-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Les centres de données]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Les terminaux]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Les réseaux]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q2 Raisonner en cycle de vie, c&#x27;est prendre en compte :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Raisonner en cycle de vie, c&#x27;est prendre en compte :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est le principe de l&#x27;ACV.</p><p><em>À revoir : fiche 22, Évaluer l&#x27;impact environnemental (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f22-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Seulement la consommation électrique]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Seulement le recyclage en fin de vie]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La fabrication, l&#x27;usage et la fin de vie]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q3 Une note environnementale doit être accompagnée :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une note environnementale doit être accompagnée :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>On écrit en une phrase l&#x27;hypothèse qui fonde la note.</p><p><em>À revoir : fiche 22, Évaluer l&#x27;impact environnemental (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f22-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[De l&#x27;hypothèse qui la justifie]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D&#x27;un calcul exact au kilogramme près]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Du label environnemental de l&#x27;éditeur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 23 - La fiche de veille et la base de connaissances</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q1 Quel titre de fiche est le bon ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel titre de fiche est le bon ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le titre dit le fait, pas le thème.</p><p><em>À revoir : fiche 23, La fiche de veille et la base de connaissances (cours, chapitre 5 et 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f23-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Géolocalisation des salariés : un sujet à suivre]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La CNIL impose de pouvoir couper la géolocalisation hors du temps de travail]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Article intéressant de la CNIL sur la géolocalisation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q2 Une fiche archivée est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une fiche archivée est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;archivage garde l&#x27;historique d&#x27;une décision.</p><p><em>À revoir : fiche 23, La fiche de veille et la base de connaissances (cours, chapitre 5 et 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f23-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Supprimée de la base]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Envoyée à la direction]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Conservée et consultable]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q3 Quelle rubrique distingue une fiche de veille d&#x27;une revue de</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle rubrique distingue une fiche de veille d&#x27;une revue de presse ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle relie le fait aux actifs, projets et obligations de l&#x27;organisation.</p><p><em>À revoir : fiche 23, La fiche de veille et la base de connaissances (cours, chapitre 5 et 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f23-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;analyse pour l&#x27;organisation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le résumé]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La source]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 24 - Lire un texte réglementaire en veilleur</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q1 NIS2 est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>NIS2 est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est pourquoi elle doit être transposée en droit français.</p><p><em>À revoir : fiche 24, Lire un texte réglementaire en veilleur (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f24-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un règlement]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une norme ISO]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une directive]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q2 Le jour où les obligations d&#x27;un texte deviennent exigibles, </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le jour où les obligations d&#x27;un texte deviennent exigibles, c&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un texte peut entrer en vigueur longtemps avant de s&#x27;appliquer.</p><p><em>À revoir : fiche 24, Lire un texte réglementaire en veilleur (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f24-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;entrée en vigueur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;application]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La publication]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q3 Où trouve-t-on le texte d&#x27;un règlement européen ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Où trouve-t-on le texte d&#x27;un règlement européen ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>EUR-Lex publie le Journal officiel de l&#x27;Union européenne.</p><p><em>À revoir : fiche 24, Lire un texte réglementaire en veilleur (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f24-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sur EUR-Lex]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sur Légifrance uniquement]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dans la presse spécialisée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 25 - Données personnelles et données de santé</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q1 Après avoir découvert une fuite de données personnelles, il </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Après avoir découvert une fuite de données personnelles, il faut prévenir la CNIL au plus tard :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est l&#x27;obligation de notification du RGPD, sauf si la fuite ne présente pas de risque pour les personnes.</p><p><em>À revoir : fiche 25, Données personnelles et données de santé (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f25-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[24 heures après]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un mois après]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[72 heures après]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q2 Héberger des données de santé pour un tiers en France demand</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Héberger des données de santé pour un tiers en France demande :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;article L. 1111-8 du Code de la santé publique impose la certification HDS à quiconque héberge, pour le compte d&#x27;un tiers, des données de santé recueillies lors d&#x27;activités de prévention, de diagnostic ou de soins.</p><p><em>À revoir : fiche 25, Données personnelles et données de santé (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f25-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une autorisation de la HAS]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une certification HDS]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une certification ISO 9001]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q3 Un centre de données situé en France, géré par une entrepris</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un centre de données situé en France, géré par une entreprise américaine, est-il à l&#x27;abri du Cloud Act ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le Cloud Act vise les fournisseurs soumis au droit américain, où que soient les données.</p><p><em>À revoir : fiche 25, Données personnelles et données de santé (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f25-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Non, car le fournisseur est soumis au droit américain]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Oui, car les données sont stockées en France]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Oui, s&#x27;il est certifié ISO/IEC 27001]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 26 - IA et dispositifs médicaux</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q1 Quand l&#x27;AI Act est-il entré en vigueur ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quand l&#x27;AI Act est-il entré en vigueur ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;AI Act est entré en vigueur le 1er août 2024. Le 25 mai 2018 est la date d&#x27;application du RGPD, et le 2 décembre 2027 une date d&#x27;application des règles sur le haut risque.</p><p><em>À revoir : fiche 26, IA et dispositifs médicaux (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f26-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le 25 mai 2018]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le 1er août 2024]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le 2 décembre 2027]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q2 Un logiciel qui aide à poser un diagnostic peut être :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un logiciel qui aide à poser un diagnostic peut être :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Sa finalité médicale le fait relever du MDR.</p><p><em>À revoir : fiche 26, IA et dispositifs médicaux (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f26-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un simple outil de bureautique]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une norme ISO]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un dispositif médical]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q3 L&#x27;organisation qui utilise un système d&#x27;IA dans son activité</text></name>
+    <questiontext format="html"><text><![CDATA[<p>L&#x27;organisation qui utilise un système d&#x27;IA dans son activité est, dans l&#x27;AI Act :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le fournisseur le développe ; le déployeur l&#x27;utilise.</p><p><em>À revoir : fiche 26, IA et dispositifs médicaux (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f26-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le déployeur]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le fournisseur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le régulateur national]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 27 - Cybersécurité et données : NIS2, CRA, Data Act</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q1 NIS2 impose une alerte précoce en cas d&#x27;incident important s</text></name>
+    <questiontext format="html"><text><![CDATA[<p>NIS2 impose une alerte précoce en cas d&#x27;incident important sous :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Puis une notification sous 72 heures et un rapport final sous un mois.</p><p><em>À revoir : fiche 27, Cybersécurité et données : NIS2, CRA, Data Act (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f27-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[72 heures]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[24 heures]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un mois]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q2 Quel texte porte sur la sécurité des produits numériques mis</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel texte porte sur la sécurité des produits numériques mis sur le marché ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le CRA impose des exigences aux fabricants de produits numériques.</p><p><em>À revoir : fiche 27, Cybersécurité et données : NIS2, CRA, Data Act (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f27-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le Cyber Resilience Act]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le Data Act]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le RGPD]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q3 Quel texte facilite le changement de fournisseur cloud ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel texte facilite le changement de fournisseur cloud ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Il prévoit notamment la suppression des frais de changement.</p><p><em>À revoir : fiche 27, Cybersécurité et données : NIS2, CRA, Data Act (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f27-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[NIS2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;AI Act]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le Data Act]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 28 - Diffuser au bon lecteur</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q1 Quel format sert à faire décider la direction ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel format sert à faire décider la direction ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle commence par la conclusion : ce qu&#x27;il faut décider et pourquoi maintenant.</p><p><em>À revoir : fiche 28, Diffuser au bon lecteur (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f28-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La fiche technique]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La note de synthèse]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le flash d&#x27;information]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q2 Un flash d&#x27;information contient :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un flash d&#x27;information contient :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Deux consignes justifient deux flashs.</p><p><em>À revoir : fiche 28, Diffuser au bon lecteur (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f28-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le résumé de toutes les consignes du mois, réunies en un envoi]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La liste complète des versions des logiciels concernés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un seul message : quoi faire, à partir de quand, à qui s&#x27;adresser]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q3 Lequel ne fait pas partie des quatre règles minimales d&#x27;acce</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel ne fait pas partie des quatre règles minimales d&#x27;accessibilité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les quatre règles sont les titres, le contraste, le texte alternatif et le langage clair.</p><p><em>À revoir : fiche 28, Diffuser au bon lecteur (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f28-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une police de couleur vive]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Des titres hiérarchisés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un texte alternatif pour les images]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 29 - Faire vivre et mesurer la veille</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q1 Quel indicateur est le plus convaincant devant une direction</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel indicateur est le plus convaincant devant une direction ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une veille utile se juge à sa capacité à faire décider.</p><p><em>À revoir : fiche 29, Faire vivre et mesurer la veille (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f29-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le nombre d&#x27;articles collectés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le nombre d&#x27;abonnements]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le nombre de décisions alimentées par la veille]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q2 Que se passe-t-il quand un correspondant ne reçoit jamais de</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que se passe-t-il quand un correspondant ne reçoit jamais de retour ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un réseau sans retour s&#x27;éteint en quelques mois.</p><p><em>À revoir : fiche 29, Faire vivre et mesurer la veille (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f29-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Il signale davantage]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Il cesse de signaler des informations]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rien ne change]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q3 Dans le dossier, que faire d&#x27;un indicateur impossible à mesu</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans le dossier, que faire d&#x27;un indicateur impossible à mesurer ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un chiffre inventé fait perdre plus de crédit qu&#x27;un indicateur honnêtement absent.</p><p><em>À revoir : fiche 29, Faire vivre et mesurer la veille (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f29-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le déclarer « non mesuré »]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Inventer une valeur plausible]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le supprimer sans le dire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 30 - Une recommandation exploitable</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q1 Une recommandation doit partir :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une recommandation doit partir :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le correcteur vérifie le lien avec un problème cité du dossier.</p><p><em>À revoir : fiche 30, Une recommandation exploitable (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f30-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D&#x27;une technologie à la mode]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[D&#x27;un problème de l&#x27;organisation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D&#x27;un outil gratuit]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q2 L&#x27;authentification multifacteur est, au sens du dossier :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>L&#x27;authentification multifacteur est, au sens du dossier :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle peut compter parmi vos cinq recommandations, comme mesure de base rattachée à la recommandation innovante qu&#x27;elle rend possible, mais jamais parmi les trois innovantes.</p><p><em>À revoir : fiche 30, Une recommandation exploitable (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f30-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une mesure de base]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une recommandation innovante]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une obligation de l&#x27;AI Act]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q3 Combien de recommandations le dossier demande-t-il au minimu</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de recommandations le dossier demande-t-il au minimum ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le dossier demande au moins cinq recommandations, dont au moins trois innovantes.</p><p><em>À revoir : fiche 30, Une recommandation exploitable (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f30-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Trois, toutes innovantes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dix, dont cinq innovantes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Cinq, dont au moins trois innovantes]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 31 - Chiffrer et prioriser</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q1 Une recommandation à forte valeur et faible effort est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une recommandation à forte valeur et faible effort est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>On la lance en premier.</p><p><em>À revoir : fiche 31, Chiffrer et prioriser (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f31-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un projet structurant]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un gain rapide]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À écarter]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q2 Un abonnement logiciel payé chaque année est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un abonnement logiciel payé chaque année est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Il revient chaque année.</p><p><em>À revoir : fiche 31, Chiffrer et prioriser (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f31-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un investissement]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un gain]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une dépense de fonctionnement]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q3 Pourquoi écrire toutes ses hypothèses de chiffrage ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi écrire toutes ses hypothèses de chiffrage ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un total sans détail ne convainc personne.</p><p><em>À revoir : fiche 31, Chiffrer et prioriser (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f31-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Pour que le lecteur puisse vérifier ou corriger le calcul]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pour allonger le dossier et montrer le travail fourni]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce que le RGPD l&#x27;exige pour tout document chiffré]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 32 - L&#x27;IA générative au service de la veille</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q1 Une IA vous donne une date de loi. Que faites-vous ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une IA vous donne une date de loi. Que faites-vous ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une IA n&#x27;est jamais une source.</p><p><em>À revoir : fiche 32, L&#x27;IA générative au service de la veille (cours, chapitre 7 et 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f32-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Vous la citez telle quelle, en précisant la date de votre question à l&#x27;IA]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Vous la vérifiez dans le texte officiel et citez ce texte]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Vous la citez sans source, puisqu&#x27;elle semble juste]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q2 Lequel de ces usages est interdit ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel de ces usages est interdit ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Aucune donnée réelle de patient dans un outil public.</p><p><em>À revoir : fiche 32, L&#x27;IA générative au service de la veille (cours, chapitre 7 et 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f32-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Faire traduire un rapport public]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Demander des mots-clés pour une alerte]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Coller un compte rendu de patient réel dans un assistant gratuit]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q3 Où déclare-t-on l&#x27;usage de l&#x27;IA dans le dossier D1 ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Où déclare-t-on l&#x27;usage de l&#x27;IA dans le dossier D1 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;annexe G liste les outils, les tâches, les résultats et les vérifications.</p><p><em>À revoir : fiche 32, L&#x27;IA générative au service de la veille (cours, chapitre 7 et 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f32-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Dans l&#x27;annexe G]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dans la conclusion]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Nulle part]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category><text>$course$/top/Veille S1 - QCM des fiches de révision/Fiche 33 - L&#x27;intersession et le contrôle</text></category>
+    <info format="html"><text></text></info>
+  </question>
+  <question type="multichoice">
+    <name><text>F33-Q1 Combien de séances de veille datées faut-il au minimum par p</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de séances de veille datées faut-il au minimum par période ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le dossier exige au moins deux séances datées dans chacune des trois périodes, inscrites au journal de veille (annexe C).</p><p><em>À revoir : fiche 33, L&#x27;intersession et le contrôle (cours, chapitre 11).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f33-q1</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Deux]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cinq]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F33-Q2 Au contrôle, l&#x27;information présentée doit être :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Au contrôle, l&#x27;information présentée doit être :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Gardez une information nouvelle par axe pendant les périodes 2 et 3.</p><p><em>À revoir : fiche 33, L&#x27;intersession et le contrôle (cours, chapitre 11).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f33-q2</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Déjà présente dans le dossier déposé]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Choisie parmi les exemples du cours]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Récente et absente du dossier déposé]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F33-Q3 Dans quel ordre présente-t-on une veille flash ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans quel ordre présente-t-on une veille flash ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ce sont les quatre temps notés au contrôle.</p><p><em>À revoir : fiche 33, L&#x27;intersession et le contrôle (cours, chapitre 11).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>veilleS1-f33-q3</idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La source primaire, le fait, l&#x27;action proposée, l&#x27;impact pour Medisecure et à qui]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le fait, la source primaire, l&#x27;impact pour Medisecure, l&#x27;action proposée et à qui]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;action proposée, le fait, la source, l&#x27;impact et la conclusion]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+</quiz>

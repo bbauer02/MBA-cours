@@ -1,0 +1,966 @@
+{
+  "day": 4,
+  "title": "Semaine S2 · Jour 4 · Risques data et IA, ateliers 3 à 5, continuité d'activité",
+  "first_number": 59,
+  "deroule": "Matin : diapositives 59 à 70 (chapitre 7, étude de document, puis chapitre 6, ateliers 3 à 5). Après-midi : diapositives 71 à 78 (chapitre 8) et lancement des cinq exercices sur Medisecure : vulnérabilités data et IA, ateliers 3, 4 et 5, grille d'impact.",
+  "slides": [
+    {
+      "pattern": "cover",
+      "kicker": "UE2 · Semaine S2 · Systèmes d'information, cartographie et risques",
+      "title": "Risques data et IA, fin de l'analyse de risques, continuité",
+      "subtitle": "Repérer les vulnérabilités des données et de l'IA, terminer EBIOS Risk Manager avec les ateliers 3 à 5, puis confronter les besoins de continuité à la réalité du SI.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Bonjour à toutes et à tous. Hier, vous avez posé vos échelles et conduit les deux premiers ateliers d'EBIOS Risk Manager : vous savez ce que vous protégez et qui pourrait attaquer. Aujourd'hui, nous allons au bout de l'analyse de risques, et nous ouvrons un second chantier, la continuité d'activité."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "La journée a trois temps. D'abord le volet cybersécurité de la semaine : les vulnérabilités propres aux données et à l'intelligence artificielle, c'est le chapitre 7. Ensuite la fin du chapitre 6, avec les ateliers 3, 4 et 5. Enfin le chapitre 8, l'analyse d'impact sur l'activité. Ces trois blocs préparent quatre éléments de la grille du D2, de E12 à E15. C'est une journée dense, et c'est la dernière journée de méthode sur les risques avant l'intersession. Gardez le cours ouvert : les tableaux Kestrel que je vais montrer y figurent en entier."
+        }
+      ]
+    },
+    {
+      "pattern": "steps",
+      "kicker": "Programme de la journée",
+      "title": "Le matin, la menace et les décisions ; l'après-midi, la reprise",
+      "minutes": 2,
+      "steps": [
+        {
+          "head": "Chapitre 7",
+          "body": "Vulnérabilités data et IA"
+        },
+        {
+          "head": "Étude",
+          "body": "Une fuite sans attaque"
+        },
+        {
+          "head": "Ateliers 3 à 5",
+          "body": "Écosystème, scénarios, traitement"
+        },
+        {
+          "head": "Chapitre 8",
+          "body": "Impact sur l'activité"
+        },
+        {
+          "head": "Exercices",
+          "body": "Cinq ateliers Medisecure"
+        }
+      ],
+      "highlight": [
+        4
+      ],
+      "cards": [
+        {
+          "tag": "Matin · diapositives 61 à 70",
+          "head": "Théorie et exemple Kestrel",
+          "body": "Chapitre 7 et étude de document, puis chapitre 6 : ateliers 3, 4 et 5 d'EBIOS Risk Manager. Méthode et exemple Kestrel, pas encore Medisecure."
+        },
+        {
+          "tag": "Après-midi · diapositives 71 à 78",
+          "head": "Chapitre 8, puis ateliers",
+          "body": "Analyse d'impact sur l'activité, puis lancement de cinq exercices sur Medisecure : vulnérabilités data et IA, ateliers 3 à 5, grille d'impact."
+        },
+        {
+          "tag": "Dossier D2",
+          "head": "Sections 3.4 à 3.6 et partie 4",
+          "body": "Éléments E12 à E15, annexes E et F ; usage hors inventaire de l'annexe A (E5). Chaque cote, chaque écart et chaque mesure s'appuient sur un fait sourcé.",
+          "fill": "pet"
+        }
+      ],
+      "notes": [
+        {
+          "cue": "Frise des cinq étapes",
+          "text": "Voici le programme. Ce matin, nous commençons par le chapitre 7, les vulnérabilités des infrastructures de données et des systèmes d'IA. Nous le terminons par une étude de document : une fuite de données de santé qui n'a demandé aucune attaque. Puis nous reprenons l'étude Kestrel du chapitre 6 là où nous l'avions laissée hier, avec les ateliers 3, 4 et 5."
+        },
+        {
+          "cue": "Carte « Matin »",
+          "text": "Le matin reste théorique, comme toute la semaine. Je vous montre la méthode et l'exemple Kestrel ; vous ne travaillez pas encore sur Medisecure. Prenez des notes sur la manière de justifier chaque cote : c'est ce qui fera la différence dans votre dossier."
+        },
+        {
+          "cue": "Carte « Après-midi », étape orange et bandeau",
+          "text": "L'après-midi, nous voyons le chapitre 8, l'analyse d'impact sur l'activité, puis je lance cinq exercices sur Medisecure : les vulnérabilités data et IA, les ateliers 3, 4 et 5, et la grille d'impact. Vous ne les terminerez pas cet après-midi : additionnées, les durées indicatives du cours font environ quatorze heures et demie. L'objectif est de les démarrer tous, de poser vos tableaux, et de repartir avec une liste claire de ce qui reste à faire pendant l'intersession. N'oubliez pas non plus la seconde partie de l'exercice du chapitre 4, la vue physique : le chapitre 0 la prévoit aujourd'hui, commencez au moins à la dessiner."
+        },
+        {
+          "cue": "Carte sombre « Dossier D2 »",
+          "text": "Côté dossier, la journée couvre les sections 3.4, 3.5 et 3.6 de la partie analyse de risques, et la partie 4 sur les besoins de continuité. Ce sont les éléments E12, E13, E14 et E15, avec les annexes E et F. Le chapitre 7 touche aussi l'annexe A, pour l'usage hors inventaire, qui relève de E5."
+        }
+      ],
+      "note": "Cinq exercices, environ quatorze heures et demie de travail : on les lance tous aujourd'hui, on les termine pendant l'intersession."
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 7",
+      "title": "Les vulnérabilités des infrastructures data et IA",
+      "subtitle": "Repérer les faiblesses des bases, des flux, des exports et des usages d'IA, les nommer avec les référentiels, les inscrire dans la cartographie et en tirer un scénario opérationnel.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Ouvrons le chapitre 7. C'est le volet cybersécurité de la semaine, et il ne reprend pas la veille. En S1, vous avez appris à qualifier une alerte : le score de gravité CVSS, le catalogue KEV de la CISA, le score EPSS, l'IA fantôme. Si ces notions vous semblent floues, relisez le chapitre 7 du cours de la S1. Ici, on change de question."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "La veille demandait : quelles vulnérabilités sont publiées ? L'analyse de risques demande : où sont les faiblesses de ce SI-là, et comment un attaquant les enchaînerait-il ? À la fin de ce chapitre, vous saurez repérer ces faiblesses dans les données et dans l'IA, les nommer avec les référentiels, les inscrire dans la cartographie et en tirer un scénario opérationnel. C'est exactement ce que demande la condition b de l'élément E13."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 7 · L'infrastructure de données",
+      "title": "Chaque copie d'une donnée est un bien support à part entière",
+      "minutes": 2.5,
+      "fig": "c07-surface-data-ia",
+      "side": {
+        "head": "Infrastructure de données",
+        "body": [
+          "Tout ce qui stocke, transporte, transforme ou expose des données hors du cœur des applications : bases partagées, pipelines, API, exports, stockage objet, outils décisionnels.",
+          "Chaque élément hérite de la sensibilité des données qu'il porte."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Partons d'un constat. Le Panorama de la cybermenace 2025 de l'ANSSI relève la progression des incidents avec exfiltration de données. Or une donnée ne vit pas seulement dans l'application qui la crée. Elle existe en plusieurs exemplaires, et elle circule."
+        },
+        {
+          "cue": "Schéma, de gauche à droite",
+          "text": "Le schéma suit le trajet d'une donnée. Elle naît dans des sources : applications métier, appareils connectés, API d'un partenaire. Une API, c'est une interface d'échange automatique entre logiciels. La donnée est ensuite collectée par un pipeline, un export CSV ou une API, puis stockée dans une base, un stockage objet ou un entrepôt. Elle peut être traitée par un modèle d'IA, restituée dans un tableau de bord, et consultée par des utilisateurs. Chaque éclair rouge marque un point de vulnérabilité. Regardez le dernier : la flèche en pointillés vers un service d'IA grand public. C'est un flux que personne n'a inventorié."
+        },
+        {
+          "cue": "Carte de droite « Infrastructure de données »",
+          "text": "D'où la définition du cours. L'infrastructure de données regroupe tout ce qui stocke, transporte, transforme ou expose des données en dehors du cœur des applications. Le point important est dans la deuxième phrase : chaque élément est un bien support, et il hérite de la sensibilité des données qu'il porte, même s'il n'est pas considéré comme une application. Une copie d'un fichier patients dans un tableur est aussi sensible que la base d'origine, et généralement bien moins protégée. Une question pour vous : dans votre entreprise d'alternance, combien de copies existe-t-il de votre fichier clients ?"
+        },
+        {
+          "cue": "Retour au titre",
+          "text": "Gardez cette phrase en tête toute la matinée. La veille regarde ce qui est publié ; l'analyse de risques regarde ce SI-là, avec ses copies, ses exports et ses usages. C'est pour cela que le chapitre parle d'infrastructure de données, et pas seulement d'applications. Un pipeline d'intégration, un dossier partagé où l'on dépose des exports, un tableau de bord alimenté chaque nuit sont autant d'objets à dessiner. S'ils manquent sur votre vue applicative, ils manqueront aussi dans votre analyse de risques."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 7 · Les vulnérabilités des données",
+      "title": "Sept familles de faiblesses, rarement publiées avec un CVE",
+      "minutes": 3,
+      "header": [
+        "Vulnérabilité",
+        "Ce qu'on observe",
+        "Critère atteint",
+        "Où la repérer"
+      ],
+      "widths": [
+        1.3,
+        2.4,
+        1.4,
+        2.4
+      ],
+      "rows": [
+        [
+          "Droits trop larges",
+          "Un compte technique unique peut tout lire, modifier, supprimer",
+          "Confidentialité, intégrité",
+          "Vue de l'administration ; base partagée"
+        ],
+        [
+          "Données en clair",
+          "Sauvegardes et exports hors du chiffrement",
+          "Confidentialité",
+          "Matrice des flux ; sauvegardes"
+        ],
+        [
+          "Absence de journalisation",
+          "Impossible de savoir ce qui a été copié",
+          "Traçabilité",
+          "Inventaire de l'infrastructure ; socle"
+        ],
+        [
+          "Dette de dépendances",
+          "Bibliothèques non figées ou hors support",
+          "Disponibilité, intégrité, confidentialité",
+          "Inventaire applicatif (état du support)"
+        ],
+        [
+          "Fuite par export",
+          "CSV déposé, envoyé, jamais supprimé",
+          "Confidentialité",
+          "Matrice des flux (flux manuels)"
+        ],
+        [
+          "Injection",
+          "Saisie insérée sans contrôle dans une requête",
+          "Intégrité, confidentialité",
+          "Inventaire applicatif (développement interne)"
+        ],
+        [
+          "Stockage mal configuré",
+          "Conteneur public, base ouverte sans mot de passe",
+          "Confidentialité",
+          "Vue des infrastructures logiques"
+        ]
+      ],
+      "note": "ces faiblesses se découvrent en lisant la cartographie : notez la protection de chaque flux, même quand elle vaut « aucune ».",
+      "note_style": "dossier",
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Sept familles de vulnérabilités reviennent dans presque tous les audits. Le titre résume leur point commun : ce sont rarement des failles publiées avec un numéro CVE. Ce sont des faiblesses de conception, de configuration ou d'organisation. C'est pourquoi la veille seule ne les détecte pas. Et elles se combinent : c'est leur combinaison qui rend un scénario vraisemblable."
+        },
+        {
+          "cue": "Trois premières lignes",
+          "text": "Premièrement, les droits trop larges. Une application se connecte souvent à sa base avec un compte unique qui peut tout lire, tout modifier, tout supprimer. Si plusieurs applications partagent la base, elles partagent souvent ce compte : compromettre la moins protégée donne accès à toutes les données. Deuxièmement, les données en clair : une base chiffrée sur disque peut voyager en clair sur le réseau, et les sauvegardes et les exports échappent souvent au chiffrement. Troisièmement, l'absence de journalisation. Sans journaux des accès, on ne sait pas ce qui a été copié : on ne peut ni mesurer une fuite, ni informer les personnes, ni répondre à la CNIL. Le principe de moindre privilège, qui veut que chaque compte n'ait que les droits strictement nécessaires, est simple à énoncer et rarement appliqué aux comptes techniques."
+        },
+        {
+          "cue": "Quatre lignes suivantes",
+          "text": "La dette de dépendances, ce sont des bibliothèques dont les versions ne sont pas figées, ou qui sont hors support et ne seront jamais corrigées. La fuite par export : un CSV déposé sur un partage, envoyé par courriel, ouvert dans un tableur, sans date d'expiration. L'injection, connue depuis plus de vingt ans, figure toujours dans le Top 10 des risques des applications web de l'OWASP. Enfin le stockage mal configuré : un conteneur public, une base ouverte sur Internet. Aucune attaque sophistiquée n'est nécessaire, car des moteurs de recherche spécialisés indexent en permanence les services exposés."
+        },
+        {
+          "cue": "Colonne « Où la repérer » et bandeau",
+          "text": "Regardez maintenant la dernière colonne, c'est elle qui compte pour vous. Chaque faiblesse se lit dans une pièce de votre cartographie : la vue de l'administration, la matrice des flux, l'inventaire applicatif, la vue des infrastructures logiques. Si votre annexe B note la protection de chaque flux, même quand elle vaut « aucune », les fuites par export apparaissent d'elles-mêmes. Les avis du CERT-FR restent utiles pour les composants, comme un moteur de base de données ; le reste se découvre en lisant la cartographie. Chez Kestrel, vous allez voir dans un instant trois de ces familles se combiner sur une seule application : des lectures non journalisées, un export sans limite et un compte applicatif aux droits trop larges."
+        }
+      ],
+      "maxs": 18
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 7 · Les systèmes d'IA",
+      "title": "Chaque partie d'un système d'IA peut être attaquée",
+      "minutes": 3,
+      "header": [
+        "Attaque",
+        "Phase visée",
+        "Ce qui est atteint"
+      ],
+      "widths": [
+        2.2,
+        1.5,
+        2.1
+      ],
+      "rows": [
+        [
+          "Empoisonnement des données",
+          "Données, entraînement",
+          "Intégrité du modèle"
+        ],
+        [
+          "Évasion",
+          "Production",
+          "Intégrité des décisions"
+        ],
+        [
+          "Extraction, inversion de modèle",
+          "Production",
+          "Confidentialité du modèle ou des données d'entraînement"
+        ],
+        [
+          "Injection de prompt",
+          "Production (LLM)",
+          "Intégrité, confidentialité"
+        ],
+        [
+          "Fuite de données d'entraînement",
+          "Production (LLM)",
+          "Confidentialité"
+        ],
+        [
+          "Chaîne d'approvisionnement",
+          "Développement",
+          "Tous critères"
+        ],
+        [
+          "IA fantôme",
+          "Usage",
+          "Confidentialité, conformité"
+        ]
+      ],
+      "side": {
+        "tag": "Les référentiels",
+        "head": "Nommer avec un vocabulaire partagé",
+        "body": [
+          "OWASP Top 10 for LLM Applications (grands modèles de langage), édition 2026 : rangs à vérifier.",
+          "MITRE ATLAS : tactiques et techniques, pour l'atelier 4.",
+          "ANSSI, IA générative, 29 avril 2024.",
+          "ENISA, 2020 et 2023 : l'hygiène d'abord."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Passons à l'IA. Un système d'IA n'est pas seulement un modèle. Le règlement européen sur l'intelligence artificielle le définit, à son article 3, comme un système automatisé qui déduit de ses entrées la manière de générer des prédictions, du contenu, des recommandations ou des décisions. Pour l'analyse de risques, retenez qu'il comprend ses données, son modèle, son infrastructure et les outils par lesquels on l'utilise. Chacun est un bien support."
+        },
+        {
+          "cue": "Quatre premières lignes du tableau",
+          "text": "L'empoisonnement vise l'entraînement : des données fausses ou orientées modifient le comportement du modèle. Un modèle de tri d'alertes entraîné sur un historique où des alertes graves ont été classées sans suite apprendrait à les ignorer. Et des données de mauvaise qualité produisent le même effet, sans attaquant. L'évasion vise le modèle en production, avec une entrée légèrement modifiée. L'extraction reconstitue un modèle en l'interrogeant massivement par son API ; l'inversion et l'inférence d'appartenance retrouvent des informations sur les données d'entraînement. L'injection de prompt, enfin, est l'attaque emblématique de l'IA générative : un grand modèle de langage, un LLM, ne distingue pas de façon fiable les instructions de son concepteur et le contenu qu'il traite. Une instruction cachée dans un courriel ou un document peut le détourner."
+        },
+        {
+          "cue": "Trois dernières lignes",
+          "text": "La fuite de données d'entraînement : un modèle peut restituer mot pour mot des fragments de ce sur quoi il a été entraîné ou ajusté. La chaîne d'approvisionnement : certains formats de fichiers de modèles exécutent du code au chargement, et des chercheurs signalent des modèles piégés sur des plateformes publiques depuis 2024. L'IA fantôme, vue en S1, reste la vulnérabilité IA la plus fréquente dans les organisations qui n'ont aucun projet d'IA."
+        },
+        {
+          "cue": "Carte sombre des référentiels",
+          "text": "Pour nommer ces attaques, quatre référentiels. Le Top 10 de l'OWASP pour les applications LLM, édition 2026, publiée début août 2026 : l'injection de prompt reste au premier rang, et la capacité d'agir excessive monte au troisième. Ce classement vient de sources secondaires concordantes : vérifiez-le sur le site du projet avant de citer un numéro. MITRE ATLAS range les attaques en tactiques et en techniques, et vous servira à l'atelier 4. L'ANSSI a publié le 29 avril 2024 ses recommandations pour un système d'IA générative. L'ENISA rappelle que la sécurité de l'IA s'ajoute à l'hygiène classique, elle ne la remplace pas."
+        }
+      ],
+      "maxs": 18
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 7 · Exemple Kestrel",
+      "title": "SO4 : le portail B2B offre le chemin le plus faible, coté V3",
+      "minutes": 3.5,
+      "fig": "c07-graphe-attaque-kestrel",
+      "side": {
+        "head": "Vraisemblance V3",
+        "body": [
+          "Par le portail B2B, indice cumulé 3 ; par Django 3.2, hors support, 2.",
+          "La cote repose sur des hypothèses du registre (H12, H13, H14, H18) : sans H12 et H13, elle tombe à V2.",
+          "Les ciseaux : les deux volets de la mesure M13."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Voyons comment Romain Chevalier, responsable de l'infrastructure de Kestrel et RSSI à temps partiel, c'est-à-dire responsable de la sécurité des systèmes d'information, applique tout cela. Il part de la donnée la plus sensible en volume : nom, adresse et téléphone des destinataires, environ 2,5 millions de livraisons par an, dans la base PostgreSQL d'APP-03 Kestrel Track. Il relève des faits de la fiche, comme Django 3.2, hors support depuis avril 2024, et trois constats d'entretien qu'il écrit comme hypothèses : H12, comptes du portail B2B protégés par un simple mot de passe ; H13, export CSV sans limite de volume ni journal ; H15, un planificateur qui a collé un extrait du fichier des tournées dans un assistant d'IA gratuit. Il ajoute une hypothèse sur la base elle-même, H18 : aucune journalisation des lectures. Puis il les inscrit dans la cartographie : l'export devient un flux manuel, l'assistant d'IA un usage hors inventaire."
+        },
+        {
+          "cue": "Graphe, colonnes Connaître et Rentrer",
+          "text": "Le scénario part de SS4, issu du couple SR3 : un cybercriminel veut revendre des données de destinataires, par exemple à ceux qui mènent des campagnes de SMS frauduleux du type « votre colis est en attente ». Pour connaître, il repère le portail public et sa version, et recense les contacts logistiques des e-commerçants. Pour rentrer, deux chemins : la faille de Django, ou l'hameçonnage d'un compte client du portail B2B."
+        },
+        {
+          "cue": "Colonnes Trouver et Exploiter, étiquettes Pr",
+          "text": "Pour trouver, le compte client donne l'export CSV ; l'accès au serveur donne la base, lue par un compte aux droits complets, hypothèse H14. Pour exploiter, il extrait par petits lots, et rien ne le signale. Regardez les étiquettes de probabilité : par le portail, l'indice cumulé vaut 3 ; par Django, 2. L'attaquant prend le meilleur chemin, et ce chemin ne demande aucune compétence particulière. Romain retient donc V3, très vraisemblable, la cote de SO4."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "Et il écrit la phrase la plus importante : si H12 et H13 se révélaient fausses, la cote tomberait à V2. Une cote qui repose sur une hypothèse doit le dire. Les ciseaux sur le graphe montrent où une seule mesure coupe le chemin : l'authentification multifacteur du portail, puis la limitation et la journalisation des exports, les deux volets de M13. Vous voyez l'atelier 5 se préparer."
+        },
+        {
+          "cue": "Retour au titre",
+          "text": "Un mot enfin sur l'IA. Le même raisonnement s'applique à l'IA fantôme, qui est d'abord une vulnérabilité. Un attaquant repère sur les réseaux professionnels des salariés qui disent utiliser un assistant grand public, compromet le compte personnel de l'un d'eux grâce à un mot de passe réutilisé, parcourt l'historique des conversations et en extrait les données. La vraisemblance se justifie alors par un fait mesuré, comme un volume de connexions vers ces services relevé par le pare-feu. Un usage simplement négligent, sans attaquant, relève plutôt du socle de sécurité et de la cartographie."
+        }
+      ]
+    },
+    {
+      "pattern": "study",
+      "kicker": "Chapitre 7 · Étude de document",
+      "title": "Une fuite sans attaque : la copie de migration oubliée",
+      "minutes": 2.5,
+      "source": "Document · cas réel résumé pour le cours (CNIL et Comité européen de la protection des données, avril 2022 ; presse spécialisée, 2022) · résumé",
+      "document": [
+        "23 février 2021 : un fichier de près de 500 000 patients de laboratoires de biologie médicale circule sur Internet (identité, coordonnées, numéro de sécurité sociale, parfois informations médicales). Point commun : un logiciel de Dedalus Biologie.",
+        "Selon la CNIL, la fuite vient d'opérations de migration : extraction plus large que nécessaire, aucune procédure spécifique, données non chiffrées sur le serveur, aucune suppression automatique après la migration.",
+        "15 avril 2022 : amende de 1,5 million d'euros. L'éditeur est sanctionné comme sous-traitant ; ses contrats ne comportaient pas les clauses imposées par le RGPD."
+      ],
+      "questions": [
+        "Quelles familles de vulnérabilités du chapitre retrouvez-vous ? Justifiez chacune par un fait.",
+        "Pourquoi une copie de migration échappe-t-elle aux protections de la base d'origine ? Comment une cartographie des flux l'aurait-elle rendue visible ?",
+        "Le sous-traitant est sanctionné : qu'en déduire quand on confie une migration ou un hébergement à un tiers ?",
+        "Dans votre entreprise, quelles copies de production existent, et quand seront-elles détruites ?"
+      ],
+      "notes": [
+        {
+          "cue": "Document de gauche",
+          "text": "Je vous propose l'étude de document qui clôt le chapitre 7. C'est un cas réel, résumé à partir de la communication de la CNIL et du Comité européen de la protection des données, et de la presse spécialisée. L'écran n'en montre qu'un résumé : prenez cinq minutes pour lire le document complet dans le cours, puis les quatre questions."
+        },
+        {
+          "cue": "Questions 1 et 2",
+          "text": "Nous faisons ensuite un tour de table rapide, deux ou trois voix par question. Pour la première, j'attends au moins trois familles du chapitre, chacune avec son fait : la fuite par export, avec une extraction plus large que nécessaire et jamais supprimée ; les données en clair, puisque les données du serveur n'étaient pas chiffrées ; et le stockage mal configuré, celui du serveur oublié après une migration que décrit le chapitre. Pour la deuxième, l'idée à faire émerger est simple : une copie technique préparée pour un projet légitime n'a ni les droits, ni le chiffrement, ni la durée de conservation de la base d'origine. Une matrice des flux qui note les flux manuels et leur protection l'aurait rendue visible. Certains citeront aussi l'absence de procédure encadrant les migrations : c'est une faiblesse d'organisation, et le chapitre rappelle que ces faiblesses-là n'apparaissent dans aucun avis de sécurité."
+        },
+        {
+          "cue": "Questions 3 et 4",
+          "text": "La troisième question porte sur la responsabilité. La CNIL a sanctionné l'éditeur comme sous-traitant, 1,5 million d'euros, et relevé que ses contrats ne comportaient pas les clauses que le RGPD impose. Confier une migration ou un hébergement à un tiers ne fait pas disparaître le risque : il le déplace dans l'écosystème, ce qui nous mène tout droit à l'atelier 3. La dernière question est pour vous : quelles copies de production existent dans votre entreprise pour des tests ou des analyses, et qui sait quand elles seront détruites ? Notez vos réponses : elles vous serviront dans l'exercice de cet après-midi. Je ne donne pas de corrigé : le but est que vous sachiez reconnaître ces familles dans un texte qui ne les nomme pas."
+        }
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 6 (suite)",
+      "title": "EBIOS Risk Manager : ateliers 3, 4 et 5",
+      "subtitle": "Évaluer la menace de l'écosystème, détailler les modes opératoires et coter leur vraisemblance, puis décider : mesures, risques résiduels et acceptation explicite.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Revenons au chapitre 6. Hier, l'étude Kestrel s'est arrêtée à la fin de l'atelier 2 : six événements redoutés, de ER1 à ER6, et trois couples source de risque et objectif visé retenus, SR1, SR2 et SR3."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "Les trois ateliers qui restent répondent à trois questions. Par quels chemins, y compris par l'écosystème ? C'est l'atelier 3. Comment, concrètement, et avec quelle facilité ? C'est l'atelier 4. Et que décide-t-on ? C'est l'atelier 5. Vous allez voir les résultats d'un atelier devenir les entrées du suivant : c'est ce fil qui fait la solidité de votre partie 3."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 6 · Atelier 3 · Scénarios stratégiques",
+      "title": "Seul l'éditeur de RoutePro est en zone de danger",
+      "minutes": 3,
+      "header": [
+        "Partie prenante (extrait)",
+        "Dépendance × pénétration",
+        "Maturité × confiance",
+        "Menace",
+        "Zone"
+      ],
+      "widths": [
+        2.6,
+        1.4,
+        1.3,
+        0.9,
+        1.2
+      ],
+      "rows": [
+        [
+          "PP-05 Éditeur de RoutePro",
+          "4 × 4",
+          "2 × 2",
+          "4",
+          "Danger"
+        ],
+        [
+          "PP-14 Sous-traitants du dernier kilomètre",
+          "3 × 2",
+          "1 × 2",
+          "3",
+          "Contrôle"
+        ],
+        [
+          "PP-19 Prestataires disposant d'un accès VPN",
+          "2 × 3",
+          "2 × 2",
+          "1,5",
+          "Contrôle"
+        ],
+        [
+          "PP-08 Hébergeur cloud de Kestrel Track",
+          "3 × 3",
+          "3 × 3",
+          "1",
+          "Contrôle"
+        ],
+        [
+          "PP-20 Fournisseurs payés par virement",
+          "2 × 1",
+          "1 × 2",
+          "1",
+          "Contrôle"
+        ],
+        [
+          "PP-04 Prestataire EDI",
+          "4 × 2",
+          "3 × 3",
+          "0,89",
+          "Veille"
+        ],
+        [
+          "PP-07 Fabricant des boîtiers",
+          "2 × 1",
+          "3 × 3",
+          "0,22",
+          "Hors périmètre"
+        ]
+      ],
+      "fills": [
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk4"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          "risk1"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "side": {
+        "tag": "Fiche méthode de l'ANSSI",
+        "head": "Menace = (D × P) / (M × C)",
+        "body": [
+          "Chaque critère est coté de 1 à 4.",
+          "Seuils de Kestrel : danger au-dessus de 3 ; contrôle de 1 à 3 ; veille de 0,5 à moins de 1.",
+          "Scénarios : SS1 et SS2 rançongiciel (G4), SS3 fraude (G3), SS4 vol de données (G3)."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "L'atelier 3 prend en compte l'écosystème. Les attaquants passent de plus en plus par un prestataire, un éditeur ou un partenaire moins protégé que la cible. On évalue donc chaque partie prenante avec quatre critères. La dépendance et la pénétration dans le SI augmentent la menace : ce sont les critères d'exposition. La maturité cyber et la confiance l'atténuent : ce sont les critères de fiabilité."
+        },
+        {
+          "cue": "Carte sombre, formule et seuils",
+          "text": "La fiche méthode de l'ANSSI propose une formule générique : dépendance fois pénétration, divisé par maturité fois confiance, chaque critère coté de 1 à 4. Kestrel a fixé ses seuils : zone de danger au-dessus de 3, contrôle de 1 à 3, veille de 0,5 à moins de 1, hors périmètre en dessous. Il a aussi écrit une règle pour traduire en chiffres la dépendance notée sur la vue de l'écosystème : forte vaut 4 ; moyenne vaut 3 si un arrêt du partenaire interrompt dans la journée une activité de réalisation, 2 sinon ; faible vaut 1. Le tableau n'en montre que sept sur les dix parties prenantes évaluées ; la liste complète est dans le cours."
+        },
+        {
+          "cue": "Tableau, première ligne",
+          "text": "Regardez la première ligne. PP-05, l'éditeur de RoutePro : dépendance 4, pénétration 4 avec son accès VPN permanent, maturité 2, confiance 2. Seize divisé par quatre, niveau 4 : zone de danger, la seule. Le groupe ne peut pas s'en séparer, puisque RoutePro porte la planification des tournées. Il agit donc sur les critères : un accès ouvert à la demande, nominatif, avec authentification multifacteur, et un avenant au contrat. La pénétration passe à 2, la confiance à 3, et la menace tombe à environ 1,3 : zone de contrôle."
+        },
+        {
+          "cue": "Bas du tableau, puis bas de la carte",
+          "text": "En bas, le fabricant des boîtiers, à 0,22, est hors périmètre. Les parties prenantes en zones de danger et de contrôle sont dites critiques : elles doivent entrer dans les scénarios stratégiques. Kestrel en construit quatre : SS1, rançongiciel par l'éditeur de RoutePro ; SS2, rançongiciel par la passerelle VPN ; SS3, fraude au faux fournisseur ; SS4, vol des données des destinataires. Chaque scénario reprend la gravité de son événement redouté le plus grave : G4 pour les deux rançongiciels, G3 pour les deux autres. On ne cote pas encore la vraisemblance : c'est le rôle de l'atelier 4. Les trois autres parties prenantes critiques ont aussi été examinées : PP-19 est rattachée à SS1 comme chemin secondaire, PP-14 mène à ER6, de gravité G2, traité par une mesure sur l'écosystème, et PP-08 est retenue comme variante de SS4."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 6 · Atelier 4 · Scénarios opérationnels",
+      "title": "SO1 : sept actions, un maillon faible, une vraisemblance V3",
+      "minutes": 3,
+      "fig": "c06-graphe-attaque-kestrel",
+      "side": {
+        "head": "Coter la vraisemblance",
+        "body": [
+          "Connaître, rentrer, trouver, exploiter : chaque action nomme un bien support.",
+          "Méthode standard : à chaque étape, le minimum entre l'action et le meilleur cumul qui y mène.",
+          "SO1 : V3 ; quatre cotes reposent sur H3, H8, H9 et H16.",
+          "Méthode expresse : SO2 V2, SO3 V3, SO4 V3."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "L'atelier 4 descend au niveau du mode opératoire. Un scénario opérationnel est une suite d'actions élémentaires sur des biens supports, organisée en quatre phases : connaître, rentrer, trouver, exploiter. Voici SO1, le détail de SS1, le rançongiciel par l'éditeur de RoutePro."
+        },
+        {
+          "cue": "Graphe, de gauche à droite",
+          "text": "L'attaquant repère en sources ouvertes que l'éditeur de RoutePro compte Kestrel parmi ses clients, hypothèse H8. Il hameçonne un technicien de l'éditeur et vole ses identifiants VPN ; l'achat d'identifiants sur un forum criminel est un mode alternatif, en gris, moins probable. Il se connecte par l'accès permanent de l'éditeur. Il explore un réseau du siège supposé plat, hypothèse H3, obtient un compte d'administration, localise le NAS de sauvegarde, supprime les sauvegardes, puis chiffre les 12 machines virtuelles un dimanche à 3 h. Chaque boîte nomme un bien support de la cartographie : PP-05, SEC-01, SRV-01 et SRV-02, STO-01. La dernière boîte mène à l'hexagone rouge : ER2, livraisons arrêtées sur tout le réseau plus de 3 jours, gravité G4."
+        },
+        {
+          "cue": "Carte de droite, méthode standard",
+          "text": "Comment coter ? La méthode standard cote la probabilité de succès de chaque action de 1 à 4, puis combine. À chaque étape, l'indice cumulé est le plus petit entre l'action elle-même et le meilleur indice des étapes qui y mènent. Une chaîne vaut son maillon le plus faible, et l'attaquant choisit le meilleur chemin. Ici, le maillon faible est l'hameçonnage, coté 3 parce qu'il vise une personne précise : SO1 vaut V3, très vraisemblable. Sept actions, c'est moins que la dizaine au-delà de laquelle la fiche conseille de baisser d'un niveau."
+        },
+        {
+          "cue": "Bas de la carte",
+          "text": "Quatre cotes reposent sur des hypothèses, H3, H8, H9 et H16 : leur vérification est inscrite au plan d'action. Une hypothèse fausse changerait la vraisemblance, c'est pourquoi on l'écrit. Les trois autres scénarios sont cotés avec la méthode expresse : SO2 par la passerelle VPN, V2 ; SO3, le faux fournisseur, V3 ; SO4, que vous avez vu ce matin, V3. Pour votre dossier, l'une ou l'autre méthode suffit, pourvu que la cote soit justifiée par des vulnérabilités sourcées. Et méfiez-vous d'une cote sans fait : écrire « l'attaquant exploite une faille » ne prouve rien ; écrire « l'accès est permanent, sans authentification multifacteur, hypothèse H9 » rend l'étape crédible."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 6 · Atelier 5 · Traitement du risque",
+      "title": "14 mesures, quatre résiduels, R4 accepté temporairement",
+      "minutes": 3,
+      "header": [
+        "Risque",
+        "Initial",
+        "Mesures",
+        "Résiduel",
+        "Décision"
+      ],
+      "widths": [
+        2.2,
+        1.1,
+        1.2,
+        1.4,
+        2.0
+      ],
+      "rows": [
+        [
+          "R1 Rançongiciel par l'éditeur de RoutePro",
+          "G4 V3 Critique",
+          "M1 à M4, M11",
+          "G3 V1 Moyen",
+          "Accepté par le comité de direction"
+        ],
+        [
+          "R2 Rançongiciel par la passerelle VPN",
+          "G4 V2 Critique",
+          "M3 à M6, M11",
+          "G3 V1 Moyen",
+          "Accepté par le comité de direction"
+        ],
+        [
+          "R3 Fraude au faux fournisseur",
+          "G3 V3 Élevé",
+          "M3, M7, M8",
+          "G3 V1 Moyen",
+          "Accepté par le comité de direction"
+        ],
+        [
+          "R4 Vol des données des destinataires",
+          "G3 V3 Élevé",
+          "M13, M10, puis M9",
+          "G3 V2 Élevé, puis G3 V1 Moyen",
+          "Accepté temporairement, jusqu'à la migration (M9)"
+        ]
+      ],
+      "fills": [
+        [
+          null,
+          "risk4",
+          null,
+          "risk2",
+          null
+        ],
+        [
+          null,
+          "risk4",
+          null,
+          "risk2",
+          null
+        ],
+        [
+          null,
+          "risk3",
+          null,
+          "risk2",
+          null
+        ],
+        [
+          null,
+          "risk3",
+          null,
+          "risk3",
+          null
+        ]
+      ],
+      "side": {
+        "tag": "Quatre types de mesures",
+        "head": "M1 à M14",
+        "body": [
+          "Gouvernance : M2, M7, M8, M12",
+          "Protection : M1, M3, M5, M9, M10, M13, M14",
+          "Défense : M6",
+          "Résilience : M4, M11"
+        ]
+      },
+      "note": "un risque accepté sans trace écrite est un risque ignoré : motif, instance, mesure compensatoire, date de réexamen.",
+      "note_style": "warn",
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "L'atelier 5 est celui de la décision. Chaque scénario devient un risque : sa gravité vient du scénario stratégique, sa vraisemblance du scénario opérationnel. Placés sur la matrice du chapitre 5, R1 et R2 sont critiques, R3 et R4 élevés. Aucun n'est sous le seuil d'acceptation : tous doivent être traités. La stratégie de traitement attribue ensuite à chacun une option : réduire, transférer, éviter ou accepter. Pour R1 et R2, Kestrel réduit, et met un transfert à l'étude avec l'assurance cyber."
+        },
+        {
+          "cue": "Carte de droite, quatre types",
+          "text": "Kestrel propose quatorze mesures, de M1 à M14, classées en quatre types. Les mesures de gouvernance organisent : l'avenant au contrat de l'éditeur, le contre-appel avant tout changement de coordonnées bancaires, la sensibilisation, l'étude d'une assurance cyber, qui est un transfert. Les mesures de protection empêchent ou compliquent l'attaque : l'authentification multifacteur, la règle de correction en 48 heures, la migration de Django. La défense détecte : M6 centralise les journaux de la passerelle VPN et de l'annuaire. La résilience limite les conséquences : M4, une copie de sauvegarde isolée hors du site, restaurée chaque trimestre, et M11, le mode dégradé écrit. Chaque mesure a une fonction responsable ; le chiffrage relève du D3."
+        },
+        {
+          "cue": "Colonne « Résiduel »",
+          "text": "Une mesure de protection ou de défense fait baisser la vraisemblance ; une mesure de résilience fait souvent baisser la gravité. C'est ce que montre R1 : de G4 V3 à G3 V1. La vraisemblance tombe grâce aux mesures de protection, M1 à M3 ; la gravité baisse parce que la sauvegarde isolée et le mode dégradé, M4 et M11, ramènent l'arrêt prévisible sous trois jours."
+        },
+        {
+          "cue": "Dernière ligne, R4, et bandeau",
+          "text": "Regardez R4. M13 coupe le chemin par le portail B2B, mais le chemin par Django reste ouvert pendant les neuf mois de migration : le risque reste élevé, G3 V2. Le groupe demande donc une acceptation temporaire au comité de direction, avec une mesure compensatoire, M10, le filtrage applicatif, une échéance et un indicateur mensuel. Paul Vidal signe. Le procès-verbal indique le risque, son niveau, le motif, la mesure compensatoire et la date de réexamen. C'est cette trace écrite qui distingue un risque accepté d'un risque ignoré, et c'est la condition c de E14. L'atelier se termine par un cadre de suivi : quatre indicateurs examinés chaque trimestre par le comité de direction. Ces indicateurs sont la part des comptes protégés par authentification multifacteur, le délai de correction des équipements exposés, la date et la durée du dernier test de restauration, et le nombre d'accès de prestataires ouverts. Sans cadre de suivi, l'analyse devient un rapport rangé dans un tiroir."
+        }
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 8",
+      "title": "Analyse d'impact sur l'activité et besoins de continuité",
+      "subtitle": "Mesurer ce que coûte un arrêt dans le temps, classer les applications selon une règle écrite, estimer la capacité réelle de reprise à partir des faits et chiffrer les écarts en heures.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Nous voici à l'après-midi, avec le chapitre 8. Il pose une question plus simple en apparence : si une application s'arrête, combien de temps l'organisation peut-elle tenir, et combien de données peut-elle perdre ?"
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "La cause de l'arrêt importe peu ici. Une panne de disque, un incendie, un rançongiciel ou l'erreur d'un prestataire produisent le même effet pour un chauffeur ou un agent d'accueil : l'outil ne répond plus. Ce chapitre prépare la partie 4 du dossier et l'annexe F, élément E15. Et il s'arrête au constat : le plan de reprise lui-même, ses solutions, ses coûts et ses tests relèvent du D3."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 8 · Continuité et reprise",
+      "title": "La PDMA regarde en arrière, la DMIA et la MTPD en avant",
+      "minutes": 2.5,
+      "fig": "c08-axe-pdma-dmia-mtpd",
+      "side": {
+        "head": "Trois durées",
+        "body": [
+          "PDMA (RPO) : perte de données maximale admissible.",
+          "DMIA (RTO) : durée maximale d'interruption admissible, objectif de reprise.",
+          "MTPD : seuil où l'arrêt devient intolérable ; la DMIA reste en deçà."
+        ]
+      },
+      "note": "Le PCA (plan de continuité d'activité) vise à ne pas s'arrêter ; le PRA (plan de reprise d'activité) vise à redémarrer. Le BIA (bilan d'impact sur l'activité) part des métiers.",
+      "note_h": 52,
+      "notes": [
+        {
+          "cue": "Bandeau du bas",
+          "text": "Trois sigles d'abord. Le PCA, plan de continuité d'activité, vise à ne pas s'arrêter, ou à fonctionner autrement pendant l'arrêt ; il dépasse l'informatique et touche les locaux, les personnes, les fournisseurs. Le PRA, plan de reprise d'activité, organise le redémarrage du SI après un sinistre. Entre les deux, le mode dégradé : des formulaires papier, une liste imprimée la veille. La norme de référence est l'ISO 22301, édition de 2019, amendée en 2024. Et toute démarche commence par le BIA, le bilan d'impact sur l'activité, qui part des métiers et mesure ce que coûte un arrêt, quelle qu'en soit la cause."
+        },
+        {
+          "cue": "Schéma, à gauche de l'éclair",
+          "text": "Regardez l'axe du temps. Au centre, le sinistre. À gauche, la dernière sauvegarde utilisable. Tout ce qui a été saisi entre les deux est perdu : cette durée doit rester inférieure à la PDMA, la perte de données maximale admissible, en anglais RPO, recovery point objective. Une PDMA de 1 heure signifie qu'il faut pouvoir restaurer les données dans leur état d'au plus 1 heure avant le sinistre."
+        },
+        {
+          "cue": "Schéma, à droite de l'éclair",
+          "text": "À droite, on regarde en avant. La DMIA, durée maximale d'interruption admissible, ou RTO, recovery time objective, est l'objectif de reprise. Plus loin, la MTPD, durée maximale tolérable de perturbation, est le seuil au-delà duquel les impacts menacent la survie, les contrats essentiels ou la sécurité des personnes. La DMIA est choisie en deçà, pour garder une marge. Chez Kestrel, la direction des opérations demande 2 heures pour RoutePro : les camions partent à 5 h."
+        },
+        {
+          "cue": "Carte de droite, puis courbe du bas",
+          "text": "Attention à un piège de vocabulaire : certains documents français appellent « DMIA » ce qui est en réalité la MTPD. Dans le cours et dans le D2, la DMIA est l'objectif de reprise, comme le RTO. Et la courbe du bas rappelle que l'impact monte par paliers : une heure d'arrêt de RoutePro l'après-midi peut passer inaperçue ; la même heure à 4 h du matin, quand les camions partent à 5 h, désorganise toute la journée. Vous n'avez pas à mettre en place un système de management de la continuité selon l'ISO 22301 ; vous devez parler sa langue avec exactitude."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 8 · Exemple Kestrel · grille d'impact (extrait)",
+      "title": "RoutePro : 7 heures d'écart, même dans le meilleur scénario",
+      "minutes": 3,
+      "header": [
+        "Application",
+        "Besoin DMIA / PDMA",
+        "Capacité : panne d'un composant / perte de la salle",
+        "Écarts DMIA ; PDMA",
+        "Classe"
+      ],
+      "widths": [
+        1.5,
+        1.2,
+        3.0,
+        2.1,
+        1.3
+      ],
+      "rows": [
+        [
+          "APP-01 RoutePro",
+          "2 h / 1 h",
+          "Durée : 9 h constatées / 120 h (H2). Données : 24 h (H1) / 168 h",
+          "+7 h / +118 h ; +23 h / +167 h",
+          "1"
+        ],
+        [
+          "APP-06 Portail EDI",
+          "4 h / 0",
+          "Engagement du prestataire non documenté / non concerné",
+          "Non estimable : contrat à lire",
+          "1"
+        ],
+        [
+          "APP-02 StockFlow",
+          "4 h / 1 h",
+          "Engagement de l'éditeur non documenté / non concerné (SaaS)",
+          "Non estimable : contrat à lire",
+          "1"
+        ],
+        [
+          "APP-03 Kestrel Track",
+          "8 h / 2 h",
+          "Non documenté / perte de la zone unique non estimable",
+          "Non estimable : sauvegardes à documenter",
+          "2, au moins celle de KDriver"
+        ],
+        [
+          "APP-04 KDriver",
+          "8 h / 2 h",
+          "Celle d'APP-03 Kestrel Track",
+          "Celui d'APP-03 Kestrel Track",
+          "2"
+        ],
+        [
+          "APP-07 ERP finance",
+          "72 h / non exprimée",
+          "Durée : 24 h (H19) / 120 h (H2). Données : 24 h (H1) / 168 h",
+          "−48 h (tenu) / +48 h ; non calculable",
+          "3"
+        ]
+      ],
+      "note": "Règle de Kestrel : classe 1 si DMIA ≤ 4 h, 2 jusqu'à 24 h, 3 jusqu'à 72 h, 4 au-delà ; héritage par les dépendances.",
+      "notes": [
+        {
+          "cue": "Titre et première ligne",
+          "text": "Voici l'extrait de la grille d'impact de Kestrel : six applications sur les huit pour lesquelles les directions ont exprimé un besoin. Les besoins viennent des directions ; les capacités sont estimées à partir des faits, avec trois hypothèses du registre : H1, sauvegarde chaque nuit sur le NAS ; H2, cinq jours pour tout reconstruire après la perte de la salle serveur ; H19, environ 24 heures pour restaurer l'ERP finance, estimation jamais testée. Première ligne, RoutePro : besoin de 2 heures. La panne de disque de novembre 2024 a duré 9 heures : l'écart est de 7 heures dans le scénario le plus favorable, celui qui a déjà été vécu. En cas de perte de la salle, il monte à 118 heures. Rapporté à la marge, les 38 k€ de pénalités de cette seule panne représentent près de 3 % de la marge opérationnelle annuelle."
+        },
+        {
+          "cue": "Lignes « Non estimable »",
+          "text": "Pour quatre applications sur six, l'écart n'est pas estimable : engagement du prestataire non documenté, sauvegardes de Kestrel Track à documenter. Ce n'est pas un échec de l'analyse. Écrire « non estimable » et dire quelle information manque, c'est exactement ce que demande la condition a de E15, et ce manque devient un constat du diagnostic. Méfiez-vous aussi des taux de disponibilité : 99,8 % sur une année autorisent environ 17,5 heures d'arrêt cumulé, qui peuvent tomber en une seule fois. Autre piège voisin : un taux de sauvegardes réussies ne dit rien de la capacité à restaurer. Seul un test de restauration le prouve."
+        },
+        {
+          "cue": "Colonne « Classe » et bandeau",
+          "text": "La classe suit une règle écrite avant d'être appliquée : classe 1 jusqu'à 4 heures de DMIA, classe 2 jusqu'à 24 heures, classe 3 jusqu'à 72 heures, classe 4 au-delà. Deux compléments : une application qui porte une activité pouvant mettre des personnes en danger est au moins en classe 2, et une application hérite de la classe de celles qui dépendent d'elle. Kestrel Track reçoit ainsi au moins la classe de KDriver, qui en dépend entièrement. C'est la cartographie qui révèle ces dépendances."
+        },
+        {
+          "cue": "Retour au titre",
+          "text": "Dernier point : discuter les demandes des métiers. La direction des opérations acceptait 8 heures d'arrêt pour KDriver et Kestrel Track. On lui montre le schéma des dépendances, et on lui rappelle que les camions partent à 5 h. Elle ramène son besoin à 2 heures entre 4 h et 7 h. Une incohérence, une dépendance cachée, un coût probable : ce sont les trois motifs de discussion, et il en faut deux dans votre partie 4."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 7 · Exercice",
+      "title": "Vulnérabilités data et IA, puis un scénario opérationnel",
+      "minutes": 1.5,
+      "name": "Vulnérabilités data et IA de Medisecure et scénario opérationnel",
+      "duration": "2 h 30",
+      "consigne": [
+        "Relisez « La plateforme Medisecure Connect », « Données et échanges », « Parc applicatif » (usages hors inventaire compris), « Infrastructure, réseau et postes de travail » et « Sécurité et conformité ».",
+        "Dressez le tableau des vulnérabilités : bien support, famille, critère atteint, fait sourcé. Examinez au moins la base PostgreSQL partagée, l'API du fabricant, les exports CSV, le stockage des documents et les IA gratuites.",
+        "Construisez ensuite un scénario opérationnel complet sur le chemin le plus vraisemblable."
+      ],
+      "livrable": "Tableau des vulnérabilités (une page), graphe d'attaque en quatre phases, paragraphe qui justifie la vraisemblance en citant chaque fait avec sa section.",
+      "dossier": "D2 : section 3.5, condition b de E13 ; annexes A et B (E5) ; domaines « données » et « sécurité » de 5.2 (E17).",
+      "notes": [
+        {
+          "cue": "Cadre de gauche, consigne",
+          "text": "Je lance maintenant les exercices. Le premier est celui du chapitre 7. Durée indicative dans le cours : 2 h 30. Vous travaillez seuls, mais vous pouvez comparer votre liste de vulnérabilités avec votre voisin au bout de quarante minutes. Commencez par le tableau : un bien support, une famille du chapitre, un critère atteint, un fait avec sa section entre parenthèses. Les cinq points de la consigne sont un minimum à examiner, pas une liste de réponses. Demandez-vous aussi ce que le projet de tri des alertes de télésurveillance changerait à ces vulnérabilités."
+        },
+        {
+          "cue": "Dernière phrase de la consigne",
+          "text": "Pour le scénario, choisissez le chemin le plus faible, pas le plus spectaculaire. Rappelez-vous l'encadré « Attention » du chapitre : un scénario d'empoisonnement sur un projet d'IA qui n'existe pas encore n'est pas un scénario sourcé. Un projet futur peut être cité comme facteur aggravant ; il ne remplace pas un scénario sur le SI tel qu'il est."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "En passant dans les rangs, je vérifie deux choses : que chaque étape nomme un objet de votre cartographie sous son nom exact, et que votre justification cite chaque fait avec sa section du dossier de présentation. Ce scénario est celui qu'exige la condition b de E13. Si votre scénario porte sur l'IA, demandez-vous quel fait mesuré, et non quelle impression, justifie sa vraisemblance."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 6 · Exercice",
+      "title": "Atelier 3 : évaluer l'écosystème et construire les scénarios",
+      "minutes": 1.5,
+      "name": "Atelier 3 sur Medisecure : écosystème et scénarios stratégiques",
+      "duration": "3 h",
+      "consigne": [
+        "À partir de votre vue de l'écosystème et de la section « Principaux contrats », évaluez au moins six parties prenantes avec les quatre critères et la formule, barème écrit.",
+        "Fixez vos seuils, placez les parties prenantes sur une cartographie de la menace, puis construisez au moins trois scénarios stratégiques, dont un par l'écosystème.",
+        "Que révèle « L'incident de mars 2025 » sur le rôle de l'écosystème ? Proposez des mesures sur l'écosystème et réévaluez."
+      ],
+      "livrable": "Tableau d'évaluation des parties prenantes, radar de la menace, un tableau et un schéma par scénario stratégique, tableau des mesures sur l'écosystème.",
+      "dossier": "D2 : section 3.4 et annexe E, élément E12.",
+      "notes": [
+        {
+          "cue": "Consigne",
+          "text": "Deuxième exercice, l'atelier 3 sur Medisecure. Durée indicative : trois heures. Partez de votre vue de l'écosystème et de la section « Principaux contrats ». Parcourez toute la vue : les prestataires qui ont un accès à votre SI, ou dont dépend un processus vital, sont les premiers candidats. Écrivez votre barème avant de coter, comme Kestrel a écrit sa règle pour la dépendance. Attention à une erreur fréquente du tableau du chapitre 6 : un écosystème réduit aux seuls prestataires informatiques fait oublier des chemins d'attaque."
+        },
+        {
+          "cue": "Dernière phrase de la consigne",
+          "text": "Relisez la section « L'incident de mars 2025 » avec une seule question : quel rôle l'écosystème y a-t-il joué ? Ne détaillez pas encore les étapes techniques, elles relèvent de l'atelier 4. Ici, on reste à grandes mailles."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Le livrable compte quatre pièces, dont la cartographie de la menace en radar. Je vérifie en passant que vos seuils sont écrits, qu'au moins un scénario passe par une partie prenante, et que chaque scénario reprend la gravité de son événement redouté de l'atelier 1, sans la recalculer. C'est l'élément E12."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 6 · Exercice",
+      "title": "Atelier 4 : trois scénarios, dont l'incident de mars 2025",
+      "minutes": 1.5,
+      "name": "Atelier 4 sur Medisecure : scénarios opérationnels",
+      "duration": "3 h 30",
+      "consigne": [
+        "Détaillez au moins trois scénarios en phases connaître, rentrer, trouver, exploiter, avec un bien support de votre cartographie à chaque étape.",
+        "Le premier rejoue « L'incident de mars 2025 » : pourrait-il se reproduire aujourd'hui dans un autre centre (« État des lieux », « Infrastructure, réseau et postes de travail ») ? Le deuxième, data ou IA, vient de l'exercice du chapitre 7.",
+        "Une étape non documentée repose sur une hypothèse numérotée. Cotez et justifiez chaque vraisemblance."
+      ],
+      "livrable": "Un graphe d'attaque par scénario, un tableau des actions élémentaires pour au moins un scénario, un tableau des vraisemblances justifiées.",
+      "dossier": "D2 : section 3.5 et annexe E, élément E13 ; hypothèses en annexe H.",
+      "notes": [
+        {
+          "cue": "Consigne",
+          "text": "Troisième exercice, l'atelier 4. C'est le plus long : trois heures et demie. Trois scénarios au moins. Le premier rejoue l'incident de mars 2025 : quelle était la porte d'entrée, qu'a trouvé l'attaquant, qu'a-t-il exploité ? Puis la question qui compte : cela pourrait-il se reproduire aujourd'hui dans un autre centre ? Appuyez-vous sur les sections « État des lieux » et « Infrastructure, réseau et postes de travail »."
+        },
+        {
+          "cue": "Dernière phrase de la consigne",
+          "text": "Le dossier de présentation ne documente pas tout, par exemple la reconnaissance menée par l'attaquant. Une telle étape repose sur une hypothèse numérotée, inscrite en annexe H, et votre justification de la vraisemblance le signale. Le deuxième scénario, sur les données ou l'IA, est celui de l'exercice du chapitre 7 : réservez-lui sa place."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Travail individuel. Je passe vérifier que chaque boîte de vos graphes nomme un bien support, et que vos cotes sont combinées selon une règle que vous savez expliquer, méthode expresse ou méthode standard. C'est l'élément E13. Pour le premier scénario, je regarde aussi si vous répondez vraiment à la question de la reproduction aujourd'hui, avec des faits, et pas seulement par oui ou par non."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 6 · Exercice",
+      "title": "Atelier 5 : décider, mesurer le résiduel, accepter par écrit",
+      "minutes": 1.5,
+      "name": "Atelier 5 sur Medisecure : traitement du risque",
+      "duration": "3 h",
+      "consigne": [
+        "Placez vos risques initiaux sur la matrice de la section 3.1 et attribuez à chacun une option de traitement.",
+        "Proposez au moins dix mesures typées, reliées aux risques, avec une fonction responsable tirée de « Organisation », « La DSI » et « Projets envisagés et contraintes ». Ne chiffrez pas : c'est le D3.",
+        "Estimez les risques résiduels sur une seconde matrice, rédigez au moins une acceptation explicite et un cadre de suivi."
+      ],
+      "livrable": "Deux matrices (avant, après), tableau des mesures, tableau des risques résiduels avec leur décision, paragraphe de cadre de suivi.",
+      "dossier": "D2 : section 3.6 et annexe E, élément E14.",
+      "notes": [
+        {
+          "cue": "Consigne",
+          "text": "Quatrième exercice, l'atelier 5, trois heures. Placez vos risques initiaux sur la matrice définie en section 3.1, puis donnez une option à chacun : réduire, transférer, éviter ou accepter. Ensuite, au moins dix mesures, chacune typée en gouvernance, protection, défense ou résilience, et rattachée à une fonction responsable chez Medisecure. Cherchez ces fonctions dans les sections « Organisation », « La DSI » et « Projets envisagés et contraintes ». Gardez l'ordre : la matrice et le seuil d'acceptation sont ceux que vous avez définis en section 3.1, avant l'analyse ; on ne les modifie pas pour que les résultats paraissent meilleurs."
+        },
+        {
+          "cue": "Phrase « Ne chiffrez pas »",
+          "text": "Une mesure n'est pas un projet. « Passer au cloud » est un projet, il relève du D3 ; une authentification multifacteur sur un accès précis est une mesure. Ne chiffrez pas, ne choisissez pas d'architecture."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Deux matrices, avant et après, et au moins une acceptation explicite : le risque, son motif, l'instance qui l'accepte, la date de réexamen. Pour le cadre de suivi, regardez la section « Indicateurs du service informatique ». Je vérifie que vos risques résiduels changent pour une raison : protection ou défense sur la vraisemblance, résilience sur la gravité. C'est l'élément E14."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 8 · Exercice",
+      "title": "La grille d'impact : onze lignes, des écarts chiffrés en heures",
+      "minutes": 1.5,
+      "name": "La grille d'impact de Medisecure",
+      "duration": "2 h 30",
+      "consigne": [
+        "Partez du tableau « Continuité d'activité : ce que demandent les métiers ». Écrivez d'abord votre règle de classes de criticité, en tenant compte de la sécurité des patients.",
+        "Pour chacune des 11 lignes, relevez les faits de capacité (« Infrastructure, réseau et postes de travail », « La plateforme Medisecure Connect », « Parc applicatif », « Indicateurs du service informatique », « L'incident de mars 2025 »).",
+        "Estimez pour au moins deux scénarios, chiffrez les écarts en heures, attribuez les classes."
+      ],
+      "livrable": "La grille complète (future annexe F), la règle de classement écrite, une demi-page qui discute deux demandes des métiers.",
+      "dossier": "D2 : partie 4 et annexe F, élément E15.",
+      "notes": [
+        {
+          "cue": "Consigne",
+          "text": "Dernier exercice, la grille d'impact, deux heures et demie. Partez du tableau « Continuité d'activité : ce que demandent les métiers ». Écrivez d'abord votre règle de classement, avant de regarder les lignes, et tenez compte de la nature de l'activité : chez Medisecure, l'arrêt de certains outils peut toucher la sécurité des patients. Le travail ressemble à celui de Kestrel que vous venez de voir, mais ne recopiez pas sa règle : vos classes doivent refléter une activité de soins, pas une activité de livraison."
+        },
+        {
+          "cue": "Liste des sections",
+          "text": "Pour chacune des 11 lignes, cherchez les faits de capacité dans les sections indiquées. Posez-vous les questions du cours : que vous apprend la durée de restauration constatée en mars 2025, et pour quel périmètre vaut-elle ? Que deviennent les sauvegardes si la salle serveur du siège est détruite, ou chiffrée ? Que vaut un engagement de disponibilité d'éditeur ? Et écrivez une fois pour toutes la correspondance entre les noms du tableau des métiers et ceux du parc applicatif."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Je vérifie que chaque écart est en heures, qu'une valeur sans objet reste sans objet, et que « non estimable » est toujours suivi de l'information qui manque. Avant de partir, faites le point : pour chacun des cinq exercices, ce qui est commencé et ce qui reste pour l'intersession. Demain, nous passons à l'environnement du SI et au diagnostic critique."
+        }
+      ]
+    }
+  ]
+}

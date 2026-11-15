@@ -1,0 +1,13872 @@
+[
+{
+"type": "h1",
+"inl": [
+[
+"t",
+"Medisecure – Dossier de présentation (cas fil rouge)"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"2026-10-16"
+],
+[
+"t",
+" · "
+],
+[
+"t",
+"Baptiste"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Medisecure est une organisation "
+],
+[
+"b",
+"fictive"
+],
+[
+"t",
+" créée pour le cycle Expert en informatique et systèmes d'information de la 3W Academy. Toute ressemblance avec une entreprise existante est fortuite. Ce dossier décrit l'organisation telle qu'elle est en octobre 2026"
+],
+[
+"t",
+". Il sert de base à tous les travaux"
+],
+[
+"t",
+" de l'année."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Carte d'identité"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Medisecure est un réseau de 14 centres de santé qui suit 410 000 patients"
+],
+[
+"t",
+"."
+],
+[
+"t",
+" "
+],
+[
+"t",
+"S"
+],
+[
+"t",
+"es centres sont situés en Hauts-de-France et en Île-de-France"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Élément"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Valeur"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Raison sociale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Association Medisecure Santé (gestionnaire des centres) et Medisecure Services SAS (société de services)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Lille (Nord)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Création"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2009"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Métier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centres de santé p"
+],
+[
+"t",
+"olyvalent"
+],
+[
+"t",
+"s : médecine générale, spécialités, imagerie de proximité, prélèvements ; téléconsultation ; télésurveillance de patients chroniques"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Implantations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"14 centres : 9 en Hauts-de-France, 5 en Île-de-France"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Recettes 2025 (association)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"68 M€ "
+],
+[
+"t",
+"; excédent de 1,9 M€, réinvesti dans le réseau"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Effectif"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"620 salariés, dont 230 professionnels de santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patients actifs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"410 000 (au moins un contact en 24 mois)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Activité annuelle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1,1 million de consultations, dont 38 000 téléconsultations ; 95 000 examens d'imagerie"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 200 patients suivis "
+],
+[
+"t",
+"en septembre 2026 (3 000 diabétiques, 1 200 insuffisants cardiaques"
+],
+[
+"t",
+")"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Actionnariat"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Medisecure Services SAS : f"
+],
+[
+"t",
+"ondateurs 52 %, fonds d'investissement spécialisé en santé 48 % (depuis 2021)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Budget SI 2026"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2,"
+],
+[
+"t",
+"84 M€, soit 4,2"
+],
+[
+"t",
+" % d"
+],
+[
+"t",
+"es recettes 2025, dont environ 0,6 M€ "
+],
+[
+"t",
+"de masse salariale pour le pôle plateforme (hors hébergement, 214 k€)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Équipe SI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 "
+],
+[
+"t",
+"salarié"
+],
+[
+"t",
+"s"
+],
+[
+"t",
+", plus une régie infrastructure d'un jour par semaine"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Structure juridique et effectifs"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les 14 centres sont gérés par l'association Medisecure Santé, "
+],
+[
+"t",
+"une forme de gestionnaire admise par le Code de la santé publique, qui interdit de distribuer les excédents d'un centre de santé"
+],
+[
+"t",
+". Les fonctions support (DSI, finance, ressources humaines, achats, immobilier) sont portées par Medisecure Services SAS, détenue par les fondateurs et un fonds d'investissement. La société facture ses prestations à l'association par une convention annuelle : c'est donc elle qui héberge et exploite le SI des centres."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le fonds siège au comité stratégique de la société. L'association a son propre conseil d'administration, présidé par l'un des fondateurs. "
+],
+[
+"t",
+"Thomas Reynaud dirige les deux structures : il préside la société et dirige l'association par délégation de son conseil d'administration. "
+],
+[
+"t",
+"Dans ce dossier, « Medisecure » désigne l'ensemble formé par les deux structures."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Population"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Effectif"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Employeur"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Professionnels de santé (médecins, infirmiers, manipulateurs radio)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"230"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Association"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Accueil et secrétariat médical des centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"210"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Association"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directeurs de centre, facturation et gestion administrative"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Association"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centre d'appels"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"22"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Association"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directions et fonctions support du siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"86"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Medisecure Services"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Medisecure Services"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Total"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"620"
+]
+]
+},
+{
+"h": false,
+"inl": []
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Les 14 centres"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les six premiers centres, ouverts autour de Lille entre 2009 et 2014, forment le cœur historique du réseau. Ce sont les seuls à disposer d'un secours 4G et, pour trois d'entre eux (Lille-Centre, Roubaix et Douai), d'un plateau d'imagerie. Les c"
+],
+[
+"t",
+"inq centres rachetés utilisaient déjà "
+],
+[
+"t",
+"le dossier patient informatisé (DPI) "
+],
+[
+"t",
+"CareOne et l'ont gardé"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Centre"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Région"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Depuis"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"DPI"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Praticiens et soignants"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Consultations 2025"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Rendez-vous non honorés"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Débit (Mbit/s)"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Secours 4G"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Lille-Centre"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2009"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"26"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"128 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5,1 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"100"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Lille-Fives"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2009"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"18"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"84 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5,8 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Roubaix"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2011"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"102 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"7,4 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tourcoing"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2012"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"70 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6,6 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Villeneuve-d'Ascq"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2013"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"14"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"66 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4,8 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Douai"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2014"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"16"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"74 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6,1 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Oui"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Lens"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2019 (rachat)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"17"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"79 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"7,2 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Arras"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2019 (rachat)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"70 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6,4 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Béthune"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2019 (rachat)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"13"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"61 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6,9 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Saint-Denis"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2022 (rachat)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"19"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"98 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"11,2 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Montreuil"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2022 (rachat)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"16"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"74 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"9,1 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Créteil"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2023"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"12"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"58 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"8,3 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Nanterre"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2023"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"11"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"52 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"7,9 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Argenteuil"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2023"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"10"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"46 000"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"9,8 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les 230 professionnels de santé comprennent aussi les 6 infirmières de coordination de la télésurveillance et 2 médecins rattachés au siège."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Histoire et stratégie"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Medisecure a grandi vite, par ouvertures et par rachats, sans jamais unifier son système d'information. "
+],
+[
+"t",
+"Le plan 2030 lui fixe de nouvelles cibles, présentées plus ba"
+],
+[
+"t",
+"s"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Dates clés"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Année"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Événement"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Effet sur le SI"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2009"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Création à Lille avec 2 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"—"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2014"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Déploiement du DPI MediDossier, hébergé au siège"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2017"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ouverture de l'imagerie dans 3 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Installation d'un PACS "
+],
+[
+"t",
+"dans chacun des 3 centres"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2019"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rachat de 3 centres en Artois"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Arrivée du DPI CareOne (SaaS)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2020"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Crise sanitaire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme de téléconsultation développée en interne en 6 semaines"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2021"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Entrée d'un fonds d'investissement au capital "
+],
+[
+"t",
+"de Medisecure Services "
+],
+[
+"t",
+"(48 %)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Objectifs de croissance renforcés ; "
+],
+[
+"t",
+"l'équipe qui a créé la téléconsultation devient un pôle de développement"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2022"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rachat de 2 centres en Île-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ces centres utilisaient déjà CareOne, qui est conservé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2023"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ouverture de 3 centres en Île-de-France ; lancement de la télésurveillance MediSuivi"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier déployé dans les nouveaux centres ; application mobile MediSuivi développée en interne ;"
+],
+[
+"t",
+" console des infirmières fournie par le fabricant des appareils"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2024"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Recrutement d'une data analyst"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Premiers tableaux de bord Power BI"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2025 (mars)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rançongiciel sur le centre de Lens"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 jours d'arrêt du centre, voir la section Sécurité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2025 (septembre)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Recrutement d'un RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Premier poste dédié à la sécurité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"2026 (juin)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plan « Medisecure 2030 » validé par l"
+],
+[
+"t",
+"'association et par la société"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Demande d'un schéma directeur SI"
+]
+]
+}
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/10e299b8-73a8",
+"caption": "Données fictives · contrôle de gestion Medisecure, 2018-2025"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La "
+],
+[
+"t",
+"figure présente l'activité annuelle de 2018 à 2025"
+],
+[
+"t",
+", téléconsultations comprises"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Plan Medisecure 2030"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"En juin 2026, le"
+],
+[
+"t",
+"s instances de l'association et de la société ont"
+],
+[
+"t",
+" validé le plan « Medisecure 2030 ». Il fixe des cibles "
+],
+[
+"t",
+"sur huit axes, presque toutes chiffré"
+],
+[
+"t",
+"es, résumées dans le tableau suivant."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Axe"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Situation 2025"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Cible 2030"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau de centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"14 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20 centres"
+],
+[
+"t",
+" : 6 de plus, dont 3 par rachat"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 "
+],
+[
+"t",
+"100 patients fin 2025"
+],
+[
+"t",
+", 2 pathologies"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 000 patients, 3 pathologies (ajout de l"
+],
+[
+"t",
+"'insuffisance respiratoire chronique, "
+],
+[
+"t",
+"souvent liée à une"
+],
+[
+"t",
+" BPCO)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Parcours patient"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"En partie papier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Numérique de bout en bout, du rendez-vous au paiement"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pilotage"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Reporting de direction à J+20"
+],
+[
+"t",
+" (20 jours après la fin du mois)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Reporting à J+2"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous non honorés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"7 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 %"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Alertes de télésurveillance pertinentes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50 %"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Continuité d'activité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Un centre arrêté 3 jours en 2025"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun arrêt de plus de 4 heures"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Empreinte numérique par patient"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non mesurée (référence 2025 à établir)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"−30 %"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Pour financer ce plan, l"
+],
+[
+"t",
+"a société a réserv"
+],
+[
+"t",
+"é une enveloppe d'investissement SI de 4,5 M€ sur 2027-2029, en plus du budget de fonctionnement. Le"
+],
+[
+"t",
+" coût de chaque axe n'a pas été estimé et aucune priorité n'a été fixée"
+],
+[
+"t",
+". Le directeur général a"
+],
+[
+"t",
+" demandé au DSI de piloter l'élaboration d'un schéma directeur, soumis au comité de direction puis aux instances : il doit dir"
+],
+[
+"t",
+"e ce qui est faisable dans cette enveloppe, et dans quel ordre."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Marché et concurrence"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le marché des soins de proximité change vite. Les centres de santé se regroupent en réseaux, la téléconsultation s'est banalisée depuis 2020 et la télésurveillance, remboursée d"
+],
+[
+"t",
+"ans le droit commun depuis juillet 2023 après l'expérimentation ETAPES"
+],
+[
+"t",
+", attire de nouveaux acteurs. Medisecure fait face à cinq types de concurrents"
+],
+[
+"t",
+" ; les noms cités sont fictif"
+],
+[
+"t",
+"s."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Concurrent"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Type"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Taille"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Ce qu'il fait mieux que Medisecure"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Point faible"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Santéa"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau national de centres de santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"38 centres, 2 100 salariés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Un seul DPI dans tous ses centres, application patient notée 4,4/5, rendez-vous intégrés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Peu présent dans les Hauts-de-France"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Groupe Hippocrate"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau régional de centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"9 centres en Hauts-de-France"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Implanté à Lille et à Lens, délai moyen de rendez-vous de 3 jours"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Téléconsultation par la plateforme de réservation, pas de télésurveillanc"
+],
+[
+"t",
+"e"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateformes nationales de téléconsultation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Services en ligne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plusieurs millions d'utilisateurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Consultation en moins d'une heure, 7 jours sur 7"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas de suivi dans la durée ni d'examen physique"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CardioLink"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Start-up de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"60 salariés, 22 000 patients suivis"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tri des alertes par algorithme, 40 cardiologues partenaires"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dépend entièrement de médecins extérieurs"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hôpitaux de la région"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Établissements publics"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 grands établissements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Expertise spécialisée, plateaux techniques lourds"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délais longs pour les consultations courantes"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Trois évolutions pèsent sur Medisecure. Les patients comparent désormais les services numériques de leurs soignants à ceux des applications grand public. Une partie des financements des centres de santé dépend d'indicateurs numériques, comme l'usage de l'INS, du DMP et de la MSSanté. Enfin, les médecins sont rares et choisissent aussi leur employeur selon la qualité de ses outils : deux praticiens ont quitté le centre de Saint-Denis en 2025 pour rejoindre Santéa."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Activités et processus métier"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Quatre processus portent l'essentiel de l'activité. Ils sont décrits ici tels qu'ils fonctionnent aujourd'hui, défauts compris."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Le parcours du patient en centre"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le patient prend rendez-vous en ligne dans 62 % des cas, sur une plateforme de réservation grand public. Les autres appellent le centre d'appels du siège (30 %) ou se présentent à l'accueil (8 %). Seuls les agendas des centres MediDossier sont synchronisés avec la plateforme "
+],
+[
+"t",
+"de réservation "
+],
+[
+"t",
+": dans les centres CareOne, l'accueil recopie chaque rendez-vous à la main."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"À son arrivée, le patient présente sa carte Vitale et l'agent d'accueil cherche son dossier dans le DPI du centre. L"
+],
+[
+"t",
+"a pièce d'identité n'est pas contrôlée systématiquement, alors que ce contrôle est nécessaire pour qualifier l'identité nationale de santé (INS) : elle n'est qualifiée que pour 40 % des patients. Il n'existe pas de cellule d'identitovigilance"
+],
+[
+"t",
+". Un patient qui fréquente deux centres équipés de logiciels différents a deux dossiers distincts."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le praticien consulte et rédige dans le DPI. L"
+],
+[
+"t",
+"es centres MediDossier émettent des ordonnances numériques, enregistrées auprès de l'Assurance Maladie avec un QR code ; les centres CareOne émettent des ordonnances classiques, car le module n'a jamais été activé"
+],
+[
+"t",
+". La facture part ensuite vers l'Assurance Maladie sous forme de feuille de soins électronique "
+],
+[
+"t",
+"(FSE) "
+],
+[
+"t",
+"; 4,5 % "
+],
+[
+"t",
+"des FSE "
+],
+[
+"t",
+"sont rejetées et corrigées à la main par le service facturation du siège."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les résultats du laboratoire partenaire arrivent automatiquement dans MediDossier. Les centres CareOne les reçoivent par courriel"
+],
+[
+"t",
+" non sécurisé"
+],
+[
+"t",
+", en PDF, et les secrétaires les classent dans le dossier. En imagerie, les radiologues dictent leurs comptes rendus, que les secrétaires saisissent ensuite, souvent en fin de journée."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"La téléconsultation"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le patient réserve un créneau sur la même plateforme, puis reçoit un lien vers l'outil "
+],
+[
+"t",
+"de téléconsultation développé par Medisecure en 2020 sur une API vidéo tierce"
+],
+[
+"t",
+". Pendant la séance, le médecin garde le DPI ouvert dans une autre fenêtre, car les deux outils ne communiquent pas. Il envoie ensuite l'ordonnance par courriel"
+],
+[
+"t",
+" non sécurisé, en PDF, et saisit la facturation à la main dans le DPI du centre"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"La télésurveillance (MediSuivi)"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le médecin prescrit l'inclusion d'un patient diabétique ou insuffisant cardiaque. Le"
+],
+[
+"t",
+"s patients diabétiques portent un capteur de glucose en continu ; les insuffisants cardiaques utilisent une balance et un tensiomètre connectés. Les appareils transmettent leurs mesures à la plateforme du fabricant, par l'application MediSuivi installée sur le téléphone du patient. Le service Télésurveillance de Medisecure interroge ensuite cette plateforme toutes les cinq minutes"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Des règles à seuils fixes, les mêmes pour tous les patients, déclenchent des alertes. Six infirmières de coordination les traitent dans leur console et préviennent le médecin quand c'est nécessaire. La console enregistre pour chaque alerte l'heure d'acquittement et un statut (« appel du patient », « information du médecin » ou « sans suite »), sans motif. Les infirmières reçoivent environ 1 900 alertes par semaine et estiment que 85 % ne justifient aucune action."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le dispositif inscrit sur la liste des activités de télésurveillance médicale (LATM) est celui du fabricant des appareils, marqué CE comme dispositif médical : c'est le fabricant qui perçoit le forfait technique. Medisecure, déclarée opérateur de télésurveillance auprès de l'agence régionale de santé, perçoit chaque mois le forfait opérateur pour chaque patient suivi. "
+],
+[
+"t",
+"L'application MediSuivi, développée par Medisecure, et la console, fournie par le fabricant puis reprise et modifiée en interne en 2024, ne font pas partie du dispositif marqué CE. Leur statut au regard du règlement européen sur les dispositifs médicaux, comme celui des règles d'alerte du service Télésurveillance,"
+],
+[
+"t",
+" n'a jamais été analysé."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Le pilotage"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Au début de chaque mois, le contrôle de gestion extrait des fichiers des deux DPI, de la facturation et de la paie, puis les consolide dans Excel. Le tableau de bord d"
+],
+[
+"t",
+"u mois écoulé est diffusé vers le 20, soit à J+20"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Indicateurs actuels"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Indicateur"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Valeur 2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délai moyen pour un rendez-vous de médecine générale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6 jours"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous non honorés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"7 %"
+],
+[
+"t",
+" des rendez-vous confirmés"
+],
+[
+"t",
+", soit environ 77 000 créneaux perdus par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Factures rejetées"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4,5 %"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Satisfaction patient (NPS)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"+31"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Note de l'application MediSuivi sur les magasins d'applications"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2,9"
+],
+[
+"t",
+"/"
+],
+[
+"t",
+"5"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délai du reporting de direction"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"J+20"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Organisation"
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/92546710-32c7",
+"caption": "Organigramme de Medisecure · comité de direction"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le directeur général réunit chaque lundi un comité de direction avec les six directeurs. Le co"
+],
+[
+"t",
+"mité stratégique de la société, où siègent les fondateurs et le fonds, et le conseil d'administration de l'association se réunissent chacun"
+],
+[
+"t",
+" une fois par trimestre"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Il n'existe pas d'instance dédiée au SI. Les demandes de projets arrivent au comité de direction, souvent par courriel, et sont arbitrées au cas par cas. "
+],
+[
+"t",
+"Les 14 directeurs de centre rendent compte au directeur des opérations ; chacun"
+],
+[
+"t",
+" gère son accueil, son secrétariat et les plannings de ses praticiens. Le DPO, un prestataire externe, est présent deux jours par mois et n'a aucun relais dans les centres."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"La DSI"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La DSI compte "
+],
+[
+"t",
+"24"
+],
+[
+"t",
+" personnes et consacre 85 % de son budget au fonctionnement courant. Elle n'a "
+],
+[
+"t",
+"pas de"
+],
+[
+"t",
+" gouvernance de projets formalisée, "
+],
+[
+"t",
+"et sa"
+],
+[
+"t",
+" chaîne de développement"
+],
+[
+"t",
+" n'est qu'en partie"
+],
+[
+"t",
+" outillée."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Équipe"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Pôle"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Effectif"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Composition"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Remarque"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directeur des SI, rattaché au directeur général"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"En poste depuis 2016"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sécurité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"RSSI, rattaché au DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Arrivé en septembre 2025, seul sur le sujet"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Infrastructure et support"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"9"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 responsable, 3 administrateurs systèmes et réseaux, 5 techniciens support (3 au siège, 2 itinérants en Île-de-France)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 450 tickets par mois"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Applications"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 responsable, 1 cheffe de projet, 1 administrateur fonctionnel des DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Gèrent les progiciels et la relation avec les éditeurs"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"10"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 tech lead, 3 développeurs Python, "
+],
+[
+"t",
+"3 développeurs JavaScript (Angular et Node.js)"
+],
+[
+"t",
+" dont 1 alternant, 1 développeur mobile alternant, 1 développeur .NET et Java, 1 ingénieur d'exploitation (DevOps)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développe et exploite "
+],
+[
+"t",
+"Medisecure Connect, la plateforme interne décrite plus loin"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La data analyst recrutée en 2024, Laura Petit, dépend de la direction financière et non de la DSI. Elle a accès aux exports mais pas aux bases de production."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Budget 2026 : 2,"
+],
+[
+"t",
+"84"
+],
+[
+"t",
+" M€"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Poste"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Montant"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personnel interne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 710 k€"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"538 k€"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergement et télécoms"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"408 k€"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"125 k€"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Matériel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"60 k€"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Principaux contrats"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le tableau suivant détaille les dépenses externes de 2026"
+],
+[
+"t",
+", hors matériel"
+],
+[
+"t",
+". L"
+],
+[
+"t",
+"'hébergement de la plateforme, le réseau entre les centres et les deux DPI en représentent à eux seuls 60 %"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Poste"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Fournisseur ou objet"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Montant annuel (k€)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier : maintenance et support de l'éditeur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"140"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne : abonnement SaaS pour 5 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"115"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft 365 : 1"
+],
+[
+"t",
+"70 licences E3 (bureaux), 45"
+],
+[
+"t",
+"0 licences F3 (accueils et soignants)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"118"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme de réservation : "
+],
+[
+"t",
+"tarif réseau négocié en 2021, renégociation annoncée pour 2027"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"62"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"PACS : maintenance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"35"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"FactuSanté : maintenance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences et abonnements"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Autres logiciels (Veeam, Power BI, antivirus, outils divers)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"38"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergement et télécoms"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergeur cloud HDS : 22 machines virtuelles de la plateforme"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"214"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergement et télécoms"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Opérateur télécom : réseau MPLS et secours 4G"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"168"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergement et télécoms"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Téléphonie du centre d'appels"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"26"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Régie infrastructure"
+],
+[
+"t",
+" : expert systèmes"
+],
+[
+"t",
+", un jour par semaine"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"API vidéo de la téléconsultation (abonnement)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Intégrateur Microsoft 365"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Agence web (site WordPress)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"12"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Divers"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"26"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Fonctionnement"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Selon le DSI, l'essentiel du temps de l'équipe va au traitement des incidents et des demandes. La DSI"
+],
+[
+"t",
+" traite environ 1 450 tickets de support par mois dans GLPI, un outil qu'elle n'utilise pas pour suivre ses projets. "
+],
+[
+"t",
+"Faute de "
+],
+[
+"t",
+"gestion de portefeuille (recensement, priorisation et suivi des projets)"
+],
+[
+"t",
+" et de méthode commune, la cheffe de projet et le tech lead utilisent chacun leur"
+],
+[
+"t",
+"s propres outils."
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/1d948e53-bdea",
+"caption": "Données fictives · outil de tickets GLPI, janvier-septembre 2026"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Parmi les tickets « comptes et mots de passe », 60 % portent sur une réinitialisation de mot de passe et 30 % sur les comptes communs des accueils. 78 % des tickets « lenteurs de MediDossier » viennent des centres d'Île-de-France"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le pôle plateforme travaille en sprints de deux semaines, sans product owner : le tech lead arbitre seul entre les demandes de la direction innovation et les incidents. Le code"
+],
+[
+"t",
+" est conservé dans un "
+],
+[
+"t",
+"GitLab"
+],
+[
+"t",
+" interne. "
+],
+[
+"t",
+"Une intégration continue lance les tests unitaires, qui couvrent moins de 40 % du code, mais aucune analyse de sécurité. Les mises en production se font à la main, une à deux fois par mois, souvent le vendredi soir"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Indicateurs du service informatique"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La DSI ne publie pas de tableau de bord. Les valeurs ci-dessous "
+],
+[
+"t",
+"portent sur 2025, sauf mention contraire. Elles ont été reconstituées"
+],
+[
+"t",
+" à partir de GLPI, de la supervision et de la comptabilité."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Indicateur"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Valeur"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Commentaire"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Disponibilité de MediDossier sur les heures d'ouverture"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"98,6 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Environ 50 heures d'indisponibilité dans l'année"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Disponibilité de Medisecure Connect"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"99,1 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"79 heures d'arrêt, dont 41 non planifiées"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Disponibilité du réseau des centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"99,4 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Coupures surtout dans les centres sans secours 4G"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Résolution au premier contact"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Le support n'a pas de base de connaissances"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délai moyen de résolution des incidents majeurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6 h 40"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mesuré sur 38 incidents majeurs"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délai moyen de résolution, toutes demandes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2,3 jours"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun objectif de délai n'est fixé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Satisfaction des utilisateurs internes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5,9"
+],
+[
+"t",
+"/"
+],
+[
+"t",
+"10"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Enquête de juin 2026, 212 réponses"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegardes réussies"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"91 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Les échecs ne sont pas analysés"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Postes à jour des correctifs de sécurité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"72 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Les postes des centres rachetés sont les moins à jour"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personnel formé à la sécurité"
+],
+[
+"t",
+" dans les 12 derniers mois"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"0 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune session depuis 2022"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délai de détection d'une intrusion"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non "
+],
+[
+"t",
+"suivi"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"41 heures constaté"
+],
+[
+"t",
+"es entre la connexion de l'attaquant et la découverte, en"
+],
+[
+"t",
+" mars 2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Durée de restauration constatée"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 jours"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centre de Lens, mars 2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Projets livrés dans les délais et le budget"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2 sur 7"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Projets 2024-2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dépenses SI par rapport au budget 2025"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"+11 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"D"
+],
+[
+"t",
+"ont environ 120 k€ liés à l'incident (prestataire et matériel) ; le reste n'est pas expliqué"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Coût informatique par salarié"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 580 €"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Budget 2026 (2,84 M€)"
+],
+[
+"t",
+" pour 620 salariés"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Part du budget consacrée aux projets"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 %"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Le"
+],
+[
+"t",
+"s évolutions de Medisecure Connect sont comptées en fonctionneme"
+],
+[
+"t",
+"nt"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Compétences de la DSI"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"En septembre 2026, le DSI a évalué son équipe sur une échelle de 1 (notions) à 4 (expert). "
+],
+[
+"t",
+"Le tiret signale une compétence absente."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Domaine"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Niveau"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Qui"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"R"
+],
+[
+"t",
+"emarque du DSI"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Administration Windows et VMware"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 administrateurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun n'est formé au cloud ni aux versions récentes"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau et pare-feu"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 administrateur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Une seule personne compétente"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Python et frameworks web"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tech lead et 3 développeurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas de pratique du typage ni des tests avancés"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Angular"
+],
+[
+"t",
+" et Node.js"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3"
+],
+[
+"t",
+" développeurs, dont 1 alternant"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun ne connaît les versions récentes"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développement mobile React Native"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 développeur alternant"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personne pour le remplacer"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+".NET et Java"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 développeur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Seul à maintenir le service Documents et la console"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DevOps, conteneurs, intégration continue"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 ingénieur d'exploitation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas de conteneurs en production"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Cloud public"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"—"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"L'hébergeur gère tout"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sécurité applicative"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personne ne relit le code sous l'angle de la sécurité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Architecture logicielle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tech lead"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune documentation d'architecture"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Données et BI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Data analyst (hors DSI)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas d'ingénieur data"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Intelligence artificielle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"—"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune expérience en apprentissage automatique"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Gestion de projet et agilité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Cheffe de projet, tech lead"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas de product owner, méthodes non partagées"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Management"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI, responsables de pôle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun responsable formé au management"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Deux départs à la retraite sont prévus d'ici 2028 : un administrateur systèmes et le responsable du "
+],
+[
+"t",
+"pôle infrastructure et "
+],
+[
+"t",
+"support. Les deux alternants terminent leur contrat en septembre 2027."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"La veille aujourd'hui"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Medisecure n'a pas de dispositif de veille. Chacun suit ce qui le concerne avec ses propres outils"
+],
+[
+"t",
+" ; le partage reste informel et rien n'est"
+],
+[
+"t",
+" conservé."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Qui"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Ce qu'il suit"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Comment"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Partage"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Offres des éditeurs, actualité du secteur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Newsletters, deux salons professionnels par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"À l'oral, en comité de direction"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Alertes de sécurité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Bulletins du CERT-FR, sites spécialisés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Courriels ponctuels à l'équipe infrastructure"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tech lead et développeurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Frameworks et bibliothèques"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Forums, GitHub, réseaux sociaux, à titre personnel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Discussions informelles sur Teams"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPO externe"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Doctrine de la CNIL"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Veille de son cabinet"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Une note par trimestre au directeur général"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directrice innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télémédecine, start-ups, IA en santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Salons, réseau personnel, LinkedIn"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Présentations en comité de direction"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Remboursements, financements publics"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Site de l'Assurance Maladie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Personne ne suit la réglementation de l'IA ni le numérique responsable. Les développeurs ont découvert en 202"
+],
+[
+"t",
+"4 que Node.js 14 n'était plus maintenu depuis avril"
+],
+[
+"t",
+" 2023. E"
+],
+[
+"t",
+"nfin,"
+],
+[
+"t",
+" plusieurs alertes publiques sur l'hameçonnage visant les établissements de santé "
+],
+[
+"t",
+"ont été diffusées en 2024 ; elles n'ont pas été relayées en interne"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Parc applicatif"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le SI compte 1"
+],
+[
+"t",
+"8"
+],
+[
+"t",
+" applications, dont deux dossiers patients informatisés (DPI) "
+],
+[
+"t",
+"diffé"
+],
+[
+"t",
+"rents et plusieurs briques "
+],
+[
+"t",
+"hors"
+],
+[
+"t",
+" support. L'éditeur de MediDossier arrêtera la maintenance de la version 8 fin 2027."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Application"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Domaine"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Technologie"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Hébergement"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Utilisateurs"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"État et points connus"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier v8"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Progiciel client lourd, SQL Server 2014"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Salle serveur du siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"9 centres, environ 400"
+],
+[
+"t",
+" comptes, remplaçants compris"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fin de maintenance fin 2027 ; SQL Server 2014 hors support"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS web"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Éditeur certifié HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5 centres, environ 170"
+],
+[
+"t",
+" comptes, remplaçants compris"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Version référencée Ségur, mais modules DMP, INSi et ordonnance numérique jamais activés"
+],
+[
+"t",
+" ; pas d'interface avec le laboratoire ; exports limités"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme de réservation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS tiers grand public"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Éditeur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patients, accueil"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Agendas synchronisés avec MediDossier seulement ; double saisie dans les centres CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Téléphonie du centre d'appels"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Téléphonie IP cloud"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Opérateur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"22 téléconseillers"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48"
+],
+[
+"t",
+"0 000 appels par an, 18 % non décrochés"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"FactuSanté"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Facturation, tiers payant"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Progiciel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Salle serveur du siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centres MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Les centres CareOne facturent avec le module de CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"PACS et RIS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Imagerie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Progiciel, "
+],
+[
+"t",
+"une instance et un stockage local par centre d'imagerie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Manipulateurs, radiologues"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"45 To, stockage plein à 82 %"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Portail patient et téléconsultation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Espace patient, soins à distance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développement interne : Angular 12, Node.js 14"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Cloud certifié HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patients, médecins"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Angular 12 et Node.js 14 hors support ; aucun test de bout en bout"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Services de la plateforme Medisecure Connect"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patients, rendez-vous, documents, facturation, télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développement interne : Python, .NET, Node.js"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Cloud certifié HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Applications de la plateforme"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Détail dans la section sur la plateforme"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediSuivi (application mobile)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"React Native 0.63"
+],
+[
+"t",
+", repris d'un prototype de 2020"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Magasins d'applications"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 200 patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Version obsolète"
+],
+[
+"t",
+", qui ne peut plus être mise à jour sur Google Play depuis fin 2025"
+],
+[
+"t",
+" ; notée 2,9/5 ; déconnexions des appareils fréquentes"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Console de coordination"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Java Swing, JDK 8, installée sur les postes"
+],
+[
+"t",
+" ; fournie en 2023 par le fabricant des appareils, reprise en interne en 2024"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Postes des infirmières"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6 infirmières"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune évolution depuis 2024, seulement des corrections urgentes"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"ERP finance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Comptabilité, achats"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Progiciel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Salle serveur du siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fonctionnel"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Paie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"RH"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS externalisé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestataire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service RH"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fonctionnel"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plannings des praticiens"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"RH, opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fichiers Excel sur SharePoint"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft 365"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directeurs de centre"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucun lien avec les agendas de rendez-vous"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft 365"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Bureautique, messagerie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licences E3 et F3 ; authentification multifacteur pour la DSI seulement"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Messagerie sécurisée de santé (MSSanté)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Échanges entre soignants"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service d'un opérateur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Opérateur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Praticiens"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Utilisée pour 12 % des courriers seulement"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Power BI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Reporting"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS, 3 licences Pro"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Alimenté par des exports CSV manuels"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Site web"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Communication"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"WordPress"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergeur mutualisé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Public"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Extensions non mises à jour"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"GLPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Support, inventaire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Open source"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Salle serveur du siège"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Inventaire incomplet"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Hors inventaire officiel : des secrétaires et des médecins utilisent des assistants d'IA générative gratuits pour rédiger des courriers. Le"
+],
+[
+"t",
+"s journaux du pare-feu "
+],
+[
+"t",
+"relèvent environ 1 500 connexions par semaine vers ces services"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"La plateforme Medisecure Connect"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Medisecure Connect regroupe les applications développées "
+],
+[
+"t",
+"ou reprises en interne depuis 2020 : le portail patient avec la téléconsultation, l'application MediSuivi, la console des infirmières de coordination (fournie par le fabricant en 2023, reprise en 2024)"
+],
+[
+"t",
+" et les services qui les font fonctionner. "
+],
+[
+"t",
+"Issue de l'outil de téléconsultation de 2020, elle s'est étendue entre 2021 et 2023 ; aucune architecture cible n'a été documenté"
+],
+[
+"t",
+"e."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Architecture actuelle"
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/9fed0203-37fa",
+"caption": "Schéma d'architecture logicielle · tech lead de la plateforme, septembre 2026"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La plateforme a été découpée en services entre 2021 et 2023, mais quatre d'entre eux partagent la même base PostgreSQL et lisent directement les tables des autres. Une modification d"
+],
+[
+"t",
+"e la structure des tables du service Patient peut ainsi casser la facturation ou la télésurveillance. La base MariaDB, héritée de 2020, sert aujourd'hui à Keycloak ; MinIO et MongoDB stockent les documents"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Elle échange avec l'extérieur de quatre façons. Le service Patient reçoit chaque nuit un export CSV des identités de MediDossier, mais rien de CareOne. Le service Télésurveillance interroge toutes les cinq minutes l'API de la plateforme du fabricant des appareils. Le service Rendez-vous synchronise les créneaux de téléconsultation avec la plateforme de réservation. Le service Facturation produit un fichier mensuel des forfaits, ressaisi ensuite dans FactuSanté."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Qualité du code"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le code compte environ 210 000 lignes, dont 140 000 en Python. Trois versions de Python coexistent (3.7, 3.8 et 3.9) et les dépendances ne sont pas figées : les fichiers requirements.txt ne correspondent plus à ce qui tourne en production. Le code n'est pas typé et n'a pas de documentation générée. "
+],
+[
+"t",
+"La création des objets métier est dispersée dans une quarantaine de modules. La connexion à la base passe par un objet global partagé, non conçu pour les accès simultanés, à l'origine de plusieurs incidents sous charge. Les règles de facturation tiennent dans une fonction de 1 200 ligne"
+],
+[
+"t",
+"s."
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/bdd0a5fa-a76c",
+"caption": "Données fictives · rapports de couverture de l'intégration continue"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Sur les douze derniers mois, 31 % des mises en production ont été suivies d'un correctif urgent dans la semaine."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Ce que les directions attendent de la nouvelle plateforme"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Attente"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Exprimée par"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Volume ou contrainte"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Un dossier patient unique, partagé entre les centres et la télémédecine"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"50"
+],
+[
+"t",
+"0 000 dossiers à rapprocher, dont 30 000 doublons"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prise de rendez-vous intégrée, y compris pour la téléconsultation et les centres CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction des opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1,3 million de rendez-vous par an, pics de 1 200 connexions simultanées le lundi matin"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tri intelligent des alertes de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 000 patients et 9 millions de mesures par mois en 2030"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ordonnance "
+],
+[
+"t",
+"numér"
+],
+[
+"t",
+"ique et documents versés au DMP"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"O"
+],
+[
+"t",
+"rdonnance numérique obligatoire ; alimentation du DMP attendue par les financeurs"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Facturation automatique des forfaits et des téléconsultations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 200 forfaits par mois aujourd'hui, 15 000 en 2030"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Disponibilité de 99,9 % et temps de réponse inférieur à 2 secondes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"S"
+],
+[
+"t",
+"ur 24 h/24 et 7 j/7, soit moins de 9 heures d'arrêt par an ; 95 % des requêtes en moins de 2 secondes"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Accessibilité de niveau AA (WCAG 2.1)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction générale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patients âgés ou en situation de handicap"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Échanges avec les laboratoires, l'imagerie et l'Assurance Maladie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"HPRIM et HL7 FHIR, DICOM, SESAM-Vitale"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Infrastructure, réseau et postes de travail"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"L'essentiel du SI tourne dans une seule salle serveur au siège, sur une virtualisation hors support, sans site de secours ni plan de reprise"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Architecture technique"
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/c98c7687-e471",
+"caption": "Schéma réseau Medisecure · version DSI 2024"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"La salle serveur "
+],
+[
+"t",
+"compte"
+],
+[
+"t",
+" trois serveurs physiques. La virtualisation repose sur VMware vSphere 6.7, que l'éditeur ne maintient plus depuis 2022."
+],
+[
+"t",
+" En 2026, l'intégrateur a remis un devis de remise en support sous forme d'abonnement : 38 k€ par an, contre 6 k€ de support en 2021."
+],
+[
+"t",
+" L'annuaire Active Directory est synchronisé avec Microsoft Entra ID pour Microsoft 365. La salle a une climatisation simple et un onduleur de 30 minutes d'autonomie, mais pas de groupe électrogène."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les sauvegardes sont faites chaque nuit "
+],
+[
+"t",
+"avec Veeam sur un NAS installé dans la même salle que les serveurs, et conservées 14 jours seulement"
+],
+[
+"t",
+". Une copie part chaque semaine sur bande, et la bande est rangée au domicile du DSI. Aucun plan de reprise d'activité n'a été écrit ni testé ; l"
+],
+[
+"t",
+"e dernier test de restauration complète du SI"
+],
+[
+"t",
+" date de 2023."
+],
+[
+"t",
+" Les 22 machines virtuelles du cloud sont sauvegardées par une instance Veeam chez l'hébergeur, dans la même zone."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les 14 centres sont reliés au siège par le réseau privé de l'opérateur"
+],
+[
+"t",
+". Le contrat signé en 2019 limite leur débit garanti de 20 à 100 Mbit/s, et le lien du siège, à 200 Mbit/s, est saturé aux heures de pointe. Les centres d'Île-de-France utilisent MediDossier par des sessions de bureau à distance ouvertes sur des serveurs du siège. Tous les centres sortent"
+],
+[
+"t",
+" sur Internet par le pare-feu de Lille, y compris pour utiliser les services SaaS. À "
+],
+[
+"t",
+"Béthune, le Wi-Fi des patients n'est toujours pas séparé du réseau interne ; il l'a été en urgence à Lens après l'incident"
+],
+[
+"t",
+". "
+],
+[
+"t",
+"La plateforme Medisecure Connect tourne chez un hébergeur certifié HDS, sur 22 machines virtuelles"
+],
+[
+"t",
+", dans une seule zone et sans réplication."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Postes de travail et équipements"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Équipement"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Nombre"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Remarque"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Postes de travail"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"780"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 % encore sous Windows 10, hors support depuis octobre 2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"dont postes d'accueil partagés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"64"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Un compte commun par centre"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Imprimantes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"210"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Modèles différents selon l'origine des centres"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Lecteurs de cartes Vitale et de cartes professionnelles"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"29"
+],
+[
+"t",
+"0"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Indispensables à la facturation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Smartphones des infirmières de coordination"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune gestion centralisée"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les postes sont protégés par un antivirus classique, sans outil de détection et de réponse aux menaces (EDR)."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Données et échanges"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les données de Medisecure sont "
+],
+[
+"t",
+"dispersées : pas de référentiel patient commun, pas d'entrepôt de données, et beaucoup d'"
+],
+[
+"t",
+"échanges encore manuels. La télésurveillance "
+],
+[
+"t",
+"deviendra la source la plus volumineuse "
+],
+[
+"t",
+"en nombre d'enregistrements "
+],
+[
+"t",
+"si le plan 2030 est tenu"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Volumétries"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Données"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Volume actuel"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Évolution"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Format"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dossiers MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"34"
+],
+[
+"t",
+"0 000 patients, 9,5 millions de documents, base de 2,8 To"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"+8 % par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SQL Server, PDF"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dossiers CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1"
+],
+[
+"t",
+"6"
+],
+[
+"t",
+"0 000 patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"+5 % par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS, exports CSV"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1,3 million par an, "
+],
+[
+"t",
+"annulations comprises, "
+],
+[
+"t",
+"5 ans d'historique"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Suit l'activité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"API de la plateforme "
+],
+[
+"t",
+"de réservation "
+],
+[
+"t",
+"(payante)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Factures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1,"
+],
+[
+"t",
+"2"
+],
+[
+"t",
+" million de feuilles de soins par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Suit l'activité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Base FactuSanté, module CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Imagerie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"45 To"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"+"
+],
+[
+"t",
+"5"
+],
+[
+"t",
+" To par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DICOM"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mesures de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2,5 millions par mois, base de 1,1 To"
+],
+[
+"t",
+" (réponses brutes de l'API conservées)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Environ 9 millions par mois si 15 000 patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"PostgreSQL, JSON"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Alertes de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 900 par semaine"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Suit le nombre de patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"PostgreSQL"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Appels du centre d'appels"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48"
+],
+[
+"t",
+"0 000 par an"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stable"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Journaux de téléphonie"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Journaux techniques"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non centralisés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"—"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Divers"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"La télésurveillance"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Depuis son lancement mi-2023, MediSuivi a gagné des patients chaque trimestre, jusqu'au plafond atteint début 2026."
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/adf0abe1-57c1",
+"caption": "Données fictives · base MediSuivi, juillet 2023 - septembre 2026"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Un patient diabétique produit 24 valeurs par jour : la plateforme du fabricant transmet une valeur de glucose par heure, et conserve les valeurs brutes, relevées toutes les 5 minutes. Un insuffisant cardiaque en produit environ 7 (poids, tension, pouls). La taille de la base vient d'un choix de conception : le service Télésurveillance enregistre aussi la réponse brute de chaque appel à l'API du fabricant"
+],
+[
+"t",
+". À 15 000 patients, la cible du plan 2030, "
+],
+[
+"t",
+"le service Télésurveillance"
+],
+[
+"t",
+" recevrait environ 9 millions de mesures par mois et, au rythme actuel, près de 7 000 alertes par semaine."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Qualité des données"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les 500 000 dossiers des deux DPI correspondent à environ 470 000 personnes, dont 410 000 ont consulté au moins une fois en 24 mois. "
+],
+[
+"t",
+"Environ 30 000 patients ont un dossier dans chacun des deux DPI, sans aucun lien entre les deux. Chaque DPI a aussi son propre référentiel de praticiens et de lieux, ce qui oblige le contrôle de gestion à faire les correspondances à la main. Les diagnostics sont codés en CI"
+],
+[
+"t",
+"SP-2"
+],
+[
+"t",
+" dans MediDossier mais saisis en texte libre dans CareOne. "
+],
+[
+"t",
+"L'identité nationale de santé n'est qualifiée que pour 40 % des patients. Enfin, la plateforme de réservation conserve le statut « non honoré » de chaque rendez-vous depuis 2021"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Échanges avec l'extérieur et entre applications"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Flux"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"De → vers"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Format"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Fréquence"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Remarque"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Feuilles de soins"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"FactuSanté et CareOne → Assurance Maladie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"SESAM-Vitale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Par lots, chaque jour"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4,5 % de rejets"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Résultats de laboratoire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Laboratoire → MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"HPRIM Santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quotidienne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Automatique"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Résultats de laboratoire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Laboratoire → centres CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"PDF par courriel"
+],
+[
+"t",
+" non sécurisé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quotidienne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Classement manuel"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Documents patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier → DMP (Mon espace santé)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Documents CDA via l'API"
+],
+[
+"t",
+" DMP"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Au fil de l'eau"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"35 % des documents envoyés ; rien depuis CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Courriers médicaux"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPI → confrères"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MSSanté ou courriel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Au fil de l'eau"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MSSanté pour 12 % des courriers"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rendez-vous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme "
+],
+[
+"t",
+"de réservation "
+],
+[
+"t",
+"↔ MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"API"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Toutes les 5 minutes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rien vers CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Créneaux de téléconsultation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme de réservation ↔ service Rendez-vous"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"API"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Au fil de l'eau"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Seul lien entre la téléconsultation et les rendez-vous"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mesures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dispositifs → "
+],
+[
+"t",
+"application MediSuivi → plateforme du fabricant → service Télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"API REST"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Toutes les 5 minutes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dépend du fabricant"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Synthèses de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Console des infirmières"
+],
+[
+"t",
+" → DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ressaisie manuelle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mensuelle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune interface"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pilotage"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPI, FactuSanté, paie → Excel et Power BI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Exports CSV"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mensuelle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Consolidation à la main"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Identités des patients"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier → service Patient"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Export CSV"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Chaque nuit"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rien depuis CareOne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Forfaits de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service Facturation → FactuSanté"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fichier, puis ressaisie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mensuelle"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Double saisie"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Sécurité et conformité"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"L"
+],
+[
+"t",
+"'état des lieux du RSSI conclut à un niveau de sécurité insuffisant au regard des données traitées. L'incident de mars 2025 a porté le sujet devant les instances dirigeantes"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"L'incident de mars 2025"
+]
+]
+},
+{
+"type": "embed",
+"ref": "node/f924e4b1-689f",
+"caption": "Chronologie reconstituée par le prestataire de réponse à incident"
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le"
+],
+[
+"t",
+" "
+],
+[
+"t",
+"10 mars 2025 au matin, un courriel d'hameçonnage a ouvert la voie à l'attaquant, qui s'est connecté l'après-midi même au VPN du centre de Lens. Ce VPN et le serveur de fichiers, hérités de l'ancien propriétaire, avaient été conservés après le rachat de 2019, ce qui explique que seul ce centre ait été touché. Le chiffrement a eu lieu le 12 mars à 2 h 40 et a été découvert le"
+],
+[
+"t",
+" même jour à 7 h 45. Le"
+],
+[
+"t",
+"s journaux disponibles ne permettent pas de savoir si des données de patients ont été copiées avant le chiffrement. Le coût de l'incident est estimé à 310 k€ : 190 k€ d'activité perdue"
+],
+[
+"t",
+" (trois jours de fermeture"
+],
+[
+"t",
+", puis environ six semaines d'activité réduite d'un tiers"
+],
+[
+"t",
+"), 85 k€ pour le prestataire de réponse à incident et 35 k€ de remplacement de matériel. L"
+],
+[
+"t",
+"'incident a été signalé au CERT Santé par le portail de signalement le 15 mars, et une plainte a été déposée. La violation a été notifiée à la CNIL le 17 mars, au-delà du délai de 72 heures prévu par le RGPD. Medisecure n'a pas d'assurance cyber, et la question de l'information des patients n'a pas été tranchée"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"État des lieux"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Le RSSI a dressé cet état des lieux à son arrivée, en septembre 2025"
+],
+[
+"t",
+", et l'a mis à jour en septembre 2026"
+],
+[
+"t",
+". "
+],
+[
+"t",
+"Après l'incident, seules des mesures d'urgence ont été prises : EDR déployé par le prestataire sur Lens et le siège avec une licence de six mois non renouvelée, réinitialisation des mots de passe, authentification multifacteur sur le VPN des prestataires, séparation du Wi-Fi des patients à Lens. Le programme de fond n'a pas été financé"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Domaine"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Constat"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Gouvernance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Politique de sécurité (PSSI) de 2018, jamais révisée. Ni cartographie ni analyse de risques à jour."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Identités et accès"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Authentification multifacteur pour la DSI "
+],
+[
+"t",
+"et, depuis l'incident, pour le VPN des prestataires"
+],
+[
+"t",
+". Comptes partagés aux accueils. Environ 120 comptes de personnes parties toujours actifs. Prestataires avec un accès VPN permanent."
+],
+[
+"t",
+" Les soignants se connectent à la console et au portail avec des comptes Keycloak locaux ; Pro Santé Connect n'est pas intégré."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Postes et serveurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Antivirus classique "
+],
+[
+"t",
+"; l'EDR déployé en urgence en 2025 n'est plus sous licence"
+],
+[
+"t",
+". Correctifs appliqués irrégulièrement. Composants hors support "
+],
+[
+"t",
+"sur site : vSphere 6.7 et SQL Server 2014 au siège, Windows 10 sur 15 % des postes"
+],
+[
+"t",
+". Sur la plateforme : Python 3.7"
+],
+[
+"t",
+", 3.8 et 3.9, Django 2.2, Flask 2.0, .NET Core 3.1, Node.js 14 et 16, Angular 12, React Native 0.63, PostgreSQL 13, MariaDB 10.5, RabbitMQ 3.8, Redis 6.0, HAProxy 2.4"
+],
+[
+"t",
+", CentOS 7"
+],
+[
+"t",
+", Keycloak 15"
+],
+[
+"t",
+"."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Détection"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pas de supervision de sécurité. Journaux non centralisés, conservés quelques jours sur chaque serveur."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegarde et reprise"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegardes "
+],
+[
+"t",
+"quotidiennes dans la même salle que les serveurs, non isolées du réseau ; seule une bande hebdomadaire sort du site, au domicile du DSI"
+],
+[
+"t",
+". Aucun plan de reprise"
+],
+[
+"t",
+", ni écrit ni"
+],
+[
+"t",
+" testé."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Wi-Fi des patients non séparé à "
+],
+[
+"t",
+"Béthune. Une seule sortie Internet, au siège."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personnel"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Aucune sensibilisation depuis 2022. Usage d'IA génératives gratuites non encadré."
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Conformité"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Cadre"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Situation"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Question ouverte"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"RGPD"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPO externe 2 jours par mois ; registre incomplet (MediSuivi absent) ; aucune analyse d'impact "
+],
+[
+"t",
+"(AIPD) "
+],
+[
+"t",
+"; durées de conservation non appliquées"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quelles analyses d'impact sont obligatoires ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergement de données de santé (HDS)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hébergeurs externes certifiés ; la salle du siège"
+],
+[
+"t",
+", exploitée par Medisecure Services, héberge les données de santé des centres gérés par l'association"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quelles obligations s'appliquent à chaque hébergement"
+],
+[
+"t",
+", au regard du référentiel HDS de 2024"
+],
+[
+"t",
+" ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"NIS2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non analysé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Medisecure "
+],
+[
+"t",
+"est-elle concernée, quelle entité"
+],
+[
+"t",
+", et à quel titre ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"AI Act"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non analysé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quel niveau de risque pour chaque projet d'IA envisagé ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Référentiels e-santé (Ségur)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"INS qualifiée pour 40 % des patients ; DMP partiellement alimenté ; MSSanté peu utilisée"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quel plan de mise en conformité ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Accessibilité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Application MediSuivi et site jamais audités ; nombreux patients âgés ou en situation de handicap"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quelle obligation légale, et quel engagement volontaire ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dispositifs médicaux (règlement UE 2017/745)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Le dispositif du fabricant est marqué CE ; "
+],
+[
+"t",
+"l'application MediSuivi, qui relaie les mesures, et les règles d'alerte du service Télésurveillance, affichées dans la console, n'ont jamais été évaluée"
+],
+[
+"t",
+"s"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ces logiciels sont-ils des dispositifs médicaux"
+],
+[
+"t",
+" ? Quelles conséquences pour le projet de tri des alertes ?"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Espace européen des données de santé (EHDS)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Non analysé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Quelles exigences s'appliqueront aux logiciels de dossier patient d'ici 2030 ?"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Continuité d'activité : ce que demandent les métiers"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"En septembre 2026, le RSSI a demandé à chaque direction combien de temps elle pouvait se passer de chaque application, et quelle perte de données elle pouvait accepter. Les réponses n'ont pas encore été confrontées aux coûts."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Application"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Direction consultée"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Arrêt toléré"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Perte de données tolérée"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Situation actuelle"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance et console des infirmières"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 minutes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Une seule zone, sauvegarde chaque nuit, restauration jamais testée"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Téléphonie du centre d'appels"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 heure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sans objet"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service de l'opérateur"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 heure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegarde chaque nuit, restauration complète estimée à 2 jours"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 heure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Engagement de l'éditeur : 99,5 % de disponibilité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plateforme de réservation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"8 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 heure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Engagement de l'éditeur : 99,9 % de disponibilité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Microsoft 365"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Toutes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"8 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 heure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service Microsoft"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Portail patient et téléconsultation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegarde chaque nuit"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"PACS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stockage local, aucune copie hors site"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"FactuSanté"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"48 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegarde chaque nuit"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"ERP finance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5 jours"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sauvegarde chaque nuit"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Paie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ressources humaines"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"5 jours, sauf en fin de mois"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24 heures"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestataire externe"
+]
+]
+}
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Toutes les directions ont "
+],
+[
+"t",
+"d'abord répondu « le moins possible » ; les valeurs du tableau ont été obtenues "
+],
+[
+"t",
+"après relance"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Ce que disent les acteur"
+],
+[
+"t",
+"s"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Ces "
+],
+[
+"t",
+"propo"
+],
+[
+"t",
+"s ont été recueillis lors d'entretiens internes en septembre 2026."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Partie prenante"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Verbatim"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Thomas Reynaud, directeur général"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Je découvre les chiffres du mois quand il est déjà trop tard pour agir. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dr Nadia Benali, directrice médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Un patient vu à Lens puis à "
+],
+[
+"t",
+"Lille"
+],
+[
+"t",
+" a deux dossiers. Un jour, on passera à côté d'une allergie. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sophie Marchand, directrice administrative et financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« L'incident nous a coûté 310 k€, et on me demande encore d'arbitrer des projets SI sans aucun chiffrage. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Karim Haddad, directeur des opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Les plannings des médecins sont dans Excel, les rendez-vous ailleurs : on ouvre des créneaux sans médecin. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Claire Vasseur, directrice innovation et e-santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« "
+],
+[
+"t",
+"On me demande de multiplier les patients par trois et demi, avec une appli que les patients notent mal et une équipe qui ne suit déjà plus l"
+],
+[
+"t",
+"es alertes. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Philippe Lemaire, directeur des SI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« "
+],
+[
+"t",
+"On m'a demandé pendant dix ans de faire tourner l'existant avec un budget de fonctionnement, je l'ai fait. Un schéma directeur, personne ne me l'a demandé avant juin"
+],
+[
+"t",
+". »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Julien Morel, RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Je n'ai ni cartographie ni journaux. Si nous sommes attaqués demain, je ne saurai pas ce qui a été touché. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPO externe"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Le "
+],
+[
+"t",
+"traitement de télésurveillance n'est même pas au registre, et aucune analyse d'impact n'a été fait"
+],
+[
+"t",
+"e. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Laura Petit, data analyst"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Je passe 80 % de mon temps à nettoyer des exports CSV. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Médecin généraliste, centre de Roubaix"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« J'ai trois fenêtres ouvertes : le DPI, la téléconsultation et la messagerie. Rien ne se parle. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Infirmière de coordination"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« "
+],
+[
+"t",
+"La plupart des alertes, c'est une balance posée sur le tapis ou un capteur qui n'a pas synchronisé. On les acquitte à la chaîne, et j'ai peur d'en rater une vraie"
+],
+[
+"t",
+". »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Secrétaire médicale, centre de "
+],
+[
+"t",
+"Douai"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« On tape les comptes rendus dictés le soir. Certaines collègues utilisent une IA gratuite pour aller plus vite. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Patient télésurveillé (avis sur un magasin d'applications)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« L'appli perd la connexion avec mon tensiomètre tous les deux jours. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Mehdi Saïdi, tech lead de la plateforme"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Chaque service lit les tables des autres. "
+],
+[
+"t",
+"Plus personne n'ose toucher aux tables du service Patient sans prévenir tout le monde"
+],
+[
+"t",
+". »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Émilie Roussel, directrice des ressources humaines"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Je n'ai aucune visibilité sur les compétences dont la DSI aura besoin dans trois ans, ni sur les départs à anticiper. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directrice du centre de Saint-Denis"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« "
+],
+[
+"t",
+"Au rachat, on nous a laissé CareOne, et les médecins y tiennent"
+],
+[
+"t",
+". Si on nous impose un autre DPI sans nous demander notre avis, je vais perdre des médecins. »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Représentant du fonds au comité stratégique"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"« Nous financerons la transformation si nous voyons son effet sur la marge de la société avant notre sortie, prévue vers 2030. »"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Projets envisagés et contraintes"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les directions ont proposé 12 projets, sans chiffrage ni priorités, pour une enveloppe de 4,5 M€ sur 3 ans. "
+],
+[
+"t",
+"Selon la directrice financière, l'enveloppe ne suffira pas à tout financer, mais aucun chiffrage ne le montre encore"
+],
+[
+"t",
+"."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Projet"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Porté par"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Ce que l'on sait"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Unification des DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI, direction médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"La fin de maintenance de MediDossier v8 (décembre 2027) impose une décision"
+],
+[
+"t",
+". Options citées : tout migrer vers CareOne, passer à MediDossier v9 en SaaS, ou lancer un"
+],
+[
+"t",
+" appel d'offres"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Entrepôt de données et pilotage"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction générale, direction financière"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Objectif : reporting à J+2"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prédiction des rendez-vous non honorés (IA)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction des opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Objectif : passer de 7 % à 4 %"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Priorisation des alertes de télésurveillance (IA)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"85 % d"
+],
+[
+"t",
+"'alertes jugées non actionnables par les infirmières (estimation)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Assistant IA de rédaction des comptes rendus"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Motivation : usages actuels d'IA gratuites, non encadr"
+],
+[
+"t",
+"és"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Refonte de la "
+],
+[
+"t",
+"plateforme Medisecure Connect"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sortir de la dette technique, intégrer les"
+],
+[
+"t",
+" DPI, ordonnance "
+],
+[
+"t",
+"numérique en téléconsultation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Passage à l'échelle de MediSuivi"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction innovation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 000 patients et l"
+],
+[
+"t",
+"'insuffisance respiratoire chronique"
+],
+[
+"t",
+" d'ici 2030"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Programme de cybersécurité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Authentification multifacteur, EDR, sauvegardes isolées, plan de reprise, supervision, sensibilisation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Modernisation de l'infrastructure"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sortie de vSphere 6.7 ; question du passage au cloud"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Interopérabilité Ségur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"INS, DMP, MSSanté"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plannings et rendez-vous unifiés"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction des opérations"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Supprimer les plannings Excel"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Intégration des futurs centres"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction générale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"6 centres d'ici 2030, dont 3 rachats"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Contraintes"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Contrainte"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Détail"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Budget"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"4,5 M€ d'investissement sur 2027-2029. Le budget de fonctionnement SI ne peut pas augmenter de plus de 10 % par an."
+],
+[
+"t",
+" L'enveloppe couvre les dépenses externes des projets et le coût des nouveaux recrutements sur la période ; le temps des équipes existantes n'y est pas imputé."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Calendrier"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fin de maintenance de MediDossier v8 en décembre 2027"
+],
+[
+"t",
+" ; l'éditeur propose un support étendu de 12 mois facturé 40 % plus cher. "
+],
+[
+"t",
+"L'enveloppe de 4,5 M€ ne commence qu'en 2027 : en 2026, aucun budget n'est prévu pour de nouveaux projets"
+],
+[
+"t",
+"."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Équipe"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"24"
+],
+[
+"t",
+" personnes à la DSI, 4 "
+],
+[
+"t",
+"postes supplémentaires au plus d'ici 2029, hors remplacement des départs"
+],
+[
+"t",
+"."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Continuité des soins"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centres ouverts de 8 h à 20 h, du lundi au samedi ; télésurveillance 7 jours sur 7. Les bascules se font la nuit ou le dimanche."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réglementation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Données de santé (RGPD article 9, HDS), obligations du Ségur du numérique ; NIS2 et AI Act à analyser."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Conduite du changement"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Deux cultures de DPI chez les soignants, forte résistance à un outil imposé."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Actionnaire"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Le fonds attend une amélioration de la "
+],
+[
+"t",
+"marge de Medisecure Services dès 2028 et prévoit de céder sa participation vers 2030"
+],
+[
+"t",
+"."
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Environnement"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"−30 % d'empreinte numérique par patient d'ici 2030."
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Coûts de référence"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Ces ordres de grandeur, fictifs mais réalistes, servent à chiffrer les propositions. Un chiffrage doit dire lesquels il utilise et justifier ceux qu'il ajoute."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Poste"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Coût"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développeur interne confirmé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"68 k€ par an, charges comprises"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Alternant"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"25 k€ par an, charges comprises"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Développeur externe en régie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"650 € par jour"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Chef de projet externe"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"800 € par jour"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Architecte ou expert sécurité externe"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 000 € par jour"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Machine virtuelle chez l'hébergeur HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"810 € par mois en "
+],
+[
+"t",
+"infogérance complète (sauvegarde, supervision, administration) ; 200 à 300 € en simple location"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stockage objet chez l'hébergeur HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"0,03 € par Go et par mois"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Baie en colocation dans un second centre de données"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2 500 € par mois"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Licence Microsoft 365 E3"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"36 € par utilisateur et par mois, authentification multifacteur comprise"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Outil EDR"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"60 € par poste et par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Supervision de sécurité externalisée (SOC)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"90 k€ par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Sensibilisation à la sécurité "
+],
+[
+"t",
+"(module en ligne)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"25 € par salarié et par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Test d'intrusion"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 k€ par campagne"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Poste de travail renouvelé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 100 €, installation comprise"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Abonnement CareOne"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"23 k€ par centre et par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Formation d'un développeur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"2 500 € pour une session de 3 jours"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Recette moyenne d'une consultation"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"45 €"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Recette moyenne d'un examen d'imagerie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"90 €"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Forfait opérateur de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"30 € par patient et par mois"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Autres recettes (rémunération forfaitaire des centres, actes techniques)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Environ 8 M€ par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Rémunération forfaitaire liée aux indicateurs numériques"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"3 k€ perçus par centre et par an ; environ 9 k€ atteignables"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Infirmière de coordination"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"52 k€ par an, charges comprises"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Secrétaire médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"38 k€ par an, charges comprises"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MediDossier v9 en SaaS (offre de l'éditeur)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"26 k€ par centre et par an"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Support étendu de MediDossier v8"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"196 k€ pour 12 mois"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Reprise des données d'un DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"15 à 25 k€ par base"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Formation d'un soignant à un nouveau DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"1 jour, soit environ 600 € de temps médical"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Baisse d'activité d'un centre pendant un changement de DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"20 à 30 % pendant 2 à 4 semaines"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Abonnement VMware (devis 2026)"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"38 k€ par an"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Glossaire"
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Terme"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Définition"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"AI Act"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Règlement européen sur l'intelligence artificielle, qui classe les systèmes d'IA par niveau de risque"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"AIPD"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Analyse d'impact relative à la protection des données, exigée par le RGPD pour les traitements à risque élevé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"API"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Interface qui permet à deux logiciels d'échanger des données automatiquement"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"BI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Informatique décisionnelle : tableaux de bord et analyses"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"BPCO"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Bronchopneumopathie chronique obstructive, "
+],
+[
+"t",
+"principale cause d'insuffisanc"
+],
+[
+"t",
+"e respiratoire chronique"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CDA"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Format standard des documents médicaux structurés, utilisé par le DMP"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CERT-FR"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centre gouvernemental de veille et d'alerte sur les cyberattaques, rattaché à l'ANSSI"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CERT Santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centre d'alerte et de réponse aux incidents de sécurité du secteur de la santé, rattaché à l'Agence du numérique en santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CISP-2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Classification internationale des soins primaires, utilisée en médecine de ville pour coder les motifs de consultation et les diagnostics"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Client lourd"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Logiciel installé sur chaque poste de travail, par opposition à une application web"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CNIL"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Autorité française de protection des données personnelles"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"CSV"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Fichier texte en colonnes, lisible par un tableur"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DICOM"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Format standard des images médicales"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DMP"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dossier médical partagé, accessible au patient dans Mon espace santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Dossier patient informatisé : le logiciel "
+],
+[
+"t",
+"dans lequel les soignants tiennent le dossier des patients ; en ville, on parle plutôt de « logiciel métier »"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DPO"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Délégué à la protection des données"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Direction des systèmes d'information"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"EDR"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Outil de détection et de réponse aux menaces sur les postes et les serveurs"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"EHDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Espace européen des données de santé : règlement européen de 2025 sur le partage et la réutilisation des données de santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Empreinte numérique"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Impact environnemental du numérique (fabrication des équipements, énergie, réseau), exprimé en kilogrammes d'équivalent CO2"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"ERP"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Progiciel de gestion intégré (comptabilité, achats)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"ETAPES"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Programme d'expérimentation qui a financé la télésurveillance de 2018 à 2023, avant son passage dans le droit commun"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Forfait opérateur, forfait technique"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Les deux forfaits de télésurveillance : le premier rémunère l'équipe qui surveille les patients, le second l'exploitant du dispositif médical"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"FSE"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Feuille de soins électronique transmise à l'Assurance Maladie"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"HDS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Certification obligatoire pour héberger des données de santé pour le compte d'un tiers"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"HL7 FHIR"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Norme internationale d'échange de données de santé par API"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"HPRIM Santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Format d'échange des résultats de biologie entre laboratoires et logiciels médicaux"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Hors support"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Se dit d'un logiciel pour lequel l'éditeur ne publie plus de correctifs, y compris de sécurité"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Identitovigilance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Organisation qui garantit qu'un patient est correctement identifié tout au long de sa prise en charge"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"INS, INSi"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Identité nationale de santé, obligatoire pour référencer les données de santé d'un patient ; INSi est le téléservice qui permet de la récupérer et de la vérifier"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Intégration continue"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pratique qui lance automatiquement la compilation et les tests à chaque modification du code"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"LATM"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Liste des activités de télésurveillance médicale prises en charge par l'Assurance Maladie"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MPLS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Réseau privé loué à un opérateur, qui relie les sites d'une organisation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"MSSanté"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Messageries sécurisées de santé, pour les échanges entre professionnels et avec les patients via Mon espace santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"NAS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Serveur de stockage en réseau"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"NIS2"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Directive européenne sur la cybersécurité des entités essentielles et importantes, dont la santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"NPS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Indicateur de recommandation : part des promoteurs moins part des détracteurs, de −100 à +100"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"PACS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Système d'archivage et de diffusion des images médicales"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Pro Santé Connect"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Service d'authentification des professionnels de santé, avec leur carte CPS ou e-CPS"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Product owner"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Personne chargée de prioriser les besoins à développer dans une équipe agile"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Régie"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Prestation facturée au temps passé, réalisée sous la direction du client"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Règlement sur les dispositifs médicaux"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Règlement européen 2017/745 qui encadre la mise sur le marché des dispositifs médicaux, y compris des logiciels"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"RGPD"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Règlement européen sur la protection des données personnelles"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"RIS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Logiciel de gestion d'un service d'imagerie (rendez-vous, comptes rendus)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"RSSI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Responsable de la sécurité des systèmes d'information"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"SaaS"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Logiciel loué sous forme d'abonnement, utilisé en ligne et maintenu par l'éditeur"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Schéma directeur"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Plan pluriannuel qui fixe la cible du SI, les projets, leur ordre et leur budget"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"SESAM-Vitale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Système de facturation électronique avec l'Assurance Maladie"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Ségur du numérique en santé"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Programme public qui finance le partage des données de santé (INS, DMP, MSSanté, ordonnance numérique)"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"SI"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Système d'information : applications, données, infrastructures et processus numériques d'une organisation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"SOC"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Centre de supervision qui surveille les alertes de sécurité en continu"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Télésurveillance médicale"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Suivi à distance des patients chroniques, remboursé dans le droit commun depuis juillet 2023"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"Tiers payant"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Le patient n'avance pas les frais : le centre est payé directement par l'Assurance Maladie et, le cas échéant, par la complémentaire santé"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"VPN"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Connexion chiffrée qui donne accès au réseau interne à distance"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"WCAG"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Règles internationales d'accessibilité des contenus web ; le niveau AA est la référence habituelle"
+]
+]
+}
+]
+]
+},
+{
+"type": "h2",
+"inl": [
+[
+"t",
+"Usage pédagogique"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Chaque semaine de l'année 1 s'appuie sur des parties précises de ce dossier. "
+],
+[
+"t",
+"Cette section est destinée aux formateurs. Elle doit être retirée"
+],
+[
+"t",
+" de la version remise aux apprenants."
+]
+]
+},
+{
+"type": "table",
+"rows": [
+[
+{
+"h": true,
+"inl": [
+[
+"t",
+"Semaine"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Parties utilisées"
+]
+]
+},
+{
+"h": true,
+"inl": [
+[
+"t",
+"Ce que les apprenants en tirent"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S1 Veille"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stratégie 2030, sécurité et conformité, projets"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Axes de veille : réglementation santé et IA, technologies, cybersécurité, numérique responsable"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S2 SI et risques"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Parc applicatif, infrastructure, données et échanges, sécurité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Cartographie sur 4 niveaux, analyse EBIOS RM, diagnostic critique"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S3 Stratégie et architecture"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stratégie 2030, DSI, projets, contraintes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Axes d'évolution chiffrés dans l'enveloppe de 4,5 M€, architecture cible"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S4 Besoins"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Processus, "
+],
+[
+"t",
+"propos des acteur"
+],
+[
+"t",
+"s, indicateurs"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Jeu de rôle avec les parties prenantes, modèles UML, priorisation"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S5 Cahiers des charges"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Un projet retenu, conformité"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"CDC fonctionnel et technique, analyse d'impact RGPD, note de cadrage"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S6 Planification"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"DSI, contraintes"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Budget, WBS, PERT, RACI, exercice de crise inspiré de l'incident de 2025"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S7-S8 Conception"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Processus, parc applicatif"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Conception d'une application, par exemple le tri des alertes MediSuivi"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S9-S10 Développement"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Données de télésurveillance"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Application Python et pipeline ETL sur données synthétiques"
+]
+]
+}
+],
+[
+{
+"h": false,
+"inl": [
+[
+"t",
+"S11-S12 Data et IA"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Volumétries, qualité des données, projets IA"
+]
+]
+},
+{
+"h": false,
+"inl": [
+[
+"t",
+"Stratégie Big Data, base analytique, tableau de bord"
+]
+]
+}
+]
+]
+},
+{
+"type": "h3",
+"inl": [
+[
+"t",
+"Notes pour les formateurs"
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Certaines informations manquent volontairement : la durée et les clauses de sortie des contrats, le schéma réseau détaillé, le"
+],
+[
+"t",
+" modèle de données de la plateforme"
+],
+[
+"t",
+". Les apprenants doivent les demander pendant les entretiens de S4 ou poser des hypothèses argumentées."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Les directions ne sont pas d'accord entre elles. La direction médicale veut un seul DPI au plus vite, la direction financière exige d'abord un chiffrage et la direction innovation veut l'IA en priorité. Aucune réponse n'est imposée : l'apprenant tranche et justifie."
+]
+]
+},
+{
+"type": "p",
+"inl": [
+[
+"t",
+"Plusieurs supports restent à préparer : les réponses du formateur pour chaque persona du jeu de rôle"
+],
+[
+"t",
+" et le déroulé de l'exercice de crise de S6 avec ses événements minutés. Pour S9 à S12, il faudra "
+],
+[
+"t",
+"un générateur dédié : Synthea produit des données américaines (sans INS ni CISP-2) et ne simule pas les séries de mesures des capteurs. Les valeurs brutes des capteurs, une toutes les 5 minutes, justifient une architecture big data ; conclure qu'elle n'est pas nécessaire avec les seules valeurs horaires est aussi défendable"
+],
+[
+"t",
+"."
+]
+]
+}
+]

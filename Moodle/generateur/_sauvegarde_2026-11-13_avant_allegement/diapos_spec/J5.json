@@ -1,0 +1,369 @@
+{
+  "day": 5,
+  "title": "Semaine S2 · Jour 5 · Environnement du SI, diagnostic critique et autonomie",
+  "first_number": 79,
+  "deroule": "Matin : diapositives 79 à 92 (chapitres 9 et 10, lancement des deux ateliers de l'après-midi, puis QCM de l'UE2 en fin de matinée). Après-midi : diapositives 93 et 94 (ouverture du chapitre 11 et consignes du pitch d'étape), ateliers sur Medisecure (PESTEL du SI, diagnostic de deux domaines) pendant lesquels chacun passe son pitch de 5 minutes, puis diapositives 95 et 96 (planning de l'intersession et restitution orale) en fin de journée.",
+  "slides": [
+    {
+      "pattern": "cover",
+      "kicker": "UE2 · Semaine S2 · Systèmes d'information, cartographie et risques",
+      "title": "Juger l'état du SI, puis poursuivre le D2 en autonomie",
+      "subtitle": "Environnement du SI, diagnostic critique, QCM de l'UE2, pitch d'étape et planning de l'intersession : la dernière journée encadrée avant la rédaction du dossier D2.",
+      "minutes": 1.5,
+      "notes": [
+        {"cue": "Titre", "text": "Bonjour à toutes et à tous. Nous voici au dernier jour de la semaine S2, le dernier jour encadré avant l'intersession. Depuis le début de la semaine, vous avez décrit le SI de Medisecure, vous en avez analysé les risques et vous avez confronté ses besoins de continuité à la réalité. Aujourd'hui, nous passons de la description au jugement."},
+        {"cue": "Sous-titre : les cinq temps de la journée", "text": "La journée a cinq temps. L'environnement du SI d'abord, c'est le chapitre 9. Le diagnostic critique ensuite, c'est le chapitre 10. Puis le QCM de l'UE2, l'unité d'enseignement numéro deux, celle de cette semaine. L'après-midi, vos pitchs d'étape, et enfin le chapitre 11, qui organise vos deux semaines d'autonomie."},
+        {"cue": "Décor de droite", "text": "Ce soir, vous repartez seuls avec votre dossier D2. Mon objectif est simple : que vous partiez avec une méthode pour juger un SI, un plan de travail daté et un retour personnel sur l'état de votre cartographie. Gardez le cours ouvert à côté de vous. Les chapitres 9, 10 et 11 contiennent tous les tableaux que je vais vous montrer, et bien d'autres."}
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Organisation de la journée",
+      "title": "Une journée pour juger le SI et préparer l'autonomie",
+      "header": ["Moment", "Contenu", "Chapitres", "Ce que vous produisez"],
+      "rows": [
+        ["Matin", "Environnement du SI : PESTEL, cinq forces de Porter, niveau d'impact", "9", "Votre règle de niveau d'impact"],
+        ["Matin", "Diagnostic critique : maturité, hiérarchie des faiblesses, SWOT, enjeux", "10", "Votre échelle de maturité"],
+        ["Fin de matinée", "QCM de l'UE2, noté au titre du contrôle continu", "1 à 10", "Vos réponses, individuellement"],
+        ["Après-midi", "Ateliers Medisecure : PESTEL du SI, diagnostic de deux domaines", "9 et 10", "Le PESTEL et deux domaines commencés"],
+        ["Après-midi", "Pitchs d'étape de cinq minutes, non notés, pendant les ateliers", "11", "Un retour oral sur votre travail"],
+        ["Fin de journée", "Planning de l'intersession et restitution orale", "11", "Votre planning des deux périodes"]
+      ],
+      "widths": [1.3, 3.6, 1.0, 2.6],
+      "maxs": 16,
+      "note": "Le contenu exact de chaque atelier peut être ajusté par l'équipe pédagogique : le planning publié sur Moodle fait foi.",
+      "note_style": "info",
+      "minutes": 2,
+      "notes": [
+        {"cue": "Titre", "text": "Voici le programme. Comme chaque jour, la théorie occupe le matin et les ateliers sur Medisecure l'après-midi. Mais la journée est plus dense que les autres, parce qu'elle contient deux temps d'organisation : le QCM et le pitch."},
+        {"cue": "Les deux lignes « Matin »", "text": "Ce matin, deux chapitres. Le chapitre 9 analyse l'environnement externe du SI : il prépare la section 5.1 du dossier, évaluée par l'élément E16. Le chapitre 10 construit le diagnostic interne, la hiérarchie des faiblesses, le SWOT et les enjeux. Il prépare les sections 5.2 à 5.4, la synthèse d'une page et la partie 6. C'est le moment où votre dossier cesse de décrire pour commencer à juger."},
+        {"cue": "Ligne « Fin de matinée »", "text": "En fin de matinée, le QCM de l'UE2. Il est noté au titre du contrôle continu et porte sur les notions des chapitres 1 à 10. J'y reviendrai juste avant de le lancer."},
+        {"cue": "Lignes « Après-midi » et « Fin de journée »", "text": "L'après-midi, vous commencez deux ateliers : le PESTEL du SI de Medisecure, puis le diagnostic de deux domaines. Vous ne les finirez pas aujourd'hui : le tableau des exercices du chapitre 0 prévoit qu'ils s'achèvent pendant la période 2. Pendant que vous travaillez, chacun passe son pitch de cinq minutes. Nous terminons par le chapitre 11 : le planning de l'intersession et la préparation de la restitution orale."},
+        {"cue": "Bandeau du bas", "text": "Un dernier mot d'organisation. Le contenu exact de chaque atelier peut être ajusté. En cas de doute, c'est le planning publié sur Moodle qui fait foi, pas ma diapositive. Et regardez la dernière colonne : ce soir, vous devez repartir avec chacune de ces productions, même inachevée. C'est elle qui vous permettra de démarrer l'intersession dès demain matin."}
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 9",
+      "title": "Ce qui pèse sur le SI vient aussi de l'extérieur",
+      "subtitle": "Distinguer environnement interne et externe, appliquer le PESTEL au SI, traduire les cinq forces de Porter en exigences, puis classer chaque facteur en opportunité ou en menace avec un niveau d'impact.",
+      "minutes": 1,
+      "notes": [
+        {"cue": "Titre", "text": "Commençons par le chapitre 9 : analyser l'environnement du SI. Jusqu'ici, nous avons regardé le SI de l'intérieur : ses vues, ses risques, ses besoins de continuité. Ce chapitre lève les yeux."},
+        {"cue": "Sous-titre", "text": "Un SI ne vit pas en vase clos. Une loi nouvelle l'oblige à évoluer. Un concurrent mieux outillé le fait paraître vieilli. Un fournisseur qui arrête un produit le met en danger. La question du chapitre est donc simple : qu'est-ce qui, hors du contrôle de l'organisation, va peser sur son SI dans les prochaines années, et dans quel sens ? La réponse forme la section 5.1 de votre dossier. Elle alimente aussi la moitié externe du SWOT de la section 5.4. Le diagnostic de tout à l'heure n'a de sens que si l'on sait dans quel monde ce SI devra fonctionner demain."}
+      ]
+    },
+    {
+      "pattern": "steps",
+      "kicker": "Chapitre 9 · Les quatre étapes de l'analyse",
+      "title": "Identifier, collecter, analyser, évaluer : un état des lieux daté",
+      "steps": [
+        {"head": "Identifier", "body": "Lister les facteurs candidats"},
+        {"head": "Collecter", "body": "Un fait vérifiable et sa source"},
+        {"head": "Analyser", "body": "Écrire l'effet sur le SI"},
+        {"head": "Évaluer", "body": "Opportunité ou menace, niveau"}
+      ],
+      "highlight": [2],
+      "cards": [
+        {"tag": "Définition", "head": "Interne ou externe ?", "body": "L'interne se maîtrise : forces et faiblesses (section 5.2). L'externe agit sans être maîtrisé : opportunités et menaces (section 5.1)."},
+        {"head": "Macro et micro", "body": "Macro-environnement : les six dimensions du PESTEL. Micro-environnement : clients, concurrents, fournisseurs, nouveaux entrants, substituts, soit les cinq forces de Porter."},
+        {"tag": "Kestrel", "head": "Du facteur à l'effet sur le SI", "fill": "pet", "body": "Gazole plus cher : facteur économique. Pour le SI : réduire les kilomètres à vide exige des données de tournées fiables et un outil d'optimisation."}
+      ],
+      "note": "Un facteur dont l'effet sur le SI est nul ou impossible à écrire encombre la section 5.1 : écartez-le.",
+      "note_style": "warn",
+      "minutes": 3,
+      "notes": [
+        {"cue": "Titre et les quatre chevrons", "text": "L'analyse de l'environnement suit quatre étapes. Elles reprennent la logique de votre veille de la S1, avec une différence : il ne s'agit plus de surveiller en continu, mais de faire un état des lieux à une date donnée. Identifier, c'est lister les facteurs candidats, à partir des grilles, des objectifs stratégiques et des questions déjà ouvertes. Collecter, c'est trouver pour chaque facteur un fait vérifiable et sa source : un texte sur Légifrance ou EUR-Lex, une page de la Commission nationale de l'informatique et des libertés, la CNIL, ou de l'ANSSI, ou encore une section du dossier de présentation. Un facteur sans source reste une hypothèse."},
+        {"cue": "Chevron orange « Analyser »", "text": "L'étape en orange est celle qui compte le plus. Analyser, c'est écrire l'effet du facteur sur le SI : quelle application, quelles données, quel processus, quelle compétence sont touchés, et comment. C'est elle qui distingue une analyse d'une revue de presse. Évaluer, enfin, c'est classer le facteur et lui donner un niveau d'impact. Nous y venons dans un instant."},
+        {"cue": "Cartes « Interne ou externe ? » et « Macro et micro »", "text": "Deux distinctions avant d'aller plus loin. L'environnement interne, c'est ce que l'organisation maîtrise : on l'analyse en forces et en faiblesses, en section 5.2. L'environnement externe, c'est ce qu'elle ne maîtrise pas mais qui agit sur elle : on l'analyse en opportunités et en menaces, en section 5.1. Dans l'externe, on distingue le macro-environnement, terrain du PESTEL, et le micro-environnement, celui des acteurs du marché, terrain des cinq forces de Porter. Attention aux frontières : quand un éditeur annonce une fin de maintenance, l'annonce est externe ; la présence du logiciel dans votre parc est interne."},
+        {"cue": "Carte sombre « Du facteur à l'effet sur le SI », puis bandeau rouge", "text": "Et voici le cœur de la méthode, expliqué au début du chapitre 9. La hausse du prix du gazole est un facteur économique pour un transporteur. Elle devient un facteur pour le SI quand on écrit sa conséquence : la direction de Kestrel voudra mesurer et réduire ses kilomètres à vide, ce qui suppose des données de tournées fiables et un outil d'optimisation. D'où le bandeau rouge. Un facteur qui ne change rien aux applications, aux données, à l'infrastructure, à la sécurité, aux compétences ou au budget encombre votre section 5.1, même s'il est juste et bien sourcé. Écartez-le."}
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 9 · PESTEL, cinq forces et niveau d'impact",
+      "title": "Chaque facteur doit aboutir à un effet écrit sur le SI",
+      "fig": "c09-pestel-forces-si",
+      "side": {"tag": "Règle écrite", "head": "Trois niveaux d'impact", "body": ["3 : obligation applicable, objectif chiffré ou application critique, effet certain ou très probable sous deux ans.", "2 : processus ou application importante ; ou critère du niveau 3, mais lointain ou incertain.", "1 : tout le reste."]},
+      "note": "Une obligation opposable va en « légal », même si son objet est environnemental ; une orientation ou un texte en discussion va en « politique ».",
+      "note_style": "info",
+      "minutes": 3,
+      "notes": [
+        {"cue": "Le schéma : le SI au centre", "text": "Voici la figure du chapitre 9. Au centre, le SI de l'organisation, découpé en six cases : applications, données, infrastructure, sécurité, compétences, budget. Ce sont les six éléments que votre colonne « effet sur le SI » doit nommer."},
+        {"cue": "Cercle extérieur : le PESTEL, puis le bandeau du bas", "text": "Le cercle extérieur, c'est le PESTEL : politique, économique, socioculturel, technologique, environnemental, légal. L'idée remonte à Francis Aguilar, professeur à la Harvard Business School, qui proposait en 1967 de surveiller quatre secteurs de l'environnement. Le sigle à six lettres, lui, n'a pas d'auteur précis. Sa fonction est de ne rien oublier, pas de remplir six cases à tout prix. Une difficulté revient chaque année : où classer une loi ? La règle du cours est dans le bandeau. Une obligation opposable, c'est-à-dire un texte en vigueur ou adopté avec une date d'application, va en « légal », même si son objet est environnemental. Les orientations, les financements et les textes encore en discussion vont en « politique »."},
+        {"cue": "Cercle intérieur : les cinq forces", "text": "Le cercle intérieur porte les cinq forces de Michael Porter, présentées en 1979 dans la Harvard Business Review : rivalité entre concurrents, nouveaux entrants, produits de substitution, pouvoir des clients, pouvoir des fournisseurs. Pour le SI, on pose une question dérivée : face à chaque force, que doit savoir faire le SI ? Un client puissant impose ses formats et ses délais. Un fournisseur en position de force augmente ses prix ou arrête un produit. Attention : recopier le tableau des concurrents n'est pas une analyse de Porter. L'élément E16, condition b, demande au moins deux constats qui relient la pression concurrentielle à une exigence sur le SI."},
+        {"cue": "Carte de droite : la règle à trois niveaux", "text": "Reste à évaluer. Chaque facteur est classé en opportunité ou en menace, puis reçoit un niveau d'impact selon une règle écrite : c'est la condition c de E16. La règle du cours combine la portée, l'échéance et la certitude. On teste d'abord le niveau 3, puis le niveau 2 ; tout ce qui reste reçoit le niveau 1. Vous pouvez l'adapter, à condition de l'écrire avant de l'appliquer. Un tableau où tous les facteurs sont au niveau 3 prouve seulement que la règle n'a pas été appliquée. Dernier point : beaucoup de facteurs ont deux faces. Un programme public qui finance l'interopérabilité est une opportunité, mais il devient une menace si le financement dépend d'indicateurs que l'organisation n'atteint pas. Deux solutions sont acceptées : dédoubler le facteur en deux lignes, ou retenir la face dominante en écrivant pourquoi."}
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 9 · Exemple Kestrel Logistique",
+      "title": "Chez Kestrel, trois des quatre facteurs forts visent TeleFleet",
+      "header": ["Dimension", "Facteur", "Effet sur le SI", "O ou M", "Niveau"],
+      "rows": [
+        ["Politique", "Restrictions d'accès des poids lourds aux centres urbains (régime des zones à faibles émissions en discussion)", "Règles à intégrer à la planification sous Excel ; flotte à décrire dans RoutePro", "Menace", "2"],
+        ["Économique", "Hausse du coût du gazole et des péages", "Données de tournées fiables ; capacité d'optimisation absente", "Menace", "3"],
+        ["Socioculturel", "Destinataires du e-commerce : suivi en temps réel, choix d'un créneau", "Kestrel Track et KDriver : suivi fiable et rapide", "Opportunité", "3"],
+        ["Technologique", "Arrêt progressif des réseaux 2G et 3G", "Boîtiers 4G non concernés ; terminaux des sous-traitants à vérifier", "Menace", "1"],
+        ["Environnemental", "Attente des clients sur le bilan carbone des prestations", "Émissions par client tirées de TeleFleet ; utile pour ISO 14001", "Opportunité", "2"],
+        ["Légal", "Information du donneur d'ordre sur les gaz à effet de serre (code des transports)", "Émissions par envoi calculées à partir de TeleFleet", "Opportunité", "3"],
+        ["Légal", "Doctrine de la Commission nationale de l'informatique et des libertés sur la géolocalisation", "Positions TeleFleet sans durée définie : purge exigée", "Menace", "3"]
+      ],
+      "widths": [1.25, 2.9, 2.8, 1.05, 0.75],
+      "note": "Commentaire : deux menaces (coûts, conformité), deux opportunités (40 % d'e-commerce, ISO 14001), aucune solution proposée.",
+      "note_style": "key",
+      "minutes": 3,
+      "notes": [
+        {"cue": "Titre et première colonne", "text": "Voyons la méthode appliquée chez Kestrel Logistique. L'analyste part du plan Cap 2029 : livrer à J+1 sur toute la région, réduire de 20 % les kilomètres à vide, porter le e-commerce à 40 % du chiffre d'affaires, obtenir la certification ISO 14001. Ces quatre objectifs servent de repères pour juger l'impact. Il retient neuf facteurs ; le cours en montre huit, j'en affiche sept, au moins un par dimension. Le huitième concerne NIS2, qui pourrait s'appliquer à Kestrel au titre des services postaux et d'expédition : c'est une menace de niveau 2, parce que sa réalisation reste incertaine."},
+        {"cue": "Lignes « Économique » et « Socioculturel »", "text": "Regardez la colonne « effet sur le SI ». La hausse du gazole et des péages devient une menace de niveau 3, parce qu'elle touche l'objectif chiffré des kilomètres à vide : il faut des données de tournées fiables, dans TeleFleet et RoutePro, et une capacité d'optimisation dont Kestrel ne dispose pas, le module de RoutePro n'ayant jamais été acheté. L'attente des destinataires du e-commerce est au contraire une opportunité de niveau 3 : la synchronisation de KDriver toutes les deux minutes devient un argument commercial."},
+        {"cue": "Les deux lignes « Légal »", "text": "Les deux lignes légales illustrent le classement. L'obligation d'informer le donneur d'ordre des gaz à effet de serre émis par la prestation figure dans le code des transports depuis 2013. L'analyste la classe en opportunité, comme face dominante, parce que Kestrel dispose déjà des données dans TeleFleet ; et il écrit pourquoi. La doctrine de la CNIL sur la géolocalisation des salariés est une menace de niveau 3 : TeleFleet conserve les positions sans durée définie."},
+        {"cue": "Lignes « Politique » et « Technologique »", "text": "Dans le cours, plusieurs lignes portent la mention « à vérifier ». Le régime des zones à faibles émissions a été remis en discussion au Parlement en 2025 : c'est donc un facteur politique, de niveau 2. L'arrêt de la 2G et de la 3G est au niveau 1, car les boîtiers 4G des quarante camions ne sont pas concernés. Ces mentions sont honnêtes et acceptées, à condition de faire la vérification avant le rendu ou de laisser la mention dans le dossier."},
+        {"cue": "Bandeau sombre du bas", "text": "Le commentaire final tient en trois phrases. Trois des quatre facteurs de niveau 3 convergent vers TeleFleet et ses données ; le quatrième vise le couple Kestrel Track et KDriver. Deux sont des menaces, deux des opportunités. Et l'analyse ne propose aucune solution : elle ne dit pas qu'il faut changer de TMS, le logiciel de gestion du transport. Ce choix revient au schéma directeur, donc au dossier D3."}
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 9 · Atelier de l'après-midi",
+      "title": "Votre PESTEL de Medisecure commence par une règle écrite",
+      "name": "Le PESTEL du SI de Medisecure et les cinq forces",
+      "duration": "2 h 30",
+      "consigne": [
+        "Écrivez d'abord votre règle de niveau d'impact, et datez-la.",
+        "Identifiez au moins deux facteurs par dimension du PESTEL, chacun avec un fait sourcé et une phrase sur son effet sur le SI.",
+        "Appliquez les cinq forces de Porter, en distinguant la concurrence pour les patients et la concurrence pour les médecins.",
+        "Sources : « Marché et concurrence », « Conformité », « Plan Medisecure 2030 », « Contraintes », « La veille aujourd'hui », vos fiches du D1 mises à jour."
+      ],
+      "livrable": "Votre règle d'impact ; un tableau PESTEL d'au moins douze facteurs en six colonnes ; un tableau des cinq forces avec deux constats reliés au SI ; un commentaire de cinq lignes.",
+      "dossier": "Section 5.1, élément E16 ; alimente le SWOT de la section 5.4 (E19).",
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Titre et durée", "text": "Premier atelier de l'après-midi : le PESTEL du SI de Medisecure et les cinq forces. Durée indicative : deux heures trente. Vous le commencez cet après-midi et vous l'achèverez pendant la période 2. Vous travaillez seuls ; vous pouvez comparer vos sources avec votre voisin, mais le tableau est le vôtre."},
+        {"cue": "Consigne", "text": "Commencez par écrire votre règle de niveau d'impact, et datez-la. Pas l'inverse : une règle écrite après coup sert à justifier des notes déjà posées. Identifiez ensuite au moins deux facteurs par dimension, chacun avec un fait sourcé et une phrase sur son effet sur le SI. Puis appliquez les cinq forces, en distinguant deux concurrences : celle pour les patients, et celle pour les médecins. Le chapitre le rappelle : quand une ressource est rare, son pouvoir de négociation devient une force à part entière."},
+        {"cue": "Dernière phrase de la consigne : les sources", "text": "Vos sources sont dans le dossier de présentation, aux sections affichées. Pour le réglementaire, remontez à la source primaire, ou reprenez vos fiches de veille du D1, mises à jour et citées : les consignes l'autorisent. Mais attention à la traduction. Une fiche de veille dit ce qu'une information change pour l'organisation ; la section 5.1 doit dire ce qu'elle change pour le SI, ce qui est plus étroit."},
+        {"cue": "Carte « Livrable »", "text": "En passant dans les rangs, je vérifierai trois choses : que votre règle est écrite avant le tableau, que chaque ligne a une source, et que la colonne « effet sur le SI » nomme un élément précis du SI. Ce travail devient votre section 5.1, évaluée par E16. Et n'oubliez pas : un facteur absent de la section 5.1 ne pourra pas apparaître dans votre SWOT. Si vous terminez vos douze facteurs avant la fin de l'après-midi, relisez votre tableau comme le ferait un directeur général : les trois facteurs les plus forts doivent sauter aux yeux. C'est l'objet du commentaire de cinq lignes."}
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 10",
+      "title": "Un diagnostic juge, prouve et hiérarchise",
+      "subtitle": "Noter huit domaines sur une échelle de maturité écrite, classer les faiblesses par impact et urgence, croiser le SWOT, formuler des enjeux sans solution et préparer la synthèse pour une direction.",
+      "minutes": 1,
+      "notes": [
+        {"cue": "Titre", "text": "Passons au chapitre 10, le diagnostic critique du SI. Le directeur général de Medisecure a demandé un schéma directeur. Avant de décider où aller, il faut savoir d'où l'on part. La cartographie a décrit le SI, l'analyse de risques a dit ce qui pouvait mal tourner, l'analyse d'impact a mesuré les écarts de continuité, et le chapitre 9 a regardé l'environnement."},
+        {"cue": "Sous-titre", "text": "Le diagnostic rassemble ces matériaux et prononce un jugement : ce SI est-il en état de porter la stratégie, et sinon, où sont les écarts qui comptent le plus ? Un diagnostic n'est pas un inventaire. L'inventaire dit ce qui existe. Le diagnostic dit si c'est suffisant, au regard de quoi, et ce qui manque le plus."}
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 10 · Les échelles de maturité",
+      "title": "Une note de maturité ne vaut que par ses critères écrits",
+      "intro": "Huit domaines imposés : gouvernance du SI, organisation et processus, applications, données, infrastructure, sécurité, compétences et ressources humaines, budget. Pour chacun : deux faits sourcés au moins, une note, des indicateurs.",
+      "intro_h": 46,
+      "header": ["Niveau", "Critères génériques", "Exemple : sauvegarde et reprise"],
+      "rows": [
+        ["1 Initial", "Pratiques absentes ou improvisées ; tout repose sur des personnes", "Sauvegardes lancées à la main, quand on y pense"],
+        ["2 Reproductible", "Pratiques répétées, mais partielles, non formalisées ou non vérifiées", "Sauvegarde automatique chaque nuit, jamais testée, au même endroit que les serveurs"],
+        ["3 Défini", "Pratiques documentées, sur tout le périmètre, avec un responsable", "Politique écrite, copie hors site, test de restauration annuel"],
+        ["4 Mesuré", "Indicateurs suivis, objectifs fixés, écarts analysés", "Réussite et durée de restauration mesurées, alignées sur les besoins de continuité"],
+        ["5 Optimisé", "Amélioration continue fondée sur les mesures", "Exercices de reprise réguliers, dispositif ajusté chaque année"]
+      ],
+      "widths": [1.3, 2.6, 2.9],
+      "maxs": 15,
+      "side": {"tag": "Deux règles", "head": "Une note défendable", "body": ["Maillon faible : pas de 3 si un critère du niveau 2 manque sur une partie importante du périmètre.", "Preuve : « noté N parce que… », faits cités.", "Échelle inspirée du CMMI et de COBIT 2019, écrite avant de noter."]},
+      "minutes": 3,
+      "notes": [
+        {"cue": "Titre et texte du haut", "text": "Le diagnostic critique, selon les consignes, est un jugement argumenté sur l'état du SI, domaine par domaine. Il distingue forces et faiblesses, prouve chacune par des faits sourcés et les hiérarchise. Les consignes imposent les huit domaines écrits en haut de l'écran. Ce découpage protège contre un oubli classique chez les profils techniques : la gouvernance, les compétences et le budget. Pour chaque domaine, la section 5.2 attend au moins deux faits sourcés, une note de maturité justifiée et des indicateurs comparés à une référence."},
+        {"cue": "Le tableau des cinq niveaux", "text": "Noter la maturité, c'est situer des pratiques entre l'improvisation et l'amélioration continue. Le principe vient du Capability Maturity Model, développé à partir de la fin des années 1980 au Software Engineering Institute de l'université Carnegie Mellon, devenu le CMMI et géré aujourd'hui par le CMMI Institute, filiale de l'ISACA. COBIT 2019, le référentiel de gouvernance de l'ISACA, note aussi la capacité de ses processus de 0 à 5. L'ISACA annonce la parution de COBIT 7 le 19 novembre 2026 ; le certificat COBIT 7 Foundation est proposé depuis le 27 octobre, date que certains sites confondent avec la parution. Le cours cite COBIT 2019 : vérifiez sur le site de l'ISACA avant de citer la nouvelle version. Vous n'appliquez aucun de ces modèles à la lettre. Vous construisez une échelle inspirée d'eux, comme celle-ci. Lisez la colonne de droite. Au niveau 2, les sauvegardes sont automatiques, mais jamais testées et rangées au même endroit que les serveurs. Au niveau 3, la politique est écrite, la copie est hors site, la restauration est testée chaque année."},
+        {"cue": "Carte de droite : deux règles", "text": "Deux règles rendent la note défendable. La règle du maillon faible : un domaine ne peut pas être noté 3 si un critère du niveau 2 manque sur une partie importante du périmètre. La règle de preuve : chaque note est suivie de la phrase « noté N parce que… », qui cite les faits. Chez Kestrel, l'infrastructure est notée 2 : un NAS de sauvegarde et une copie hebdomadaire existent, mais la copie reste au siège et aucun test de restauration n'est documenté. La gouvernance est notée 1 : aucune règle d'arbitrage écrite, et les décisions dépendent des personnes présentes au comité."},
+        {"cue": "Question à la salle", "text": "Une question pour vous : que vaut une disponibilité de 99,2 % ? Rien, tant qu'on ne connaît pas la référence. Convertie, elle représente environ 70 heures d'arrêt par an. L'élément E17 demande au moins cinq indicateurs du dossier de présentation, chacun comparé à une référence : une cible du plan 2030, un seuil, ou une valeur sourcée."}
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 10 · Hiérarchiser les faiblesses",
+      "title": "Impact × urgence : F1 et F7 passent en tête chez Kestrel",
+      "fig": "c10-matrice-impact-urgence",
+      "side": {"tag": "Score de 1 à 9", "head": "Une règle écrite", "body": ["Impact 3 : objectif chiffré, continuité critique, sécurité des personnes ou obligation applicable.", "Urgence 3 : effet déjà constaté ou échéance sous un an.", "Les cinq premières faiblesses : reliées à un risque ou à un écart, et à un objectif."]},
+      "note": "Section 5.3, élément E18 : au moins quatre forces et huit faiblesses sourcées, classées selon une méthode explicite.",
+      "note_style": "dossier",
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Titre et la matrice", "text": "Une fois les huit domaines notés, la section 5.3 rassemble les forces et les faiblesses et les classe. La méthode la plus simple croise l'impact et l'urgence, chacun noté de 1 à 3 selon une règle écrite. Le produit donne un score de 1 à 9. Voici la matrice des sept faiblesses de Kestrel."},
+        {"cue": "Case rouge en haut à droite : F1 et F7", "text": "En haut à droite, score 9, priorité 1 : F1 et F7. F1, c'est RoutePro et toute l'infrastructure du siège sur une seule salle serveur, sans site de secours ni restauration testée. L'urgence est à 3 parce que l'effet est déjà constaté : 9 heures de panne en novembre 2024, 38 000 euros de pénalités. F7, c'est la base de RoutePro, SQL Server 2016, hors support depuis le 14 juillet 2026. L'exposition est déjà effective."},
+        {"cue": "Case orange : F2, F3, F5, F6, puis F4", "text": "Viennent ensuite les scores de 6. F2, F3, F5 et F6 ont un impact de 3 et une urgence de 2. Prenez F2, les sauvegardes dans la salle des serveurs : urgence 2, car aucun incident ne les a encore touchées et aucune échéance ne tombe dans l'année. F4 est le cas inverse : Kestrel Track sur Django 3.2, hors support depuis avril 2024. Urgence 3, mais impact 2, car le portail fonctionne : la faiblesse renchérit et expose la croissance du e-commerce sans l'empêcher."},
+        {"cue": "Carte de droite et bandeau du bas", "text": "Regardez la règle d'impact. C'est là que vos parties 3 et 4 servent : une faiblesse qui rend vraisemblable un risque grave, ou qui explique un écart de continuité de plusieurs jours, mérite un 3. Écrivez ce lien dans une colonne dédiée. Pour E18, il faut au moins quatre forces et huit faiblesses, et les cinq premières faiblesses doivent être reliées à un risque ou à un écart, et à un objectif du plan 2030. Enfin, une force n'est pas l'absence d'une faiblesse. C'est une ressource sur laquelle la stratégie peut s'appuyer, prouvée par un fait. Chez Kestrel : l'équipe de quatre développeurs, qui a construit Kestrel Track et KDriver, ou le canal d'échange de données informatisé, l'EDI, qui reçoit 70 % des ordres de transport. Les forces se classent de la même manière que les faiblesses, d'après leur utilité pour la stratégie."}
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 10 · SWOT du SI et enjeux",
+      "title": "Un enjeu est une question à trancher, pas une solution",
+      "intro": "Le SWOT (forces, faiblesses, opportunités, menaces) reprend les sections 5.1 à 5.3 sans fait nouveau. Croisement le plus fort chez Kestrel : les pénalités de la grande distribution frappent F1.",
+      "intro_h": 44,
+      "header": ["Enjeu", "Question à trancher", "Lien", "Échéance"],
+      "rows": [
+        ["EN1", "Quel niveau de continuité l'affectation des tournées doit-elle garantir avant le départ des camions à 5 h, et pour quel coût acceptable ?", "F1", "Avant le prochain pic de fin d'année"],
+        ["EN2", "Quelle capacité de restauration Kestrel exige-t-elle face à un rançongiciel ?", "F2", "Premier semestre"],
+        ["EN3", "Quel avenir pour RoutePro, dont la base SQL Server 2016 n'est plus maintenue depuis le 14 juillet 2026 ?", "F1, F7", "Premier semestre : exposition déjà effective"],
+        ["EN4", "Quel niveau de service et de maintenance pour Kestrel Track, au regard de l'objectif de 40 % d'e-commerce ?", "F4", "2027"],
+        ["EN5", "Qui arbitre les projets SI de Cap 2029, selon quels critères ?", "F5", "Avant le lancement des premiers projets"]
+      ],
+      "widths": [0.8, 5.0, 0.9, 2.2],
+      "maxs": 15,
+      "note": "« Remplacer RoutePro par un TMS en SaaS » est une solution, qui relève du D3. Ne numérotez pas vos enjeux E1, E2…",
+      "note_style": "warn",
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Texte du haut : le SWOT", "text": "Le SWOT, pour strengths, weaknesses, opportunities, threats, rapproche les deux moitiés du diagnostic : forces et faiblesses internes, opportunités et menaces externes. Il n'apporte aucun fait nouveau : l'élément E19, condition a, l'exige. Sa valeur vient du croisement des cases, que Heinz Weihrich a formalisé en 1982 sous le nom de matrice TOWS. Retenez surtout l'une des quatre questions du cours : quelle menace frappe directement une faiblesse ? Chez Kestrel, le croisement le plus fort rapproche les pénalités de la grande distribution et la faiblesse F1."},
+        {"cue": "Le tableau EN1 à EN5", "text": "De ces croisements naissent les enjeux. Un enjeu est une question que la direction devra trancher, formulée sans imposer de solution, reliée à une faiblesse ou à un risque, et dotée d'une échéance. Lisez EN3 : « Quel avenir pour RoutePro, dont la base n'est plus maintenue ? » La question reste ouverte : migrer, remplacer, payer un support étendu, accepter le risque. Ce choix appartient au schéma directeur. Et chaque ligne renvoie à une faiblesse classée, par son numéro. Observez la chaîne complète : chaque enjeu renvoie à une faiblesse, chaque faiblesse à un fait sourcé, et aucun enjeu ne dit ce qu'il faut acheter. C'est exactement ce que vérifie la condition b de E19 : au moins cinq enjeux, sans solution imposée, reliés et datés."},
+        {"cue": "Colonne « Échéance »", "text": "Chaque échéance est justifiée : le prochain pic d'activité de fin d'année pour EN1, le premier semestre pour EN3 parce que l'exposition est déjà effective, 2027 pour Kestrel Track. Il faut au moins cinq enjeux. Au-delà de sept, la direction ne les retient plus : regroupez."},
+        {"cue": "Bandeau rouge", "text": "Deux pièges pour finir. Un enjeu ne contient aucun verbe qui présuppose la réponse : « migrer », « remplacer », « externaliser ». « Remplacer RoutePro par un TMS en SaaS », c'est-à-dire par un logiciel loué en ligne, est une solution, qui relève du dossier D3. Et ne numérotez pas vos enjeux E1, E2 : ces sigles désignent les éléments de la grille. Une dernière précaution : un passage qui reprend la structure et les phrases de cet exemple en changeant seulement les noms ne rapporte aucun point."}
+      ]
+    },
+    {
+      "pattern": "study",
+      "kicker": "Chapitre 10 · Étude de document",
+      "title": "Deux synthèses du même constat : laquelle parle au comité ?",
+      "source": "Document · deux extraits abrégés de synthèses fictives remises au comité de direction de Kestrel Logistique, écrits pour le cours",
+      "document": [
+        "Synthèse A. « L'audit révèle une infra on-premise mono-site sans PRA ni PCA, avec un SPOF critique sur le TMS (SQL Server 2016 EOL), des backups non air-gappés sur NAS colocalisé […]. Le niveau CMMI global est estimé à 1,8. […] Nous recommandons une migration cloud du TMS et le déploiement d'un SOC. »",
+        "Synthèse B. « Le logiciel qui affecte les tournées, comme toute l'informatique du siège, repose sur une seule salle, sans site de secours ni restauration testée. En novembre 2024, la panne d'un disque de son serveur a bloqué les tournées pendant 9 heures, alors que les opérations ne peuvent pas en tolérer plus de 2 : 2 300 colis ont été livrés en retard […]. Le comité devra trancher cinq questions, dont la première : quel niveau de continuité garantir avant le départ des camions à 5 heures, et pour quel coût ? »"
+      ],
+      "questions": [
+        "Relevez les sigles non expliqués de la synthèse A. Combien un directeur général en comprendrait-il ?",
+        "Quels contenus exigés pour la synthèse figurent dans B ? Lesquels manquent ?",
+        "Pourquoi les recommandations de A sont-elles une erreur ? Transformez-les en enjeux.",
+        "Que vaut « niveau CMMI global estimé à 1,8 » ?",
+        "Comment présenter à la directrice médicale de Medisecure l'arrêt d'un logiciel critique ?"
+      ],
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Le document de gauche", "text": "Passons à l'étude de document du chapitre 10. Deux synthèses fictives, remises au comité de direction de Kestrel, sur le même constat. L'écran en montre des extraits abrégés ; le texte complet est dans le cours. Je vous laisse cinq minutes de lecture, crayon en main. Soulignez dans la synthèse A chaque sigle et chaque terme technique."},
+        {"cue": "Questions 1 et 2", "text": "Nous faisons ensuite un tour de table, une question par rangée, deux minutes chacune. Pour la première, comptez dans le texte complet : PRA, PCA, SPOF, TMS, EOL, NAS, VPN, MFA, CMMI, SOC, sans parler de « on-premise », « air-gappés » ou « zero trust ». Un directeur général en comprend peu. Pour la deuxième, reprenez les cinq contenus exigés par les consignes : ce que montre la cartographie, les trois risques les plus graves, les principaux écarts de continuité, les forces, les enjeux. La synthèse B complète en porte la plupart, avec des conséquences métier : des heures, des colis, des euros. Cherchez aussi ce qui reste implicite."},
+        {"cue": "Questions 3 et 4", "text": "La troisième question doit faire émerger une idée : la synthèse A se termine par des recommandations, alors que le dossier pose un diagnostic. « Une migration cloud du TMS » devient un enjeu : quelle solution de gestion du transport pour les années de Cap 2029 ? Pour la quatrième, la salle doit arriver seule à la conclusion : « 1,8 » ne vaut rien sans une échelle et ses critères, écrits avant la note."},
+        {"cue": "Question 5", "text": "La cinquième est une transposition, et je ne donnerai pas de réponse sur Medisecure : c'est votre synthèse. Retenez seulement la règle du chapitre : remplacez le nom d'un composant par sa fonction, et parlez de patients, d'heures et d'euros plutôt que de serveurs. La synthèse s'écrit en dernier, tient sur une page, ne contient aucun sigle non expliqué ni renvoi à un schéma : c'est l'élément E19, condition c. Un conseil pratique : faites relire votre synthèse par quelqu'un qui ne connaît pas l'informatique, et surlignez chaque sigle. S'il n'est pas expliqué à sa première apparition, développez-le."}
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 10 · Atelier de l'après-midi",
+      "title": "Deux domaines de Medisecure notés, trois enjeux formulés",
+      "name": "Diagnostiquer deux domaines de Medisecure et formuler des enjeux",
+      "duration": "3 heures",
+      "consigne": [
+        "Écrivez votre échelle de maturité à cinq niveaux.",
+        "Diagnostiquez le domaine « données » et, au choix, « compétences et ressources humaines » ou « budget » : quatre faits sourcés, deux indicateurs et leur référence, l'écart calculé, une note justifiée, une phrase de jugement.",
+        "Classez les faiblesses par impact × urgence, règle écrite, puis formulez trois enjeux reliés et datés.",
+        "Sources : « Données et échanges », « Qualité des données », « Compétences de la DSI », « Budget 2026 : 2,84 M€ », « Indicateurs actuels », « Plan Medisecure 2030 »…"
+      ],
+      "livrable": "Votre échelle de maturité ; deux tableaux de diagnostic par domaine ; les faiblesses classées avec la règle ; trois enjeux (question, faiblesse liée, échéance).",
+      "dossier": "Sections 5.2 à 5.4, éléments E17, E18 et E19.",
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Titre et durée", "text": "Second atelier : diagnostiquer deux domaines de Medisecure et formuler des enjeux. Durée indicative : trois heures. Vous le commencez cet après-midi, après votre PESTEL, et vous l'achèverez pendant la période 2. Le travail est individuel."},
+        {"cue": "Consigne", "text": "Commencez par votre échelle de maturité à cinq niveaux, écrite avant toute note. Puis le domaine « données », imposé, et un second au choix : « compétences et ressources humaines », ou « budget ». Pour chacun : au moins quatre faits sourcés, deux indicateurs avec leur référence, l'écart calculé dans une unité parlante, une note justifiée par « noté N parce que… », et une phrase de jugement. Classez ensuite les faiblesses par impact et urgence, avec votre règle écrite. Formulez enfin trois enjeux. La liste complète des sections utiles est dans l'encadré du chapitre 10."},
+        {"cue": "Questions à vous poser", "text": "Posez-vous les questions du cours. Quelle cible du plan 2030 sert de référence à chaque indicateur ? Quels faits relèvent de la dette technique, lesquels de l'obsolescence ? Rappel : la dette technique, métaphore proposée par Ward Cunningham en 1992, c'est le surcoût futur de choix faits pour aller vite ; l'obsolescence, c'est un composant que son éditeur ne maintient plus, et elle se date avec précision. Une compétence portée par une seule personne est-elle une faiblesse, un risque de la partie 3, ou les deux ? Vos enjeux contiennent-ils un verbe qui impose déjà une solution ?"},
+        {"cue": "Carte « Livrable »", "text": "En passant, je relirai vos enjeux en priorité : c'est là que l'on glisse le plus souvent une solution. Ce travail prépare les sections 5.2 à 5.4, évaluées par E17, E18 et E19. Pour les six autres domaines, ouvrez dès aujourd'hui un fichier de faits : chaque information utile, avec sa section entre parenthèses et le domaine qu'elle éclaire. À la fin de l'intersession, la section 5.2 se rédigera à partir de ce fichier, sans relire tout le dossier de présentation."}
+      ]
+    },
+    {
+      "pattern": "cards",
+      "kicker": "Contrôle continu de l'UE2",
+      "title": "Le QCM vérifie les notions des chapitres 1 à 10",
+      "cols": 2,
+      "cards": [
+        {"tag": "Contenu", "head": "Ce qu'il évalue", "body": "Les notions des chapitres 1 à 10. Les encadrés « Définition » du cours sont votre rappel de cours."},
+        {"tag": "Forme", "head": "Comment il se présente", "body": "Quatre propositions par question, une seule bonne réponse ; beaucoup de mises en situation : Kestrel, Medisecure ou une autre organisation."},
+        {"tag": "Note", "head": "Ce qu'il compte", "fill": "pet", "body": "Une note du contrôle continu de l'UE2, distincte de la note du dossier D2 et de celle de la restitution orale."},
+        {"tag": "Règles", "head": "Comment il se passe", "body": "Travail individuel. Durée et modalités d'accès annoncées en séance."}
+      ],
+      "note": "Une question sur Medisecure porte sur une notion, jamais sur une réponse que le dossier D2 vous demande d'établir.",
+      "note_style": "info",
+      "minutes": 1.5,
+      "notes": [
+        {"cue": "Titre", "text": "Il est temps de passer au QCM de l'UE2. Avant d'ouvrir l'épreuve, quatre informations, une par carte."},
+        {"cue": "Carte « Ce qu'il évalue »", "text": "Le QCM porte sur les notions des chapitres 1 à 10, de l'organisation et du SI jusqu'au diagnostic de ce matin. Les encadrés « Définition » du cours sont votre rappel de cours : ce sont eux qu'il faut connaître."},
+        {"cue": "Carte « Comment il se présente »", "text": "Chaque question propose quatre réponses, dont une seule est juste. Beaucoup sont des mises en situation. Les mauvaises réponses ressemblent à des erreurs réelles, celles que je vous ai signalées toute la semaine : confondre une redondance et un flux manuel, un facteur externe et une faiblesse interne, un enjeu et une solution. Lisez chaque proposition jusqu'au bout avant de choisir."},
+        {"cue": "Cartes « Ce qu'il compte » et « Comment il se passe »", "text": "Le QCM donne une note du contrôle continu de l'UE2. Elle est distincte de la note du dossier D2 et de celle de la restitution orale, notée elle aussi sur 20 au titre du contrôle continu. Le travail est individuel. Je vous donne maintenant la durée et les modalités d'accès."},
+        {"cue": "Bandeau du bas", "text": "Une précision qui devrait vous rassurer : une question sur Medisecure porte sur une notion, jamais sur une réponse que votre dossier doit établir. Le QCM ne corrige pas votre D2 par anticipation. Gérez votre temps : ne restez pas bloqués sur une question, avancez et revenez-y à la fin si les modalités le permettent. Bon courage."}
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 11",
+      "title": "Le dossier D2 est une chaîne : construisez-le dans l'ordre",
+      "subtitle": "Préparer le pitch d'étape, organiser les deux périodes de l'intersession, vérifier son dossier condition par condition et préparer la restitution orale devant le comité de direction.",
+      "minutes": 1,
+      "notes": [
+        {"cue": "Titre", "text": "Ce soir, la partie encadrée du cours s'arrête. Vous retournez en entreprise avec une cartographie commencée, des échelles, des ateliers ébauchés et un diagnostic à peine entamé. Le chapitre 11 vous donne un plan de travail pour la suite."},
+        {"cue": "Sous-titre", "text": "Son principe tient en une phrase : le dossier D2 est une chaîne. La cartographie fournit les biens supports des risques et les faits de l'analyse d'impact. Les risques et les écarts fournissent les faiblesses ; les faiblesses fournissent les enjeux ; les enjeux nourrissent la synthèse. Une erreur en amont se propage donc en aval. Un serveur mal nommé dans la vue physique devient un bien support introuvable en partie 3. C'est pourquoi on fige la cartographie avant d'achever les risques, et non l'inverse."}
+      ]
+    },
+    {
+      "pattern": "pills",
+      "kicker": "Chapitre 11 · Le pitch d'étape",
+      "title": "Le pitch : cinq minutes, l'outil ouvert, trois pièces à montrer",
+      "layout": "row",
+      "items": [
+        {"pill": "1", "head": "L'outil et trois vues", "sub": "Au moins trois vues commencées", "body": "Par exemple écosystème, métier et applicative. Suivez un même objet pivot d'une vue à l'autre : il garde son nom."},
+        {"pill": "2", "head": "Deux échelles", "sub": "Gravité et vraisemblance", "body": "Quatre niveaux chacune, descripteurs propres à Medisecure ; la gravité décrite pour cinq dimensions."},
+        {"pill": "3", "head": "Les valeurs métier", "sub": "Au moins cinq", "body": "Reliées à des biens supports qui portent déjà le nom d'objets de la cartographie, sans terme générique."},
+        {"pill": "✓", "head": "Un retour oral", "sub": "Point d'étape non noté", "body": "Notez les remarques dans un fichier de suivi : elles orientent votre première période.", "fill": "teal"}
+      ],
+      "note": "Partir sans modèle ni règle de nommage coûte le plus cher : E8 b vérifie cinq objets pivots pris au hasard.",
+      "note_style": "warn",
+      "minutes": 2.5,
+      "notes": [
+        {"cue": "Titre", "text": "Commençons par ce qui arrive tout de suite : le pitch d'étape. Cinq minutes chacun, pendant les ateliers de cet après-midi, dans l'ordre que je vais afficher. Il n'est pas noté. C'est un point d'étape, pour recevoir un retour oral avant de partir."},
+        {"cue": "Pastille 1 : l'outil et trois vues", "text": "Les consignes demandent trois choses. D'abord, votre outil de cartographie ouvert, avec au moins trois vues commencées, par exemple l'écosystème, la vue métier et la vue applicative. Ne cherchez pas à tout montrer. Passez d'une vue à l'autre en suivant un même objet pivot. Si cet objet change de nom en route, vous avez trouvé votre premier chantier."},
+        {"cue": "Pastilles 2 et 3 : échelles et valeurs métier", "text": "Ensuite, vos échelles de gravité et de vraisemblance, à quatre niveaux, avec des descripteurs propres à Medisecure. Rappelez-vous l'élément E9 : l'échelle de gravité décrit chaque niveau pour cinq dimensions, la santé des patients, l'activité, les finances, la conformité et l'image. Enfin, vos valeurs métier, au moins cinq, reliées à des biens supports qui portent déjà le nom d'objets de votre cartographie."},
+        {"cue": "Pastille 4 : le retour", "text": "Pendant que vous parlez, vos pairs et moi notons nos remarques. Recopiez-les ensuite dans un fichier de suivi : elles orientent votre première période. Le chapitre 11 liste aussi ce qu'il est raisonnable d'avoir en plus à ce stade : l'inventaire applicatif ouvert, la grille d'impact créée, le registre des hypothèses commencé."},
+        {"cue": "Bandeau rouge", "text": "Et voici l'erreur la plus coûteuse de l'intersession, celle qui se commet aujourd'hui : partir avec trois schémas dessinés à main levée, sans modèle ni règle de nommage. Il faudra renommer chaque objet dans chaque vue, dans les annexes A à D, puis dans l'analyse de risques. Or l'élément E8, condition b, vérifie que cinq objets pivots pris au hasard portent le même nom partout. Fixez votre nomenclature aujourd'hui, tant que je peux encore vous corriger. Si vous n'êtes pas encore prêts à tout montrer, montrez quand même ce que vous avez : un retour sur un modèle incomplet vaut mieux qu'aucun retour. C'est précisément pour cela que le pitch n'est pas noté."}
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 11 · L'ordre de travail conseillé",
+      "title": "Cartographier d'abord, puis analyser et diagnostiquer",
+      "fig": "c11-calendrier",
+      "side": {"tag": "À ne pas rater", "head": "Trois exigences sans rattrapage", "body": ["Le gel des noms à la fin de la période 1.", "Le registre des hypothèses, tenu au fil de l'eau.", "Une version et une date sur chaque export de vue.", "Comptez 35 à 40 heures, plus 3 à 4 heures pour la restitution."]},
+      "note": "Gardez une marge avant de déposer : un export PDF raté ou une connexion difficile prennent du temps.",
+      "note_style": "dossier",
+      "minutes": 3,
+      "notes": [
+        {"cue": "Frise de l'intersession", "text": "Voici l'ordre de travail que le chapitre 11 vous conseille pour l'intersession. Deux semaines en entreprise, encadrées par trois week-ends : celui qui suit aujourd'hui, celui du milieu, et le dernier. Ce n'est pas un compte à rebours : adaptez les durées à votre rythme, mais gardez l'ordre des étapes. Le dossier se dépose sur Moodle, puis vient la restitution orale."},
+        {"cue": "Période 1 : cartographier", "text": "La période 1 va de demain à la fin du week-end du milieu. Elle sert à cartographier. Étape 1 : tenir compte du retour du pitch, stabiliser le modèle, compléter les annexes A et B, construire la vue fonctionnelle. Étape 2 : les vues logique, physique et d'administration, les annexes C et D, les constats de la section 2.8. Elle se termine par le trait épais : le gel des noms, et le point à mi-parcours, qui est l'exercice du chapitre 11."},
+        {"cue": "Période 2 : analyser, diagnostiquer, déposer", "text": "La période 2 commence le lundi de la seconde semaine. Étape 3, du lundi au jeudi : les cinq ateliers sur les objets gelés, la partie 4 et la section 5.1. Étape 4, le dernier vendredi et le dernier week-end : la suite de la partie 5, la partie 6, puis la synthèse, écrite en dernier. Gardez une marge avant de déposer, comme le dit le bandeau."},
+        {"cue": "Carte de droite", "text": "Comptez environ 35 à 40 heures de travail personnel, plus 3 à 4 heures pour la restitution. Trois exigences ne se rattrapent pas après coup : le gel des noms, le registre des hypothèses tenu le jour où vous les posez, et une version et une date sur chaque export de vue. Faites aussi deux fois le contrôle de cohérence en six étapes du chapitre 11 : au gel des noms, puis juste avant le dépôt. Formez un binôme dès aujourd'hui pour vous l'appliquer mutuellement."},
+        {"cue": "Toute la frise : demander de l'aide", "text": "L'autonomie ne signifie pas l'isolement. Une question posée en période 1 coûte moins cher qu'une erreur découverte au moment du dépôt. Vos pairs répondent aux questions pratiques : un export qui échoue, une légende peu lisible. Moi, je réponds aux questions de fond, par le canal que je vous ai indiqué. Formulez une question précise, avec ce que vous avez déjà essayé : « ma vue métier est-elle bonne ? » appelle une réponse vague. Et relisez d'abord les consignes et leur foire aux questions : la plupart des réponses s'y trouvent."}
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 11 · La restitution orale",
+      "title": "La restitution : quatre temps tenus en huit minutes",
+      "intro": "Comité de direction de Medisecure joué par le formateur et deux apprenants. 8 minutes, écran partagé, puis 4 minutes de questions ; six diapositives au plus.",
+      "intro_h": 44,
+      "header": ["Temps", "Contenu", "Durée"],
+      "rows": [
+        ["Ouverture", "Question posée, message en une phrase, annonce des quatre temps", "0 min 45"],
+        ["1. La cartographie", "Deux constats, montrés sur une vue dans l'outil", "2 min"],
+        ["2. Les trois risques", "Chacun relié à un bien support et à sa conséquence", "2 min"],
+        ["3. Le diagnostic", "Radar ou faiblesses classées, forces, écarts de continuité", "1 min 30"],
+        ["4. Les enjeux", "Les enjeux à trancher et leurs échéances", "1 min 15"],
+        ["Clôture", "Décisions attendues, limites de l'état des lieux", "0 min 30"]
+      ],
+      "widths": [1.6, 3.6, 1.0],
+      "maxs": 16,
+      "side": {"tag": "Grille sur 20", "head": "Quatre critères de 5 points", "body": ["Message structuré, tenu dans le temps.", "Discours adapté à une direction.", "Affirmations appuyées sur la cartographie et les faits.", "Réponses précises aux questions.", "Chacun noté complet (5), partiel (2,5) ou absent (0)."]},
+      "minutes": 3,
+      "notes": [
+        {"cue": "Titre et texte du haut", "text": "Dernière diapositive : la restitution orale. Elle vérifie que vous savez présenter un état des lieux à une direction et défendre votre analyse. Elle est notée sur 20, à part du dossier, au titre du contrôle continu de l'UE2. Le comité de direction de Medisecure est joué par moi et par deux apprenants tirés au sort : le directeur général, la directrice administrative et financière, la directrice médicale. Huit minutes de présentation, écran partagé, puis quatre minutes de questions. Six diapositives au plus."},
+        {"cue": "Le tableau des quatre temps", "text": "La structure est imposée : quatre temps, annoncés dès la première minute et tenus. Ce que montre la cartographie, avec au moins une vue montrée dans votre outil. Les trois risques les plus graves, chacun relié à un bien support. Le diagnostic. Les enjeux à trancher. Le tableau propose une répartition réaliste du temps. Partez de votre synthèse, pas du plan du dossier : le comité ne lira pas votre dossier pendant que vous parlez."},
+        {"cue": "Carte de droite : la grille", "text": "La grille compte quatre critères de cinq points, chacun noté complet, partiel ou absent. Attention au premier : un dépassement de plus d'une minute vous fait passer de complet à partiel, soit la moitié des points. Le deuxième demande de parler à chacun dans sa langue : le directeur général raisonne en stratégie, la directrice financière en coûts et en arbitrages, la directrice médicale en sécurité des patients et en continuité des soins."},
+        {"cue": "Toute la diapositive, pour conclure", "text": "Les questions comptent pour un quart de la note, et elles se préparent. Si l'on vous demande combien coûtera la remise à niveau, dites que le D2 ne chiffre pas les solutions et renvoyez au dossier D3, en rappelant l'ordre de grandeur des impacts mesurés. Si l'on vous demande si vous êtes sûr d'un chiffre, citez la section du dossier de présentation, ou l'hypothèse. Reconnaître une limite n'est pas une faiblesse : la grille l'attend. Préparez enfin la démonstration comme un exercice technique : l'outil ouvert avant votre tour, sur la bonne vue, avec un zoom lisible en partage d'écran, et une capture de chaque vue dans votre support au cas où l'outil refuserait de s'ouvrir. Une vue bien commentée vaut mieux que sept vues survolées. Répétez à voix haute, chronomètre en main, au moins deux fois. Bon courage pour l'intersession, et à la restitution."}
+      ]
+    }
+  ]
+}

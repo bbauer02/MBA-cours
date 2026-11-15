@@ -1,0 +1,689 @@
+{
+  "day": 1,
+  "title": "Semaine S2 · Jour 1 · Lancement du dossier D2 et notions de base",
+  "first_number": 1,
+  "deroule": "Matin : diapositives 3 à 10 (chapitre 1 : l'organisation, ses structures, la chaîne de valeur et les processus ; fiches de travail FT 01 et FT 02). Après-midi : diapositives 11 à 15 (le système d'information, les familles d'applications, la stratégie et les objectifs SMART ; fiches FT 03 et FT 04), étude de document (diapositive 16), puis atelier « Situer Medisecure » (diapositive 17), achevé en autonomie.",
+  "slides": [
+    {
+      "pattern": "cover",
+      "kicker": "UE2 · Semaine S2 · Jour 1 · Cycle Expert en informatique et SI",
+      "title": "Systèmes d'information, cartographie et risques",
+      "subtitle": "Cartographier le SI de Medisecure, en analyser les risques, en poser le diagnostic critique : lancement du dossier D2 et notions de base.",
+      "minutes": 1.5,
+      "notes": [
+        {
+          "cue": "Titre au centre, face à la salle",
+          "text": "Bonjour à toutes et à tous, et bienvenue dans la semaine S2. Nous ouvrons aujourd'hui la deuxième unité d'enseignement du cycle, l'UE2 : « Systèmes d'information, cartographie et risques ». En S1, vous avez appris à regarder ce qui change autour d'une organisation. Cette semaine, nous regardons à l'intérieur : comment elle fonctionne, comment son système d'information est construit, ce qui peut mal tourner, et ce qu'il vaut."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "Mon objectif est le même qu'en S1. À la fin de la semaine, vous devez être capables de produire seuls votre dossier D2 pendant l'intersession : une cartographie du SI de Medisecure, une analyse de risques menée avec une méthode reconnue, et un diagnostic critique. Ce dossier, c'est l'état des lieux dont la direction de Medisecure a besoin avant d'écrire son schéma directeur."
+        },
+        {
+          "cue": "Mentionnez le cours et les consignes sur Moodle",
+          "text": "Comme en S1, ce diaporama suit le cours rédigé que vous trouverez sur Moodle, chapitre par chapitre. Je vous présente les méthodes et les exemples ; le cours contient les détails, les gabarits et les exercices. Gardez-le ouvert à côté de vous, avec le livret des fiches de travail : après chaque notion clé, je vous demanderai de prendre la fiche correspondante et de la réaliser."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Programme de la journée",
+      "title": "Aujourd'hui : comprendre l'organisation avant son SI",
+      "minutes": 2,
+      "header": [
+        "Moment",
+        "Contenu",
+        "Ce que vous faites"
+      ],
+      "rows": [
+        [
+          "Matin",
+          "L'organisation : finalités, ressources, structures ; la chaîne de valeur et les processus",
+          "Fiches FT 01 et FT 02 sur Kestrel"
+        ],
+        [
+          "Après-midi, 1er temps",
+          "Le système d'information, les familles d'applications, la stratégie et les objectifs SMART",
+          "Fiches FT 03 et FT 04, étude de document"
+        ],
+        [
+          "Après-midi, 2e temps",
+          "Atelier « Situer Medisecure » : structure, chaîne de valeur, stratégie",
+          "Premier livrable sur Medisecure"
+        ]
+      ],
+      "widths": [
+        1.1,
+        2.6,
+        1.8
+      ],
+      "maxs": 18,
+      "note": "Gardez ouverts le cours, le livret des fiches de travail et le dossier de présentation de Medisecure.",
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Nous entrons tout de suite dans le cours. Aujourd'hui, une seule question nous occupe : qu'est-ce qu'une organisation, et comment son système d'information la sert-il ? On ne cartographie bien que ce que l'on comprend ; c'est pourquoi la semaine commence par les notions de base, le chapitre 1 du cours."
+        },
+        {
+          "cue": "Ligne « Matin »",
+          "text": "Ce matin, nous décrivons l'organisation avec le vocabulaire de la gestion : ses finalités, ses ressources, sa structure, puis sa chaîne de valeur et ses processus. Après chacune de ces deux notions, vous prendrez une fiche de travail sur Kestrel Logistique, la FT 01 puis la FT 02, et vous la réaliserez en séance, seuls ou à deux."
+        },
+        {
+          "cue": "Lignes « Après-midi »",
+          "text": "Cet après-midi, nous passons au système d'information lui-même, à ses familles d'applications, puis à la stratégie et aux objectifs SMART, avec les fiches FT 03 et FT 04 et une étude de document. Nous terminons par le premier atelier sur Medisecure : vous situez l'organisation, sa chaîne de valeur et sa stratégie. Vous le commencez ici et vous l'achèverez en autonomie."
+        },
+        {
+          "cue": "Bandeau du bas",
+          "text": "Pour travailler, gardez trois documents ouverts : le cours, le livret des fiches de travail et le dossier de présentation de Medisecure. Allons-y."
+        }
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 1",
+      "title": "Organisation, système d'information, stratégie : les notions de base",
+      "subtitle": "Décrire une organisation, définir son SI et en classer les applications, lire une stratégie et tester ses objectifs : le vocabulaire de toute la semaine.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Écran de chapitre",
+          "text": "Passons au chapitre 1, les notions de base. Il ne suppose aucune connaissance en gestion. Vous savez ce qu'est une base de données ou une API ; on vous a rarement expliqué ce qu'est une chaîne de valeur ou un processus support. Or on ne cartographie pas un système d'information sans comprendre l'organisation qu'il sert."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "Le chapitre suit trois temps : l'organisation, puis le système d'information, puis la stratégie qui oriente les deux. Il fixe le vocabulaire de toute la semaine. Écrire « SI » quand on parle seulement d'applications, ou « stratégie » quand on liste des projets, est l'erreur la plus fréquente. Après chaque temps, vous réaliserez une fiche de travail sur Kestrel."
+        }
+      ]
+    },
+    {
+      "pattern": "definition",
+      "kicker": "Chapitre 1 · L'organisation",
+      "title": "Une organisation : des finalités, des ressources, une structure",
+      "minutes": 2.5,
+      "term": "Organisation",
+      "definition": [
+        "Un ensemble de personnes qui coordonnent leurs activités, selon des règles et une répartition des rôles, pour atteindre des finalités communes en mobilisant des ressources.",
+        "Finalités : pourquoi elle existe. Ressources : avec quoi elle agit. Structure : comment elle répartit le travail et l'autorité."
+      ],
+      "source": "Cours S2, chapitre 1, encadré « Organisation »",
+      "side": {
+        "tag": "Kestrel Logistique",
+        "head": "Une SAS, cinq ressources",
+        "body": [
+          "Filiale à 100 % de Vidal Participations.",
+          "Humaines : 300 salariés. Financières : 42 M€ de CA. Matérielles : 3 sites, 40 camions. Immatérielles : les contrats. Informationnelles : les adresses de 2,5 millions de livraisons par an."
+        ]
+      },
+      "note": "Medisecure compte deux structures juridiques, une association et une SAS : ne la décrivez pas comme une seule entreprise.",
+      "note_style": "warn",
+      "notes": [
+        {
+          "cue": "Encadré sombre : la définition",
+          "text": "Commençons par le mot le plus simple, et pourtant rarement défini : l'organisation. C'est un ensemble de personnes qui coordonnent leurs activités, selon des règles et une répartition des rôles, pour atteindre des finalités communes en mobilisant des ressources. Retenez les trois questions qu'elle pose. Ses finalités : pourquoi existe-t-elle ? Ses ressources : avec quoi agit-elle ? Sa structure : comment répartit-elle le travail et l'autorité ? Ajoutez qu'elle échange en permanence avec son environnement : clients, fournisseurs, autorités, concurrents."
+        },
+        {
+          "cue": "Carte de droite : Kestrel",
+          "text": "Prenons Kestrel. Sa finalité est celle d'une entreprise : vendre un service de transport avec profit. Ses ressources se rangent en cinq catégories. Humaines : 300 salariés, dont 140 chauffeurs et 95 agents de quai. Financières : 42 millions d'euros de chiffre d'affaires et le soutien de son groupe. Matérielles : trois sites, 40 camions porteurs, 60 scanners de quai. Immatérielles : ses contrats avec la grande distribution, sa connaissance du réseau routier régional. Informationnelles, enfin : les adresses de 2,5 millions de livraisons par an, les historiques de tournées, les positions GPS. C'est cette dernière ressource qui nous occupe toute la semaine. Côté statut, Kestrel est une SAS, une société par actions simplifiée, filiale à 100 % du groupe familial Vidal Participations, qui nomme sa direction."
+        },
+        {
+          "cue": "Bandeau rouge",
+          "text": "Le statut juridique fixe qui décide et qui peut recevoir les bénéfices. Une société peut verser des dividendes ; une association, régie par la loi de 1901, réinvestit ses excédents dans son objet ; une administration agit selon le droit public. Medisecure illustre un cas fréquent dans la santé : deux structures travaillent ensemble. L'association Medisecure Santé gère les centres ; la société Medisecure Services SAS porte les fonctions support, dont la DSI, et facture ses prestations à l'association par une convention annuelle. Ne décrivez donc jamais Medisecure comme une seule entreprise : la relation entre les deux structures doit apparaître sur la vue de l'écosystème."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 1 · L'approche systémique de Le Moigne",
+      "title": "Le SI relie le système opérant au système de pilotage",
+      "minutes": 2.5,
+      "fig": "c01-le-moigne",
+      "side": {
+        "tag": "Le Moigne, 1977",
+        "head": "Trois sous-systèmes",
+        "body": [
+          "Opérant : il réalise l'activité.",
+          "Pilotage : il décide et contrôle.",
+          "Information : il mémorise, traite et transmet entre les deux."
+        ]
+      },
+      "note": "Panne de RoutePro, novembre 2024 : 9 heures sans affectation des tournées, 2 300 colis livrés en retard.",
+      "notes": [
+        {
+          "cue": "Figure : les trois rectangles",
+          "text": "Pour situer le SI dans l'organisation, le modèle le plus utilisé dans l'enseignement français est celui de Jean-Louis Le Moigne, dans « La théorie du système général », paru en 1977. Il voit l'organisation comme un système, tourné vers des finalités et ouvert sur son environnement, et le décompose en trois sous-systèmes. Le système opérant réalise l'activité : il transforme des entrées en sorties. Le système de pilotage décide, fixe les objectifs et contrôle les résultats. Le système d'information fait le lien : il mémorise, traite et transmet les informations qui remontent vers le pilotage, et les décisions qui redescendent."
+        },
+        {
+          "cue": "Les flèches et les noms de Kestrel",
+          "text": "Appliqué à Kestrel, cela donne la figure du chapitre 1. En bas, les quais, les chauffeurs, les camions : environ 9 000 colis par jour. En haut, le comité de direction, le directeur des opérations, les chefs de quai et les trois planificateurs. Au milieu, le SI : les ordres arrivent par le portail EDI, RoutePro les affecte aux tournées, KDriver remonte les preuves de livraison, TeleFleet les positions des camions. Regardez les flèches : pleines pour les flux physiques, en pointillés pour les flux d'information."
+        },
+        {
+          "cue": "Bandeau du bas : la panne de RoutePro",
+          "text": "Le modèle aide déjà à voir des fragilités. Les planificateurs décident de l'affectation : ils relèvent du pilotage. Leurs fichiers Excel, eux, font partie du SI : ils sont inscrits au parc applicatif, mais tenus à la main, selon des règles que seules trois personnes connaissent. La panne de novembre 2024 montre l'autre face : 9 heures sans RoutePro, 2 300 colis livrés en retard. Le système opérant a continué à tourner, mais à l'aveugle. Question pour vous : dans votre entreprise d'alternance, que se passe-t-il quand le SI s'arrête une matinée ?"
+        },
+        {
+          "cue": "Retour à la figure : les limites du modèle",
+          "text": "Gardez aussi la limite du modèle. Il présente l'organisation comme une machine bien réglée, alors que les décisions réelles se prennent aussi dans les couloirs. Et il ne dit rien de la manière dont le travail est réparti entre les services. Pour cela, il faut regarder la structure."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 1 · Les structures",
+      "title": "La structure divise le travail, et elle façonne le SI",
+      "minutes": 2.5,
+      "header": [
+        "Structure",
+        "Découpage",
+        "Atout",
+        "Faiblesse",
+        "Effet typique sur le SI"
+      ],
+      "rows": [
+        [
+          "Fonctionnelle",
+          "Par métier",
+          "Spécialisation, expertise",
+          "Lenteur des décisions transversales",
+          "Applications par fonction, mal reliées entre elles"
+        ],
+        [
+          "Divisionnelle",
+          "Par produit, marché ou région",
+          "Autonomie, proximité du marché",
+          "Doublons de moyens",
+          "Une application par division pour le même besoin"
+        ],
+        [
+          "Matricielle",
+          "Métier et projet croisés",
+          "Souplesse, partage des compétences",
+          "Double hiérarchie, conflits",
+          "Outils collaboratifs et suivi de projets"
+        ],
+        [
+          "En réseau",
+          "Cœur de métier et partenaires",
+          "Agilité, coûts variables",
+          "Dépendance aux partenaires",
+          "Échanges externes, sécurité des interconnexions"
+        ]
+      ],
+      "widths": [
+        1.1,
+        1.3,
+        1.3,
+        1.4,
+        1.8
+      ],
+      "maxs": 17,
+      "note": "Mintzberg (1979), en repère · chez Kestrel, les quais : bureaucratie mécaniste ; la DSI : structure simple ; les quatre développeurs : petite adhocratie.",
+      "note_h": 52,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "La structure est la manière dont une organisation divise le travail et coordonne les personnes qui l'exécutent. Elle se lit sur l'organigramme, mais pas seulement : elle comprend aussi les règles de délégation, les comités et les circuits de décision."
+        },
+        {
+          "cue": "Tableau, ligne par ligne",
+          "text": "Quatre grands types sont classiquement distingués. La structure fonctionnelle regroupe les personnes par métier : elle favorise l'expertise, mais ralentit les décisions transversales, et produit souvent des applications par fonction, mal reliées entre elles. La structure divisionnelle découpe par produit, par marché ou par région : chaque division a ses propres fonctions, d'où des doublons, et souvent plusieurs applications pour le même besoin. La matricielle croise métier et projet, avec une double hiérarchie. La structure en réseau confie une part de l'activité à des partenaires liés par contrat : elle multiplie les échanges de données avec l'extérieur, et pose la question de la sécurité des interconnexions."
+        },
+        {
+          "cue": "Ligne « Fonctionnelle » et ligne « En réseau »",
+          "text": "Kestrel a une structure fonctionnelle : un directeur général entouré d'une direction administrative et financière, d'une direction des opérations, d'une direction commerciale et d'une direction des ressources humaines. Les trois sites s'ajoutent comme une dimension géographique, mais ce ne sont pas des divisions autonomes : ils dépendent du directeur des opérations. Kestrel a aussi un trait de structure en réseau, puisque le dernier kilomètre est confié à des sous-traitants."
+        },
+        {
+          "cue": "Bandeau du bas : Mintzberg",
+          "text": "Henry Mintzberg, dans « The Structuring of Organizations », en 1979, propose une lecture plus fine : cinq configurations, selon la partie de l'organisation qui domine et le mode de coordination. Prenez-les comme des repères, pas comme des cases. Les quais de Kestrel fonctionnent comme une bureaucratie mécaniste : les gestes de tri, de scan et de chargement sont standardisés. La DSI, dix personnes coordonnées directement par leur directrice, ressemble à une structure simple. Les quatre développeurs, eux, s'ajustent mutuellement, comme une petite adhocratie : une méthode imposée d'en haut à cette équipe risquerait d'être mal reçue. Tout à l'heure, vous ferez le même raisonnement sur les centres de Medisecure."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 1 · Fiche de travail",
+      "title": "Prenez la fiche FT 01 : l'agence de Clermont en système",
+      "minutes": 2,
+      "ft": "FT 01",
+      "name": "L'organisation vue comme un système",
+      "duration": "60 minutes",
+      "consigne": [
+        "Stagiaire à la DSI de Kestrel, vous décrivez l'agence de Clermont-Ferrand pour Hélène Garnier, avec le vocabulaire de la gestion.",
+        "Vous relevez ses ressources, appliquez le modèle de Le Moigne, distinguez donnée, information et connaissance, caractérisez sa structure, puis montrez où l'information circule mal.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez décrire une organisation en trois sous-systèmes et cinq ressources.",
+        "Complétez le « Je retiens » de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Sortez votre livret de fiches de travail et ouvrez la fiche FT 01. Elle reprend tout ce que nous venons de voir : les ressources, les trois sous-systèmes de Le Moigne et la structure. Vous travaillez sur Kestrel, mais sur un site que le cours n'a pas décrit : l'agence de Clermont-Ferrand."
+        },
+        {
+          "cue": "Consigne",
+          "text": "Vous êtes stagiaire à la DSI. Hélène Garnier prépare un déplacement à l'agence et vous demande de la décrire avec le vocabulaire de la gestion. Les quatre annexes vous donnent un entretien, des chiffres et un circuit. Les sept questions vont du relevé à l'argumentation ; l'une d'elles demande un petit calcul. Vous avez 60 minutes, seul ou à deux."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "Terminez par le « Je retiens », sans regarder le cours : c'est votre rappel des définitions. Nous corrigerons ensemble à la fin du temps imparti."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 1 · La chaîne de valeur de Porter",
+      "title": "Chaque application se place sur la chaîne de valeur",
+      "minutes": 2,
+      "fig": "c01-chaine-valeur-kestrel",
+      "side": {
+        "tag": "Porter, 1985",
+        "head": "Ce que montre la figure",
+        "body": [
+          "Chaque application se place auprès de l'activité qui l'utilise.",
+          "Le SI se range dans le développement technologique, mais traverse toutes les activités.",
+          "La commercialisation n'a pas d'outil dédié : les devis arrivent par courriel."
+        ]
+      },
+      "notes": [
+        {
+          "cue": "Figure : la flèche de Porter",
+          "text": "Michael Porter, professeur à Harvard, a présenté la chaîne de valeur dans « Competitive Advantage », en 1985. L'entreprise y est vue comme une suite d'activités, dont chacune ajoute de la valeur pour le client et un coût pour l'entreprise. Les activités principales, en bas, créent, vendent et servent le produit : logistique d'entrée, production, logistique de sortie, commercialisation et vente, services. Les activités de soutien, en haut, les rendent possibles : infrastructure de l'entreprise, gestion des ressources humaines, développement technologique, approvisionnements. La différence entre la valeur créée et le coût de l'ensemble forme la marge, à la pointe de la flèche."
+        },
+        {
+          "cue": "Colonnes du bas, noms en bleu",
+          "text": "Le modèle a été conçu pour l'industrie ; pour un service, on reformule. Chez un transporteur, la production, c'est le tri et la préparation des tournées. Regardez les noms en bleu : chaque application trouve sa place auprès de l'activité qui l'utilise. Le portail EDI en logistique d'entrée, StockFlow, RoutePro et les fichiers Excel en production, KDriver et TeleFleet en logistique de sortie, Kestrel Track dans les services. Kestrel Track et KDriver apparaissent aussi, sans couleur, dans le développement technologique : la DSI les produit et les maintient, ce qui est une autre activité que leur usage."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "Ce que la chaîne de valeur apporte aussi à l'informaticien, c'est de voir les activités sans application dédiée. Chez Kestrel, la commercialisation n'a pas d'outil de gestion de la relation client : les demandes de devis arrivent par courriel depuis le site web. Notez la prudence du constat. Il ne dit pas encore s'il faut un outil ; il dit qu'une activité repose sur la messagerie. C'est exactement le ton du diagnostic que vous écrirez dans la partie 5 du dossier."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 1 · Les processus",
+      "title": "Les processus se classent en pilotage, réalisation, support",
+      "minutes": 2.5,
+      "header": [
+        "Famille",
+        "Rôle",
+        "Processus de Kestrel Logistique"
+      ],
+      "rows": [
+        [
+          "Pilotage",
+          "Orienter, décider, contrôler",
+          "Élaborer et suivre « Cap 2029 » ; piloter la performance opérationnelle ; gérer les risques et la conformité"
+        ],
+        [
+          "Réalisation",
+          "Produire la valeur pour le client",
+          "Recevoir les ordres de transport ; trier et préparer ; planifier les tournées ; livrer et prouver la livraison ; informer le client du suivi ; facturer le client"
+        ],
+        [
+          "Support",
+          "Fournir les ressources",
+          "Gérer le personnel et la paie ; gérer la flotte ; gérer les achats et les sous-traitants ; gérer le SI ; tenir la comptabilité"
+        ]
+      ],
+      "widths": [
+        1,
+        1.4,
+        3.6
+      ],
+      "maxs": 20,
+      "note": "vue métier de Medisecure (section 2.3) : au moins 4 processus de réalisation, 2 de support et 1 de pilotage, dont 2 détaillés en activités.",
+      "note_style": "dossier",
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Pour décrire le travail réel, on utilise la notion de processus, que vous retrouverez dans la vue métier, section 2.3 du dossier. Un processus est un enchaînement d'activités qui transforme des éléments d'entrée en résultats ayant de la valeur pour un client, interne ou externe. Il a un début et une fin identifiables, des acteurs, et il manipule des informations."
+        },
+        {
+          "cue": "Tableau : les trois familles",
+          "text": "On classe les processus en trois familles, selon un usage courant dans les démarches qualité qui appliquent l'approche processus promue par la norme ISO 9001. Les processus de pilotage orientent, décident, contrôlent : chez Kestrel, élaborer et suivre le plan « Cap 2029 ». Les processus de réalisation produisent la valeur pour le client : recevoir les ordres de transport, trier, planifier les tournées, livrer et prouver la livraison, informer, facturer. Les processus de support fournissent les ressources aux deux autres : la paie, la flotte, les achats, et le système d'information lui-même."
+        },
+        {
+          "cue": "Ligne « Réalisation »",
+          "text": "Un processus traverse souvent plusieurs services ; c'est ce qui le distingue d'une fonction. La livraison d'un colis chez Kestrel part du commercial qui a signé le client, passe par les quais, la planification et le chauffeur, et finit à la comptabilité qui facture. Chaque passage de relais est un endroit où une donnée peut être ressaisie, perdue ou retardée : c'est là que votre cartographie trouvera des flux manuels. Un processus se décrit à plusieurs niveaux : le nommer, puis enchaîner ses activités avec leurs acteurs, puis détailler chaque tâche. Pour le D2, le deuxième niveau suffit pour deux processus ; les autres restent nommés et classés."
+        },
+        {
+          "cue": "Bandeau du bas, puis les parties prenantes",
+          "text": "Les minimums de la vue métier sont dans le bandeau. Un dernier mot sur les parties prenantes, notion popularisée par Edward Freeman en 1984 : ce sont les personnes ou les groupes qui influencent l'organisation ou qui sont affectés par ses décisions. Pour le SI, chaque partie prenante externe est un point d'échange de données, donc une dépendance et un risque possible. Chez Kestrel, 70 % des ordres de transport arrivent par le portail EDI d'un prestataire. La directrice commerciale ne voit pas ce prestataire ; pourtant, son arrêt bloquerait l'essentiel de l'activité."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 1 · Fiche de travail",
+      "title": "Prenez la fiche FT 02 : chaîne de valeur et processus",
+      "minutes": 2,
+      "ft": "FT 02",
+      "name": "Chaîne de valeur et processus",
+      "duration": "60 minutes",
+      "consigne": [
+        "Léa Fontaine se plaint : il faut près de trois semaines pour faire démarrer un nouveau client e-commerçant.",
+        "Vous caractérisez ce processus, calculez son délai de bout en bout, le situez dans la chaîne de valeur de Porter, classez les processus de Kestrel et repérez les passages de relais où l'information se perd.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez caractériser un processus et le placer sur la chaîne de valeur.",
+        "Complétez le « Je retiens » de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Prenez maintenant la fiche FT 02. Elle fait travailler la chaîne de valeur et la notion de processus, à partir d'un problème réel de Kestrel : le démarrage trop lent d'un nouveau client e-commerçant."
+        },
+        {
+          "cue": "Consigne",
+          "text": "Vous êtes alternant à la DSI. Hélène Garnier vous demande de décrire ce processus, de le situer dans la chaîne de valeur et de repérer les passages de relais. Vous calculerez un délai de bout en bout et un taux de transformation. Vous avez 60 minutes, seul ou à deux."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "Soyez précis sur le déclencheur et le résultat du processus : c'est ce qui le distingue d'une simple liste de tâches. Nous mettrons en commun le classement des processus."
+        }
+      ]
+    },
+    {
+      "pattern": "definition",
+      "kicker": "Chapitre 1 · Le système d'information",
+      "title": "Le SI, ce sont aussi des personnes et des procédures",
+      "minutes": 2.5,
+      "term": "Système d'information",
+      "definition": [
+        "Un ensemble organisé de ressources (matériels, logiciels, personnel, données, procédures) qui permet d'acquérir, de traiter, de stocker et de communiquer des informations, dans et entre des organisations."
+      ],
+      "source": "D'après Robert Reix, « Systèmes d'information et management des organisations », Vuibert, 1re édition 1995",
+      "side": {
+        "tag": "Kestrel",
+        "head": "SI ≠ système informatique",
+        "body": [
+          "Les tournées du lendemain dépendent de trois planificateurs et de leurs fichiers Excel : 2 h 30 chaque soir.",
+          "Les temps de conduite de TeleFleet sont ressaisis dans la paie : un flux manuel.",
+          "Un inventaire limité à l'informatique ne verrait ni l'un ni l'autre."
+        ]
+      },
+      "note": "Quatre fonctions : collecter, mémoriser, traiter, diffuser · trois niveaux : donnée, information, connaissance.",
+      "note_style": "key",
+      "notes": [
+        {
+          "cue": "Encadré sombre : la définition de Reix",
+          "text": "Le terme « système d'information » est souvent employé comme simple synonyme d'informatique. La définition de référence dans l'enseignement français de gestion est celle de Robert Reix : un ensemble organisé de ressources, matériels, logiciels, personnel, données, procédures, qui permet d'acquérir, de traiter, de stocker et de communiquer des informations, dans et entre des organisations. La formulation exacte a varié selon les éditions de l'ouvrage : citez celle que vous consultez. Trois expressions comptent, et la dernière ne figure que dans certaines éditions. « Ensemble organisé » : un tas d'applications sans règles d'échange ne forme pas un système. « Personnel » et « procédures » : ceux qui saisissent, contrôlent et décident font partie du SI. « Entre des organisations » : le SI inclut les échanges avec les clients, les fournisseurs et les autorités."
+        },
+        {
+          "cue": "Carte de droite : SI et système informatique",
+          "text": "D'où une distinction capitale. Le système informatique, ce sont les moyens techniques : serveurs, postes, réseaux, logiciels, bases de données. Il n'est qu'une partie du SI. Chez Kestrel, un inventaire limité au système informatique listerait RoutePro et Microsoft 365 ; il ne montrerait pas que la tournée du lendemain dépend de trois planificateurs disponibles chaque soir. De même, la ressaisie des temps de conduite de TeleFleet dans la paie est un flux du SI, manuel, que seul un regard sur le SI complet fait apparaître. Votre cartographie devra montrer ces flux manuels."
+        },
+        {
+          "cue": "Bandeau sombre",
+          "text": "Le SI remplit quatre fonctions : collecter, mémoriser, traiter, diffuser ; une faiblesse peut se loger dans chacune. Il joue trois rôles : opérationnel, aide à la décision, coordination. Distinguez enfin donnée, information et connaissance. Une donnée est un fait brut : « 45,73 ; 4,92 ; 06:42 ». Une information la met en contexte : « le camion 17 était à Vénissieux à 6 h 42, avec 40 minutes de retard sur sa tournée ». Une connaissance permet d'agir : « les tournées du sud lyonnais prennent du retard chaque lundi matin ». Les règles de construction des tournées de Kestrel ne sont écrites nulle part : le départ d'un planificateur serait une perte de connaissance qu'aucune sauvegarde ne compense."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 1 · Les grandes familles d'applications",
+      "title": "Les familles d'applications aident à lire un parc",
+      "minutes": 2.5,
+      "header": [
+        "Famille",
+        "Ce qu'elle couvre",
+        "Chez Kestrel"
+      ],
+      "rows": [
+        [
+          "ERP · progiciel de gestion intégré",
+          "Comptabilité, achats, facturation, sur une base unique",
+          "ERP finance"
+        ],
+        [
+          "CRM · gestion de la relation client",
+          "Prospects, devis, réclamations, campagnes",
+          "Aucune : devis par courriel"
+        ],
+        [
+          "SCM · chaîne logistique",
+          "Transport (TMS), entrepôt (WMS), échanges (EDI)",
+          "RoutePro, StockFlow, Portail EDI"
+        ],
+        [
+          "BI · décisionnel",
+          "Entrepôt de données, tableaux de bord, analyses",
+          "Aucune : tableaux Excel"
+        ],
+        [
+          "Applications métier",
+          "Propres au secteur : DPI en santé, TMS en transport",
+          "KDriver, Kestrel Track, TeleFleet"
+        ],
+        [
+          "Bureautique et collaboration",
+          "Documents, courriels, partage",
+          "Microsoft 365"
+        ]
+      ],
+      "widths": [
+        1.6,
+        2.2,
+        1.7
+      ],
+      "maxs": 18,
+      "note": "Mode d'acquisition : progiciel, développement interne ou SaaS. Il change la maîtrise des données et de la disponibilité.",
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Connaître les grandes familles d'applications vous aide à lire un parc : à repérer ce qui manque et ce qui fait doublon. Le tableau reprend celui du chapitre 1, avec la colonne Kestrel."
+        },
+        {
+          "cue": "Lignes ERP, CRM et SCM",
+          "text": "L'ERP, progiciel de gestion intégré, couvre la comptabilité, les achats, la facturation, parfois les stocks et la paie, sur une base unique : chez Kestrel, l'ERP finance. Le CRM, gestion de la relation client, suit les prospects, les devis, les réclamations : Kestrel n'en a pas, nous l'avons vu sur la chaîne de valeur. La gestion de la chaîne logistique, SCM, regroupe des outils spécialisés : le TMS pour le transport, c'est RoutePro ; le WMS pour l'entrepôt, c'est StockFlow ; l'EDI, l'échange de données informatisé, c'est le portail par lequel arrivent 70 % des ordres."
+        },
+        {
+          "cue": "Lignes décisionnel, métier et bureautique",
+          "text": "Le décisionnel, ou BI, produit tableaux de bord et analyses : Kestrel n'a pas d'application dédiée, seulement des tableaux Excel. Les applications métier sont propres à un secteur : le dossier patient informatisé, le DPI, en santé ; KDriver, Kestrel Track et TeleFleet chez Kestrel. Ajoutez la bureautique, et les outils de la DSI elle-même, comme l'outil de tickets. Une même application peut relever de deux familles : le TMS est à la fois un outil de la chaîne logistique et l'application métier du transporteur. Dans votre inventaire, dites quelle famille vous retenez, et tenez ce choix."
+        },
+        {
+          "cue": "Bandeau du bas",
+          "text": "Une application se décrit aussi par son mode d'acquisition. Un progiciel est acheté à un éditeur et paramétré ; un développement interne est écrit par l'équipe de l'organisation ; un service SaaS est loué et utilisé en ligne, l'éditeur en assurant l'exploitation. Ce mode change la maîtrise que l'organisation garde sur ses données et sur la disponibilité. Enfin, n'oubliez pas les usages informels : un fichier sur un poste personnel, une messagerie instantanée, un service en ligne gratuit adopté sans en informer la DSI. Ils traitent des données de l'organisation ; le D2 vous demande d'en inventorier au moins un pour Medisecure."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 1 · Fiche de travail",
+      "title": "Prenez la fiche FT 03 : ce que la note sur le SI oublie",
+      "minutes": 2,
+      "ft": "FT 03",
+      "name": "Système d'information, système informatique et familles d'applications",
+      "duration": "60 minutes",
+      "consigne": [
+        "Isabelle Roux présente le SI de Kestrel à l'actionnaire, mais sa note le réduit à l'informatique.",
+        "Vous repérez sa définition implicite du SI, distinguez SI et système informatique, analysez les fonctions du SI au service client, calculez des parts de temps et classez des besoins par familles d'applications.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez distinguer SI et système informatique et classer un parc par familles.",
+        "Complétez le « Je retiens » de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Fiche FT 03, maintenant. Elle porte sur la distinction que je vous ai présentée comme capitale : le système d'information n'est pas le système informatique."
+        },
+        {
+          "cue": "Consigne",
+          "text": "La directrice administrative et financière a rédigé une note sur le SI de Kestrel pour le conseil de l'actionnaire. Vous la relisez avec ce que vous avez observé à la cellule service client. Votre travail : montrer ce que la note oublie, les personnes, les procédures, les échanges informels. Vous avez 60 minutes, seul ou à deux."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "La dernière question vous demande une réponse à un dirigeant : courte, factuelle, sans jargon. Je lirai quelques réponses à voix haute."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 1 · La stratégie et les objectifs SMART",
+      "title": "Les objectifs de Cap 2029 passés à la grille SMART",
+      "minutes": 3,
+      "intro": "Stratégie (Chandler, 1962) : des buts à long terme, des actions, des ressources. Kestrel : focalisation régionale par la différenciation, sous contrainte de coûts (3,1 % de marge).",
+      "intro_h": 44,
+      "header": [
+        "Objectif de Cap 2029",
+        "Ce qui manque",
+        "Ce que l'objectif exige du SI"
+      ],
+      "rows": [
+        [
+          "Livrer à J+1 sur toute la région",
+          "Un indicateur ; la valeur de départ",
+          "Mesurer le délai réel de chaque livraison (KDriver, Kestrel Track)"
+        ],
+        [
+          "Réduire de 20 % les kilomètres à vide",
+          "La valeur de référence ; la définition du kilomètre à vide",
+          "Exploiter TeleFleet ; un module d'optimisation des tournées"
+        ],
+        [
+          "Porter l'e-commerce à 40 % du CA",
+          "Atteignable ? Aucun plan commercial chiffré",
+          "Commande en ligne, suivi destinataire, facturation automatisée"
+        ],
+        [
+          "Obtenir la certification ISO 14001",
+          "La date de certification visée",
+          "Collecter consommation, émissions, déchets"
+        ]
+      ],
+      "widths": [
+        1.6,
+        1.8,
+        2.4
+      ],
+      "maxs": 17,
+      "note": "SMART : spécifique, mesurable, atteignable, pertinent, temporellement défini · sans date propre, l'horizon 2029 vaut échéance « par défaut ».",
+      "notes": [
+        {
+          "cue": "Phrase du haut : Chandler",
+          "text": "Troisième temps du chapitre : la stratégie. Pour juger si un SI est adapté, il faut savoir où l'organisation veut aller. Alfred Chandler, historien de l'entreprise, la définit dans « Strategy and Structure », en 1962, comme la détermination des buts et objectifs à long terme, l'adoption des actions à mener et l'allocation des ressources nécessaires. Une destination, un chemin, des moyens. Il a aussi montré que la structure suit la stratégie. C'est vrai du SI : un SI qui ne suit pas la stratégie devient un frein."
+        },
+        {
+          "cue": "Phrase du haut : la stratégie de Kestrel",
+          "text": "On distingue trois niveaux : le groupe décide dans quels métiers investir, le domaine d'activité comment gagner dans ce métier, les fonctions, dont le SI, comment y contribuer. La vision dit ce que l'organisation veut devenir, la mission ce qu'elle fait et pour qui, les objectifs les étapes. Porter, en 1980, ajoute trois stratégies génériques : domination par les coûts, différenciation, focalisation. Kestrel se concentre sur une région avec une promesse de service : c'est une focalisation par la différenciation. Mais avec 3,1 % de marge, elle ne peut pas négliger ses coûts. Son SI est donc tiré dans deux directions : rendre le service visible et réduire les coûts d'exploitation."
+        },
+        {
+          "cue": "Tableau : les quatre objectifs",
+          "text": "Un objectif utile se vérifie : c'est le rôle de la grille SMART, rappelée dans le bandeau. Le plan « Cap 2029 » a quatre objectifs. « Livrer à J+1 sur toute la région » est spécifique, mais sans indicateur ni valeur de départ. « Réduire de 20 % les kilomètres à vide » est chiffré, mais la référence n'est pas établie et le kilomètre à vide n'est pas défini. La part e-commerce part d'une valeur connue, 30 %, mais aucun plan commercial chiffré n'en montre le réalisme. ISO 14001 est vérifiable par un tiers, sans date de certification visée dans la période."
+        },
+        {
+          "cue": "Colonne de droite, puis bandeau",
+          "text": "La dernière colonne est la plus utile pour vous : ce que chaque objectif exige du SI. Les quatre en exigent quelque chose. Trois d'entre eux s'appuient en partie sur des données déjà collectées, par KDriver et TeleFleet, mais non exploitées faute d'outil décisionnel. C'est un constat de diagnostic, formulé sans proposer de solution. Notez la règle du cours : un objectif sans date propre est « daté par défaut » par l'horizon du plan, ce qui est plus faible qu'une date fixée. Et retenez que votre dossier est un diagnostic : il prépare le choix stratégique, il ne le fait pas."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 1 · Fiche de travail",
+      "title": "Prenez la fiche FT 04 : lire le plan Cap 2029",
+      "minutes": 2,
+      "ft": "FT 04",
+      "name": "Lire une stratégie : niveaux, objectifs SMART, stratégies génériques",
+      "duration": "60 minutes",
+      "consigne": [
+        "Paul Vidal prépare la revue annuelle du plan « Cap 2029 » ; Hélène Garnier doit dire ce que la stratégie exige du SI.",
+        "Sur trois documents, vous distinguez les niveaux de stratégie, testez les objectifs avec la grille SMART, calculez une croissance annuelle moyenne, identifiez la stratégie générique et en tirez les exigences envers le SI.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez décomposer une stratégie et tester ses objectifs.",
+        "Complétez le « Je retiens » de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Dernière fiche du chapitre, la fiche FT 04. Elle reprend la définition de Chandler, les niveaux de stratégie et la grille SMART, sur des documents de Kestrel que la diapositive précédente n'a pas montrés."
+        },
+        {
+          "cue": "Consigne",
+          "text": "Vous êtes alternant à la DSI et vous lisez trois documents. Vous testerez les objectifs un par un, puis vous calculerez un taux de croissance annuel moyen. La question finale vous demande ce que la stratégie exige du SI. Vous avez 60 minutes, seul ou à deux."
+        },
+        {
+          "cue": "Carte de droite",
+          "text": "Gardez votre fiche : la même démarche vous servira dans l'atelier, pour les huit axes du plan Medisecure 2030."
+        }
+      ]
+    },
+    {
+      "pattern": "study",
+      "kicker": "Chapitre 1 · Étude de document",
+      "title": "Réduire son SI à son serveur, c'est ignorer ses risques",
+      "minutes": 3,
+      "source": "Document · entretien fictif écrit pour le cours, lettre d'une chambre de commerce régionale, février 2026 (extrait résumé)",
+      "document": [
+        "Gérard Morvan dirige les Menuiseries Morvan, 120 salariés, près d'Angers.",
+        "« Notre SI, c'est le serveur dans le placard, l'ERP acheté en 2015 et les ordinateurs. Le reste, c'est de l'organisation : les commerciaux envoient les cotes à l'atelier par photo, sur leur téléphone. »",
+        "« Une commerciale est partie ; ses devis en cours étaient dans sa messagerie personnelle. On a perdu trois chantiers. Ce n'est pas un problème de SI, c'est un problème de personne. »",
+        "« La sauvegarde est sur un disque que mon neveu ramène chez lui le vendredi. Pas de données sensibles, à part les fiches de paie et les coordonnées de nos 4 000 clients particuliers. Mon objectif : doubler le chiffre d'affaires en cinq ans en vendant aussi aux promoteurs immobiliers. Le numérique suivra. »"
+      ],
+      "questions": [
+        "Quelle définition du SI le dirigeant utilise-t-il ? Qu'en exclut-il, selon Reix ?",
+        "Le départ de la commerciale : problème de personne ou de SI ?",
+        "« Pas de données sensibles » : que dit le RGPD des fiches de paie et des coordonnées ?",
+        "L'objectif est-il SMART ? Pourquoi « le numérique suivra » est-il risqué ?",
+        "Dans votre entreprise, quel échange passe par un canal informel ?"
+      ],
+      "notes": [
+        {
+          "cue": "Document à gauche",
+          "text": "Place à l'étude de document du chapitre 1. C'est un entretien fictif, écrit pour le cours, avec Gérard Morvan, qui dirige une menuiserie de 120 salariés près d'Angers. L'écran en montre un résumé ; lisez la version complète dans le cours. Je vous laisse 5 minutes pour la lire et pour noter en quelques lignes vos réponses aux quatre premières questions. Travaillez seuls d'abord ; nous faisons ensuite un tour de table, une question par personne, pendant une quinzaine de minutes."
+        },
+        {
+          "cue": "Questions 1 et 2",
+          "text": "Sur la question 1, je veux entendre que le dirigeant confond SI et système informatique : le serveur, l'ERP, les ordinateurs. Avec la définition de Reix, il exclut au moins les personnes, les procédures et une partie des données : le carnet de cotes, les photos envoyées à l'atelier, la messagerie des commerciaux. Sur la question 2, faites jouer les notions de donnée, d'information et de procédure : les devis étaient des informations de l'entreprise, stockées hors du SI officiel, sans procédure de départ. Le problème a été révélé par une personne, mais c'est un problème de SI."
+        },
+        {
+          "cue": "Question 3",
+          "text": "La question 3 porte sur le RGPD, le règlement général sur la protection des données. Faites distinguer les données personnelles des catégories particulières de données de l'article 9. Les coordonnées de 4 000 clients particuliers sont des données personnelles ; une fiche de paie aussi, et elle peut en révéler davantage. Demandez à la salle où se rangent exactement les fiches de paie, et laissez le débat s'ouvrir. Faites aussi remarquer la sauvegarde rapportée chez le neveu chaque vendredi : où sont ces données, et qui y accède ?"
+        },
+        {
+          "cue": "Questions 4 et 5",
+          "text": "La question 4 réutilise la grille SMART que nous venons de voir : doubler le chiffre d'affaires en cinq ans est chiffré et daté, mais rien ne dit d'où l'on part ni comment on y arrive. Et « le numérique suivra » oublie la leçon de Chandler, alors que la clientèle change : vendre à des promoteurs immobiliers demandera d'autres devis, d'autres échanges, d'autres données. La question 5 est pour vous seuls : quel échange de votre entreprise passe par un canal informel, et le verriez-vous sur une cartographie limitée aux applications ? Ne citez rien de sensible à l'oral."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 1 · Atelier",
+      "title": "Situez Medisecure : structure, chaîne de valeur, stratégie",
+      "minutes": 3,
+      "name": "Situer Medisecure",
+      "duration": "2 h 30",
+      "consigne": [
+        "1. Structure : décrivez les deux structures juridiques et ce qui les relie ; reconnaissez la structure du siège, puis des centres, et leur configuration de Mintzberg.",
+        "2. Chaîne de valeur et processus : adaptez Porter à des soins de proximité, placez-y le « Parc applicatif », repérez une activité sans application dédiée, classez les processus.",
+        "3. Stratégie : reconstituez vision et mission, passez les huit axes du « Plan Medisecure 2030 » à la grille SMART et dites ce que chacun exige du SI.",
+        "Citez la section du dossier de présentation entre parenthèses après chaque fait."
+      ],
+      "livrable": "Un tableau d'identité, un schéma de la chaîne de valeur, un tableau des processus classés, un tableau SMART des huit axes.",
+      "dossier": "Première version de la section 1.1 et base de la vue métier (section 2.3 du D2).",
+      "notes": [
+        {
+          "cue": "Titre et durée",
+          "text": "Dernière diapositive de la journée : l'atelier. L'exercice du chapitre 1, « Situer Medisecure », est indispensable : son livrable devient la première version de votre section 1.1 et la base de votre vue métier. Sa durée indicative est de 2 h 30. Nous en faisons la plus grande partie maintenant ; vous le reprendrez en fin de première période de l'intersession pour rédiger la section 1.1. Vous travaillez seuls, car le dossier est individuel ; à la fin du premier temps, vous pourrez comparer à deux votre lecture des structures pendant dix minutes."
+        },
+        {
+          "cue": "Consigne, temps 1 et 2",
+          "text": "Premier temps, la structure. Appuyez-vous sur les sections « Carte d'identité », « Structure juridique et effectifs », « Les 14 centres » et « Organisation » du dossier de présentation, et cherchez dans « Ce que disent les acteurs » un verbatim qui confirme ou infirme votre lecture. Deuxième temps, la chaîne de valeur : adaptez les activités principales de Porter à des soins de proximité, placez-y les applications de la section « Parc applicatif », repérez au moins une activité sans application dédiée. Classez ensuite les processus de la section « Activités et processus métier » en pilotage, réalisation et support, et complétez la liste pour atteindre les minimums de la section 2.3 des consignes."
+        },
+        {
+          "cue": "Consigne, temps 3",
+          "text": "Troisième temps, la stratégie, à partir de la section « Plan Medisecure 2030 ». Reconstituez une vision et une mission, en signalant qu'il s'agit de reconstitutions. Passez les huit axes du plan à la grille SMART : lesquels ont une valeur de départ mesurée, une cible, une échéance ? Pour chacun, écrivez en une phrase ce qu'il exige du SI, et demandez-vous à quel niveau de stratégie il se situe, et qui l'a validé."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Je passerai dans les rangs et je vérifierai trois choses : que chaque fait porte sa section entre parenthèses, que les deux structures juridiques et leur relation apparaissent dans votre tableau d'identité, et que votre tableau SMART distingue ce qui est mesuré de ce qui ne l'est pas. Je ne vous donnerai pas les réponses : le dossier est le vôtre. Pour demain, regardez dès ce soir Archi et draw.io, les deux outils que nous comparerons au Jour 2 : votre cartographie commence demain."
+        }
+      ]
+    }
+  ]
+}

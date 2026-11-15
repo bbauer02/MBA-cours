@@ -1,0 +1,19 @@
+
+/* S2 : partie « étude de document » au verso de chaque fiche, et corrigé avec pistes. */
+:root { --doc: #fbf6e9; --docline: #e0c98f; }
+.etude { break-before: page; }
+@media screen { .etude { margin-top: 6mm; padding-top: 4mm; border-top: 2px solid var(--pale); } }
+.etude-titre { font-family: var(--head); color: var(--pet); font-weight: 700; font-size: 12.5pt; margin: 0 0 2.5mm; }
+.document { background: var(--doc); border-left: 4px solid var(--amb); border-radius: 0 7px 7px 0; padding: 7px 11px; margin-bottom: 3mm; }
+.document .source { font-size: 8.8pt; font-weight: 700; color: var(--slate); text-transform: none; margin-bottom: 1.5mm; }
+.document p { font-size: 9.9pt; text-align: justify; hyphens: auto; }
+.reflexion { margin-bottom: 3mm; break-inside: avoid; }
+.questions { margin: 0; padding-left: 18px; display: grid; gap: 1.2mm; }
+.questions p { margin: 0; font-size: 10pt; }
+.cle { break-inside: avoid; margin-bottom: 4mm; }
+.cle h3 { display: flex; gap: 6px; align-items: center; margin: 2mm 0 1.5mm; }
+.cle h3 span { flex: 0 0 auto; min-width: 24px; height: 18px; border-radius: 9px; background: var(--pet); color: #fff; font-size: 8.5pt; display: inline-flex; align-items: center; justify-content: center; padding: 0 4px; }
+.pistes { background: var(--mist); border-radius: 6px; padding: 5px 9px; margin-top: 1.5mm; }
+.pistes h4 { font-size: 9.6pt; color: var(--teal); margin-bottom: 1mm; }
+.pistes ol { margin: 0; padding-left: 16px; font-size: 9.2pt; display: grid; gap: .8mm; }
+.avert { font-size: 9.2pt; color: var(--slate); margin: 0 0 3mm; }

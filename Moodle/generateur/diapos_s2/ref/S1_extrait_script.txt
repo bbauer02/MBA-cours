@@ -1,0 +1,182 @@
+===== J1_Diaporama.pptx · diapositive 1 : ['UE1 · Semaine S1 · Cycle Expert en informatique et SI', 'Veille technologique et réglementaire']
+
+▶ DIAPO 1 : cliquer en commençant ce bloc
+
+[Écran : Titre au centre, face à la salle]
+Bonjour à toutes et à tous, et bienvenue dans le premier cours du cycle Expert en informatique et systèmes d'information. Cette semaine, nous allons travailler sur la veille technologique et réglementaire. C'est l'unité d'enseignement numéro un, et c'est aussi la porte d'entrée du bloc « Définir une stratégie de systèmes d'information ».
+
+[Écran : Sous-titre : « Concevoir, outiller, faire vivre… »]
+Mon objectif est simple. À la fin de la semaine, vous devez être capables de concevoir seuls un dispositif de veille, de le monter avec de vrais outils, de le faire tourner pendant trois semaines en entreprise, et d'en tirer des recommandations argumentées. Tout cela aboutit à votre premier dossier, le dossier D1.
+
+[Écran : Mentionnez le cours sur Moodle]
+Ce support suit le cours rédigé que vous trouverez sur Moodle, chapitre par chapitre. Je vais vous présenter les méthodes ; le cours, lui, contient tous les détails, les gabarits et les exercices. Gardez-le ouvert à côté de vous pendant toute la semaine.
+
+===== J1_Diaporama.pptx · diapositive 2 : ['Chapitre 0 · À quoi sert ce cours', "Une DSI décide chaque mois sur de l'information"]
+
+▶ DIAPO 2 : cliquer en commençant ce bloc
+
+[Écran : Titre]
+Commençons par la question la plus importante : à quoi sert une veille ?
+
+[Écran : Bloc de texte à gauche, puis les quatre cartes de décisions]
+Une direction des systèmes d'information prend chaque mois des décisions qui l'engagent pour plusieurs années. Choisir un logiciel, migrer une infrastructure, lancer un projet d'intelligence artificielle, répondre à une obligation légale nouvelle. Toutes ces décisions reposent sur une information à jour. Quand cette information manque, l'organisation subit : elle découvre trop tard qu'un composant n'est plus maintenu, qu'une règle a changé, ou qu'un concurrent a pris de l'avance.
+
+[Écran : Encadré sombre à droite : « Avril 2023 » puis « 2024 »]
+Regardez l'encadré de droite, tiré de notre cas fil rouge. Node.js 14 n'est plus maintenu depuis avril 2023. Les développeurs de Medisecure ne l'ont découvert qu'en 2024. Pendant plus d'un an, une application a tourné sans correctif de sécurité. Et pourtant, l'information était publique. Ce qui manquait, ce n'était pas l'information, c'était le circuit qui la relie au parc applicatif et à un décideur.
+
+[Écran : Phrase en italique en bas à gauche]
+Retenez donc dès maintenant cette idée : la veille ne consiste pas à accumuler des articles. Elle consiste à livrer, à la bonne personne et au bon moment, l'information qui lui permet de décider.
+
+===== J1_Diaporama.pptx · diapositive 3 : ['Chapitre 0 · Les supports du cours', 'Deux organisations fictives, deux usages']
+
+▶ DIAPO 3 : cliquer en commençant ce bloc
+
+[Écran : Titre]
+Le cours s'appuie sur deux organisations fictives, et il est important de comprendre pourquoi il y en a deux.
+
+[Écran : Carte de gauche « Kestrel Logistique »]
+La première, Kestrel Logistique, est un transporteur régional de 300 salariés, avec 40 camions connectés, une plateforme de suivi des colis développée en interne et un projet d'optimisation des tournées par IA. Elle sert aux exemples travaillés. Chaque fois que je vous présente une méthode, vous la verrez appliquée de bout en bout sur Kestrel.
+
+[Écran : Carte de droite « Medisecure »]
+La seconde, Medisecure, est un réseau de 14 centres de santé. C'est notre cas fil rouge pour toute l'année, et c'est sur elle que portent les exercices et votre dossier D1. Medisecure n'a ni les mêmes métiers ni les mêmes obligations que Kestrel : elle traite des données de santé, elle est concernée par l'hébergement de données de santé, par l'AI Act, par NIS2, peut-être par la réglementation des dispositifs médicaux.
+
+[Écran : Les deux bandeaux colorés du bas]
+D'où la règle du cours : les exemples Kestrel se lisent comme des modèles de raisonnement, jamais comme des textes à recopier. Et les exercices sur Medisecure ne sont pas corrigés, parce que le dossier est le vôtre.
+
+===== J1_Diaporama.pptx · diapositive 4 : ['Chapitre 0 · Les compétences visées', 'Trois compétences, un dossier noté sur 20']
+
+▶ DIAPO 4 : cliquer en commençant ce bloc
+
+[Écran : Titre]
+Le dossier D1 valide les trois premières compétences du bloc 1 du titre RNCP. Je vous les présente dans l'ordre où elles s'enchaînent.
+
+[Écran : Pastille C1 et sa carte « E1 à E7 · 7 points »]
+C1, c'est concevoir et structurer une veille : un besoin cadré, des axes justifiés, au moins vingt sources évaluées selon des critères explicites, les grandes orientations réglementaires, et un dispositif réellement monté. C'est sept points sur vingt.
+
+[Écran : Pastille C2 et sa carte « E8 à E13 »]
+C2, c'est synthétiser et restituer : une méthode de tri, une grille d'impact appliquée à au moins quinze informations, trois fiches de veille, trois livrables de diffusion adaptés à leurs publics. Six points.
+
+[Écran : Pastille C3 et sa carte « E14 à E19 »]
+C3, c'est recommander des solutions innovantes : au moins cinq recommandations, dont trois innovantes, trois fiches chiffrées et conformes, et une feuille de route. Six points. Le dernier point porte sur la forme.
+
+[Écran : Bandeau du bas : règle de notation et acquisition]
+La règle de notation est très précise, et je vous demande de la retenir. Chaque élément vaut un point et repose sur trois conditions vérifiables. Trois conditions remplies, un point. Deux, un demi-point. Une ou aucune, zéro. Une condition est remplie ou ne l'est pas, jamais à moitié. Beaucoup de conditions portent sur une justification : chaque fois que vous retenez un axe, une source ou un outil, écrivez en une phrase pourquoi, et pour quel besoin de Medisecure.
+
+===== J1_Diaporama.pptx · diapositive 5 : ['Chapitre 0 · Le déroulé de la semaine', 'La semaine S1 : des méthodes et un dispositif qui tourne']
+
+▶ DIAPO 5 : cliquer en commençant ce bloc
+
+[Écran : Frise des cinq jours]
+Voici comment la semaine est organisée. Elle lance le dossier et vous donne les méthodes ; le travail de fond se fera ensuite, en autonomie, pendant l'intersession.
+
+[Écran : Pastille 1 et carte « À produire » du Jour 1]
+Le Jour 1, après la réunion de rentrée, nous découvrons le cas Medisecure et les consignes du dossier, puis les chapitres 1 et 2. Vous repartez avec les symptômes de Medisecure, le tableau des besoins des parties prenantes, un premier QQOQCCP et vos axes.
+
+[Écran : Pastille 2 : Jour 2]
+Le Jour 2 est consacré aux sources et aux outils. C'est le jour le plus important de la semaine : le soir, votre agrégateur, vos alertes, votre suivi des vulnérabilités et votre base de connaissances doivent être configurés.
+
+[Écran : Pastille 3 : Jour 3]
+Le Jour 3 porte sur le traitement, l'analyse et le panorama réglementaire. Vous testez la grille d'impact sur de vraies informations.
+
+[Écran : Pastille 4 : Jour 4]
+Le Jour 4 couvre la cybersécurité, l'IA, la diffusion et les recommandations. Vous ajoutez les sources de l'axe cybersécurité et vous ouvrez votre journal de veille.
+
+[Écran : Pastille 5 (orange) et phrase en italique du bas]
+Le Jour 5, enfin, chacun présente un pitch de veille de trois minutes, avec au plus trois diapositives et une démonstration de son agrégateur. Ce pitch n'est pas noté : c'est un point d'étape pour recevoir un retour avant de partir.
+
+===== J1_Diaporama.pptx · diapositive 6 : ['Chapitre 0 · Le dossier D1 et son calendrier', 'Du Jour 1 au jour du contrôle']
+
+▶ DIAPO 6 : cliquer en commençant ce bloc
+
+[Écran : Frise de chevrons en haut]
+Regardons maintenant le calendrier complet, du Jour 1 jusqu'au jour du contrôle.
+
+[Écran : Chevrons Période 1 à 3, puis Jour du rendu et Jour du contrôle]
+Après la semaine S1 vient l'intersession, en entreprise, découpée en trois périodes d'une semaine environ. La période 1 commence le lendemain du Jour 5 ; la période 3 s'achève le jour du rendu. Le dossier se dépose ce jour-là sur Moodle. Puis, le premier jour de la semaine S2, a lieu le contrôle : trois veilles flash portant sur trois de vos axes, tirés au sort. Les dates exactes de votre promotion sont dans les consignes publiées sur Moodle.
+
+[Écran : Carte « Le dossier » à gauche]
+Le dossier est individuel. Vous pouvez comparer des outils avec vos pairs et vous relire, mais votre cartographie, vos notes, votre analyse et vos recommandations sont personnelles. Il compte quinze à vingt pages et se dépose en un seul PDF, annexes comprises.
+
+[Écran : Liste des annexes A à G]
+Les sept annexes, de A à G, servent de preuves : captures du dispositif, cartographie, journal, grille remplie, fiches, livrables et usage de l'IA.
+
+[Écran : Bandeau rouge en bas à droite]
+Et je vous signale tout de suite le piège principal. Le dossier doit prouver que votre veille a fonctionné pendant les trois périodes : captures de chaque outil dans chaque période, deux séances datées par période. Si vos outils ne sont pas configurés à la fin de S1, la période 1 est perdue, et elle ne se rattrape pas le jour du rendu.
+
+===== J1_Diaporama.pptx · diapositive 7 : ['Partie 1', 'Comprendre la veille']
+
+▶ DIAPO 7 : cliquer en commençant ce bloc
+
+[Écran : Écran de partie : titre et liste des chapitres]
+Entrons dans le vif du sujet avec la première partie : comprendre ce qu'est la veille. C'est le chapitre 1 du cours. Il pose le vocabulaire que nous utiliserons toute la semaine, et surtout le cycle de la veille, qui structure aussi le plan de votre dossier.
+
+===== J1_Diaporama.pptx · diapositive 8 : ["Chapitre 1 · Qu'est-ce que la veille ?", "Une activité organisée, continue, au service d'une décision"]
+
+▶ DIAPO 8 : cliquer en commençant ce bloc
+
+[Écran : Titre]
+Définissons d'abord la veille. C'est une activité organisée et continue, qui consiste à surveiller l'environnement d'une organisation pour repérer les évolutions qui peuvent l'affecter, puis à transmettre ce qui compte à ceux qui décident.
+
+[Écran : Les trois cartes : Organisée, Continue, Décider (sombre)]
+Trois mots portent cette définition. « Organisée » : il y a un besoin, des sources et une méthode, pas une lecture au fil de l'eau. « Continue » : la veille ne se fait pas une fois pour toutes. Et « décider » : c'est sa finalité. Une veille qui ne sert aucune décision, c'est un loisir.
+
+[Écran : Tableau du bas : veille, audit, recherche documentaire]
+La veille regarde à l'extérieur de l'organisation. C'est ce qui la distingue de l'audit, qui examine l'interne, et de la recherche documentaire ponctuelle, qui répond à une question unique puis s'arrête. En pratique, la veille combine les deux mouvements : elle surveille en continu un périmètre, et elle approfondit quand un signal le justifie.
+
+===== J3_Diaporama.pptx · diapositive 1 : ['Partie 3', 'Traiter, analyser, surveiller']
+
+▶ DIAPO 31 : cliquer en commençant ce bloc
+
+[Écran : Écran de partie : titre et liste des chapitres 5 à 7]
+Troisième partie : traiter, analyser et surveiller. C'est le cœur du Jour 3 et d'une partie du Jour 4. Le chapitre 5 transforme le flux collecté en informations notées. Le chapitre 6 dresse la carte des textes qu'un acteur de santé numérique doit suivre. Le chapitre 7 traite de l'axe cybersécurité et de la sécurité de l'IA. La collecte produit du volume ; c'est l'analyse qui produit de la valeur.
+
+===== J3_Diaporama.pptx · diapositive 2 : ['Chapitre 5 · Traiter et analyser', "Cinq étapes, du flux à l'information notée"]
+
+▶ DIAPO 32 : cliquer en commençant ce bloc
+
+[Écran : Chevrons des cinq étapes ; « Analyser » en orange]
+Le chapitre 5 décrit la chaîne qui transforme un flux de plusieurs centaines d'articles en quelques informations notées, vérifiées, prêtes à être diffusées. Elle compte cinq étapes, dans cet ordre : filtrer, vérifier, catégoriser, analyser, consigner. L'ordre compte, car il est inutile de vérifier une information hors sujet, ou de noter une information fausse.
+
+[Écran : Chevron « Filtrer »]
+Le filtrage écarte ce qui ne sert aucun axe. Le critère n'est pas l'intérêt général d'une information, mais son lien avec un besoin identifié. Il se fait en deux passes. La première est rapide : on lit le titre et le chapeau, on décide en quelques secondes. La seconde porte sur les informations retenues : on lit le texte et on vérifie qu'il apporte un fait nouveau.
+
+[Écran : Graphique en barres : 140, 22, 9]
+Le graphique montre une semaine chez Kestrel : cent quarante éléments remontés, vingt-deux après la première passe, neuf après la seconde. Dans un dispositif réaliste, la première passe élimine souvent plus de huit informations sur dix.
+
+[Écran : Carte « Trois questions pour filtrer », puis phrase en italique]
+Trois questions suffisent pour décider. L'information touche-t-elle un axe ? Concerne-t-elle un actif, un projet ou une obligation de l'organisation ? Apporte-t-elle un élément nouveau par rapport à la base ? Et un exemple concret : sur cinq articles qui commentent la même alerte du CERT-FR, un seul est conservé, le bulletin du CERT-FR lui-même.
+
+===== J3_Diaporama.pptx · diapositive 3 : ['Chapitre 5 · Vérifier et recouper', "Rien n'entre dans la base sans vérification"]
+
+▶ DIAPO 33 : cliquer en commençant ce bloc
+
+[Écran : Titre et les quatre cartes de gauche]
+Une information n'entre dans la base qu'après vérification. Celle-ci répond à quatre questions : qui le dit, d'où vient l'information, quand, et qui la confirme.
+
+[Écran : Carte « D'où vient l'information ? »]
+La règle principale, c'est de remonter à la source primaire. Un article sur un texte européen renvoie au texte publié au Journal officiel de l'Union, sur EUR-Lex. Un billet sur une faille renvoie à l'avis de l'éditeur, au bulletin du CERT-FR ou à la fiche CVE. Tant que la source primaire n'est pas trouvée, l'information reste « à confirmer ».
+
+[Écran : Frise des trois dates à droite]
+Deuxième règle, dater, et distinguer trois dates : celle de l'événement, celle de la publication, et celle de l'entrée en vigueur ou de l'application. Un règlement européen peut entrer en vigueur vingt jours après sa publication et ne s'appliquer que deux ou trois ans plus tard. Confondre ces dates est une erreur classique.
+
+[Écran : Carte « Qui le dit ? », puis carte « Qui confirme ? »]
+Troisième règle, identifier l'auteur. Un cabinet qui publie une étude alarmante sur une menace vend souvent la solution. Cela n'invalide pas l'information, mais oblige à la recouper avec une source indépendante. Et attention : deux articles qui reprennent la même dépêche ne sont pas deux sources.
+
+[Écran : Les trois niveaux de confiance, puis la phrase rouge]
+À l'issue de la vérification, on note un niveau de confiance : confirmé, probable, ou à confirmer. Et une information suggérée par un assistant d'IA suit exactement la même démarche.
+
+===== J3_Diaporama.pptx · diapositive 4 : ['Chapitre 5 · Catégoriser et indexer', 'Une taxonomie courte, un lexique contrôlé']
+
+▶ DIAPO 34 : cliquer en commençant ce bloc
+
+[Écran : Titre]
+Une information vérifiée doit pouvoir être retrouvée dans six mois. C'est le rôle de la catégorisation, qui repose sur deux outils : une taxonomie, c'est-à-dire une liste fermée de catégories, et des mots-clés, plus libres.
+
+[Écran : Tableau : lignes « Axe » et « Catégorie » ; carte de droite du haut]
+La taxonomie reprend les axes du plan de veille comme premier niveau. Le second niveau précise le sujet : sous l'axe réglementation, on trouve par exemple données personnelles, cybersécurité, IA. Une taxonomie utile reste courte, une vingtaine de catégories au plus. Au-delà, chaque contributeur classe à sa façon.
+
+[Écran : Ligne « Mots-clés » ; carte de droite du bas]
+Les mots-clés désignent des objets précis : un texte comme NIS2, un produit comme PostgreSQL 13, un actif de l'organisation. Pour éviter les doublons, on fixe une forme unique dans un petit lexique : « IA », et pas tantôt « intelligence artificielle », tantôt « AI ».
+
+[Écran : Tout le tableau, puis la phrase en gras du bas]
+Le tableau montre les six champs d'indexation, avec un exemple Kestrel. Ce sont aussi les champs de votre base de connaissances. Et attention à un détail qui coûte des points : la taxonomie que vous décrivez dans votre dossier doit être exactement celle que montre la capture de votre base.

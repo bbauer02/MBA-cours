@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prompteur Veille S1 · Jour 4</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout : un plateau de prompteur plein écran, texte centré sur une colonne étroite, ligne de lecture fixe au tiers haut, commandes en bas. Look sombre assumé (usage en salle et en caméra). */
+:root {
+  --ink: #0d1417;        /* fond du plateau */
+  --panel: #152126;      /* barre de commandes */
+  --text: #f1f4f2;       /* texte lu */
+  --dim: #8fa3a6;        /* texte secondaire */
+  --accent: #e8a94a;     /* repères de diapositive, ligne de lecture */
+  --line: #24353b;
+  --cue: #7cc4c0;        /* repères scéniques, non lus */
+  --font: "Atkinson Hyperlegible", "Segoe UI", Calibri, Arial, sans-serif;
+  --size: 44px;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--ink); color: var(--text); font-family: var(--font); overflow: hidden; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--ink); }
+
+#stage { position: fixed; inset: 0; overflow-y: auto; scrollbar-width: none; cursor: pointer; }
+#stage::-webkit-scrollbar { display: none; }
+#script { max-width: 30ch; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 38vh 70vh; font-size: var(--size); line-height: 1.45; transition: transform .2s; }
+#script.wide { max-width: 40ch; }
+#script.mirror { transform: scaleX(-1); }
+#script p { margin: 0 0 .9em; }
+.slide { padding-top: .6em; }
+.marker { display: flex; gap: .6em; align-items: baseline; font-size: .42em; font-weight: 700; color: var(--accent); letter-spacing: .06em; text-transform: uppercase; border-top: 2px solid var(--line); padding-top: .8em; margin-bottom: .8em; }
+.marker .t { text-transform: none; letter-spacing: 0; color: var(--dim); font-weight: 400; }
+.cue { display: block; font-size: .4em; line-height: 1.35; color: var(--cue); font-weight: 700; margin-bottom: .35em; }
+.cue::before { content: "➜ "; }
+.marker .clic { background: var(--accent); color: var(--ink); padding: .1em .5em; border-radius: 4px; }
+.end { text-align: center; color: var(--dim); font-size: .6em; padding-top: 2em; }
+
+#guide { position: fixed; left: 0; right: 0; top: 34vh; height: calc(var(--size) * 1.45); pointer-events: none; border-block: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); background: color-mix(in srgb, var(--accent) 7%, transparent); }
+#guide::before, #guide::after { content: ""; position: absolute; top: 50%; translate: 0 -50%; border: 10px solid transparent; }
+#guide::before { left: max(8px, env(safe-area-inset-left, 0px)); border-left-color: var(--accent); }
+#guide::after { right: max(8px, env(safe-area-inset-right, 0px)); border-right-color: var(--accent); }
+.fade-top, .fade-bot { position: fixed; left: 0; right: 0; pointer-events: none; }
+.fade-top { top: 0; height: 22vh; background: linear-gradient(var(--ink), transparent); }
+.fade-bot { bottom: 0; height: 30vh; background: linear-gradient(transparent, var(--ink)); }
+
+#hud { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 12px); left: max(16px, env(safe-area-inset-left, 0px)); right: max(16px, env(safe-area-inset-right, 0px)); display: flex; justify-content: space-between; gap: 16px; font-size: 14px; color: var(--dim); pointer-events: none; font-variant-numeric: tabular-nums; }
+#hud b { color: var(--text); font-weight: 700; }
+#progress { position: fixed; top: env(safe-area-inset-top, 0px); left: 0; height: 3px; width: 0; background: var(--accent); }
+
+#bar { position: fixed; left: 0; right: 0; bottom: 0; padding: 10px max(16px, env(safe-area-inset-right, 0px)) calc(10px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); background: color-mix(in srgb, var(--panel) 94%, transparent); border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; justify-content: center; font-size: 14px; transition: opacity .4s, transform .4s; }
+body.playing.idle #bar { opacity: 0; transform: translateY(100%); pointer-events: none; }
+body.playing.idle #stage { cursor: none; }
+.grp { display: flex; align-items: center; gap: 6px; }
+.lab { color: var(--dim); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; }
+.val { min-width: 4.6em; text-align: center; font-variant-numeric: tabular-nums; }
+button, select { font: inherit; color: var(--text); background: #1e2e34; border: 1px solid var(--line); border-radius: 6px; padding: 7px 11px; cursor: pointer; }
+button:hover, select:hover { border-color: var(--dim); }
+button:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed="true"] { background: var(--accent); color: var(--ink); border-color: var(--accent); }
+#play { background: var(--accent); color: var(--ink); border-color: var(--accent); font-weight: 700; min-width: 7.5em; }
+select { max-width: min(22em, 80vw); }
+#help { color: var(--dim); font-size: 12px; flex-basis: 100%; text-align: center; }
+#help kbd { font: inherit; border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; color: var(--text); }
+@media (max-width: 640px) { :root { --size: 30px; } #help { display: none; } #hud .t { display: none; } }
+@media (prefers-reduced-motion: reduce) { #bar, #script { transition: none; } }
+</style>
+
+</head>
+<body>
+<div id="stage" aria-label="Texte du prompteur">
+  <article id="script"></article>
+</div>
+<div class="fade-top"></div><div class="fade-bot"></div>
+<div id="guide" aria-hidden="true"></div>
+<div id="progress"></div>
+<div id="hud"><span id="where"></span><span id="left"></span></div>
+
+<div id="bar" role="toolbar" aria-label="Commandes du prompteur">
+  <button id="play" type="button">▶ Lecture</button>
+  <div class="grp"><span class="lab">Vitesse</span><button id="slower" type="button" aria-label="Ralentir">−</button><span class="val" id="speed"></span><button id="faster" type="button" aria-label="Accélérer">+</button></div>
+  <div class="grp"><span class="lab">Taille</span><button id="smaller" type="button" aria-label="Réduire le texte">A−</button><button id="bigger" type="button" aria-label="Agrandir le texte">A+</button></div>
+  <div class="grp"><button id="prev" type="button" aria-label="Diapositive précédente">◀</button><select id="jump" aria-label="Aller à la diapositive"></select><button id="next" type="button" aria-label="Diapositive suivante">▶</button></div>
+  <div class="grp"><button id="wide" type="button" aria-pressed="false">Colonne large</button><button id="mirror" type="button" aria-pressed="false">Miroir</button><button id="full" type="button">Plein écran</button></div>
+  <div id="help"><kbd>Espace</kbd> lecture/pause · <kbd>↑</kbd><kbd>↓</kbd> vitesse · <kbd>←</kbd><kbd>→</kbd> diapositive · <kbd>+</kbd><kbd>−</kbd> taille · <kbd>M</kbd> miroir · <kbd>F</kbd> plein écran · molette pour recaler · en vert : où regarder sur la diapositive (ne pas lire)</div>
+</div>
+
+<script>
+const DATA = [{"n": 51, "title": "Diffuser et recommander", "paras": [{"cue": "Écran de partie : titre et liste des chapitres 8 à 10", "text": "Quatrième partie : diffuser et recommander. Une veille qui n'est ni conservée ni partagée n'existe pas pour l'organisation. Et une veille qui ne débouche sur aucune décision n'a pas démontré son utilité. Le chapitre 8 traite de la capitalisation et de la diffusion, le chapitre 9 du passage à la recommandation, qui pèse six points sur vingt dans votre dossier, et le chapitre 10 de l'usage de l'IA générative dans tout ce travail."}], "words": 73}, {"n": 52, "title": "Une base de connaissances qui survit à son créateur", "paras": [{"cue": "Titre", "text": "Le chapitre 8 traite des deux dernières étapes du cycle. Capitaliser, c'est conserver l'information traitée pour la retrouver et la réutiliser. Diffuser, c'est la faire parvenir à la bonne personne, sous la bonne forme, au bon moment."}, {"cue": "Carte « Trois usages » en bas à gauche", "text": "La base de connaissances rassemble les fiches de veille. Elle a trois usages : retrouver une information, suivre l'évolution d'un sujet dans le temps, et transmettre la veille à un successeur. Ce dernier usage compte : votre conclusion devra dire comment le dispositif survit à votre départ."}, {"cue": "Carte « L'outil importe moins que la structure »", "text": "L'outil importe moins que la structure. Une liste SharePoint, un espace Notion, un wiki ou un classeur partagé peuvent convenir. Le bon choix dépend de ce que l'organisation possède déjà : chez Medisecure, qui dispose de Microsoft 365, une liste SharePoint ou un canal Teams évite d'ajouter un outil. Choisir un outil que personne d'autre n'utilise condamne la base à disparaître avec son créateur."}, {"cue": "Les quatre statuts en haut, puis carte « Revue trimestrielle »", "text": "Chaque fiche a un cycle de vie, en haut de la diapositive. Elle naît « à confirmer », devient « vérifiée » après recoupement, puis « diffusée » quand elle a alimenté un livrable, et enfin « archivée » quand elle n'est plus d'actualité. L'archivage n'est pas une suppression : une fiche archivée documente l'historique d'une décision. Une revue trimestrielle évite que la base se dégrade."}], "words": 214}, {"n": 53, "title": "Un même sujet, trois formats, trois questions", "paras": [{"cue": "Titre", "text": "Un même sujet ne s'écrit pas de la même façon pour un directeur, un tech lead et une équipe d'accueil. Le dossier vous demande trois livrables sur le même sujet, qui doivent différer par l'angle, le vocabulaire, la longueur et l'action demandée au lecteur."}, {"cue": "Colonne sombre « Note de synthèse »", "text": "La note de synthèse, d'une page, s'adresse à la DSI et sert à faire décider. Elle commence par la conclusion : le premier paragraphe dit ce que le lecteur doit décider et pourquoi maintenant. Puis le contexte, les options avec leur coût et leurs risques, la recommandation. Si elle dépasse une page, c'est que l'analyse n'est pas terminée."}, {"cue": "Colonne « Fiche technique »", "text": "La fiche technique, deux pages au plus, s'adresse au tech lead et sert à faire agir. Elle nomme les composants avec leur version exacte, les identifiants de vulnérabilités, renvoie à la documentation officielle et dit ce qu'il faut tester. Un tech lead doit pouvoir créer un ticket à partir de la fiche, sans recherche complémentaire."}, {"cue": "Colonne « Flash d'information »", "text": "Le flash d'information, une page, s'adresse aux équipes et sert à faire appliquer une consigne. Son titre dit ce qui change. Il répond à trois questions : que dois-je faire, à partir de quand, à qui m'adresser. Un seul message par flash."}, {"cue": "Les exemples Kestrel en italique, puis le bandeau rouge", "text": "L'exemple Kestrel porte sur la géolocalisation. Les trois livrables partagent le même fait et la même source, mais ils répondent à trois questions différentes : que décider, comment faire, que changer dans mon travail. Et l'erreur la plus fréquente consiste à produire la note, puis à la couper pour obtenir le flash. Le résultat parle au mauvais lecteur."}], "words": 257}, {"n": 54, "title": "Le bon canal, le bon rythme, un livrable lisible par tous", "paras": [{"cue": "Tableau des canaux à gauche", "text": "Le canal se choisit selon l'urgence, le public et la trace attendue. Une alerte critique ne peut pas attendre la newsletter mensuelle ; une note de synthèse envoyée par message instantané se perd dans le fil de la journée. Le tableau donne les usages conseillés : Teams pour les flashs et les alertes, l'intranet pour la newsletter et l'accès à la base, le courriel pour la note à la direction, la réunion pour l'arbitrage, et l'affichage pour les équipes qui n'ont pas de poste de travail."}, {"cue": "Phrase en italique sous le tableau", "text": "Le rythme combine un flux régulier, qui installe une habitude, et des envois à l'événement selon des seuils fixés à l'avance : une information notée quatorze ou plus, ou une vulnérabilité critique activement exploitée, part dans la journée. Attention à la lassitude : trop d'envois font ignorer l'alerte importante."}, {"cue": "Les quatre règles à droite, puis la note en italique", "text": "Les livrables doivent aussi être lisibles par tous, y compris par les personnes qui utilisent un lecteur d'écran ou un zoom. C'est une exigence de l'élément E11, avec quatre règles minimum. Des titres hiérarchisés avec les styles de l'outil, pas du gras agrandi. Un contraste d'au moins quatre virgule cinq pour un, mesuré avec un outil que vous nommez. Un texte alternatif pour chaque image, qui dit ce qu'il faut retenir et pas seulement ce que c'est. Et un langage clair. Ajoutez une règle de bon sens : l'information ne passe jamais par la couleur seule. Votre section 5.4 contiendra un tableau de preuves pour chaque livrable, dont le gabarit est au chapitre 12."}], "words": 249}, {"n": 55, "title": "Animer un réseau, mesurer l'utilité réelle", "paras": [{"cue": "Carte « Animer le réseau de correspondants »", "text": "Un veilleur seul ne couvre pas tous les sujets. Les organisations qui font vivre leur veille s'appuient sur un réseau de correspondants. Chez Medisecure, ce réseau existe déjà : le RSSI suit les bulletins du CERT-FR, le DPO la doctrine de la CNIL, la directrice innovation les start-ups de l'e-santé. Il n'est simplement pas organisé. Animer ce réseau, c'est rendre la contribution facile, avec un lien et une phrase déposés dans un canal ; c'est la rendre visible, en citant le contributeur et en lui disant à quoi son signalement a servi ; et c'est le réunir régulièrement. Un réseau qui ne reçoit jamais de retour s'éteint en quelques mois."}, {"cue": "Carte « Les clients de la veille »", "text": "Le dossier demande un partage animé avec la DSI, les équipes et les clients de la veille. Ce sont les clients internes, DSI, directions métier, centres, mais aussi au moins un acteur externe, comme un partenaire."}, {"cue": "Tableau des indicateurs à droite", "text": "Enfin, il faut montrer que la veille sert. Le tableau propose cinq indicateurs : le taux de lecture, les décisions alimentées, qui est le plus exigeant et le plus convaincant, le délai d'alerte, particulièrement parlant en cybersécurité, les retours des destinataires et les contributions du réseau."}, {"cue": "Bandeau orange en bas à droite", "text": "Dans votre dossier, Medisecure étant fictive, vos livrables n'ont pas de vrais lecteurs. Proposez trois à cinq indicateurs avec leur mode de calcul, mesurez ceux que votre propre activité permet de chiffrer, comme le délai entre une publication et votre fiche, et déclarez explicitement « non mesuré » les autres. Un indicateur inventé fait perdre plus de crédit qu'un indicateur honnêtement absent."}], "words": 254}, {"n": 56, "title": "Une recommandation exploitable se décide", "paras": [{"cue": "Titre", "text": "Le chapitre 9 franchit la dernière marche : passer de « voici ce qui change » à « voici ce que nous devrions faire, pour quel coût, avec quel résultat ». C'est la partie la plus lourde du dossier : six éléments, de E14 à E19, soit six points sur vingt. Et c'est elle qui relie votre veille au schéma directeur demandé par le directeur général de Medisecure."}, {"cue": "Bandeau sombre du bas (définition)", "text": "Une recommandation exploitable est une proposition qu'un décideur peut accepter ou refuser en connaissance de cause. Elle répond à un problème identifié, propose une solution précise, en estime le coût et les effets, et dit comment on saura qu'elle a réussi."}, {"cue": "Tableau : colonne de gauche, puis colonne de droite", "text": "Le tableau donne quatre contre-exemples. « Il faut s'intéresser à l'IA » ne propose aucune action. « Attention à NIS2 » est une alerte, pas une action. « Mettre à jour les logiciels » a un périmètre flou. « Être plus écoresponsable » est une intention sans moyen ni mesure. À droite, leur version exploitable : une mesure, un périmètre, une durée, un coût, un problème visé."}, {"cue": "Bandeau sombre du bas", "text": "Et l'erreur classique, c'est de partir d'une technologie séduisante découverte en veille, puis de lui chercher un usage. Le correcteur vérifie l'inverse : chaque recommandation est reliée à un problème cité avec sa section du dossier Medisecure, et découle d'une information de veille identifiable dans votre grille."}], "words": 223}, {"n": 57, "title": "Treize rubriques pour qu'aucun élément ne manque", "paras": [{"cue": "Grille des treize rubriques", "text": "La fiche de recommandation est le gabarit qui garantit qu'aucun élément ne manque. Elle compte treize rubriques. Onze reprennent exactement ce que les consignes exigent de toute recommandation : l'intitulé, le problème visé, la solution, les sources de veille, les gains, les risques, le coût, le délai, la conformité réglementaire, l'impact environnemental et le caractère innovant. Deux servent au pilotage : l'indicateur de succès et la place dans la feuille de route."}, {"cue": "Phrase « Indicateur de succès » sous la grille ; rubrique 12 en orange", "text": "L'indicateur de succès est souvent oublié, alors que c'est lui qui rend la recommandation évaluable. « Améliorer la sécurité » n'est pas un indicateur. « Part des comptes protégés par authentification multifacteur : de dix à cent pour cent en trois mois », c'en est un : une valeur de départ, une cible, une échéance."}, {"cue": "Restez sur la grille", "text": "Pour le dossier : au moins cinq recommandations dans la vue d'ensemble, dont au moins trois innovantes, et trois fiches détaillées d'une page sur les trois recommandations innovantes les mieux placées."}, {"cue": "Encadré sombre « Recommandation innovante »", "text": "Qu'est-ce qu'une recommandation innovante au sens des consignes ? Une solution absente aujourd'hui du SI de Medisecure, dont la nouveauté et la maturité sont établies par votre veille, et réaliste dans les contraintes du cas. Une mesure de base n'est jamais innovante. L'authentification multifacteur, par exemple, peut figurer dans la vue d'ensemble si elle conditionne une recommandation innovante ; écrivez alors ce lien. Mais elle ne compte pas parmi les trois innovantes, et elle ne fait pas l'objet d'une fiche détaillée."}], "words": 239}, {"n": 58, "title": "Des ordres de grandeur, des hypothèses déclarées", "paras": [{"cue": "Titre", "text": "Un décideur ne demande pas un devis au centime. Il demande un ordre de grandeur crédible : cinq mille, cinquante mille ou cinq cent mille euros ? La directrice administrative et financière de Medisecure le dit dans le dossier : on lui demande d'arbitrer des projets sans aucun chiffrage. Un chiffrage même approximatif, s'il est honnête, change la discussion."}, {"cue": "Rappelez la section « Coûts de référence » du dossier Medisecure", "text": "La règle est de déclarer toutes ses hypothèses. Un chiffrage, ce sont des quantités multipliées par des coûts unitaires, et chacun doit être visible pour que le lecteur puisse le contester. Le dossier Medisecure fournit une section « Coûts de référence » : vos chiffrages doivent s'appuyer sur elle, et tout coût ajouté doit être sourcé ou posé comme hypothèse."}, {"cue": "Encadré sombre : 63 000 € ÷ 210 jours", "text": "Un piège fréquent : les coûts de personnel sont annuels, le travail se chiffre en jours. Chez Kestrel, un développeur coûte soixante-trois mille euros par an charges comprises ; avec une hypothèse de deux cent dix jours travaillés, cela fait environ trois cents euros par jour, et quinze jours représentent quatre mille cinq cents euros."}, {"cue": "Trois cartes à gauche, puis graphique R2 à droite", "text": "Un chiffrage complet distingue l'investissement, ponctuel, le fonctionnement, récurrent, et les gains. Le graphique montre la recommandation R2 de Kestrel, le pilote OR-Tools : environ vingt-cinq à trente mille euros pour le pilote, pour un gain estimé à vingt mille euros par an sur l'agence pilote, quatre-vingts mille si on généralise. Retour sur un an et demi environ."}, {"cue": "Phrase rouge en bas à droite", "text": "Deux mises en garde. La précision apparente trompe : arrondissez. Et un gain de temps n'est une économie que si le temps libéré est réellement employé autrement."}], "words": 259}, {"n": 59, "title": "Matrice valeur × effort, puis feuille de route", "paras": [{"cue": "Titre", "text": "Avec cinq recommandations ou plus, il faut un ordre. L'organisation ne peut pas tout faire en même temps : son budget, ses équipes et sa capacité d'absorption du changement sont limités."}, {"cue": "Matrice valeur × effort et ses bulles R1 à R5", "text": "L'outil le plus simple est la matrice valeur-effort. La valeur regroupe les gains, la réduction des risques et la contribution aux objectifs. L'effort regroupe le coût, la durée et la difficulté. Quatre zones : les gains rapides, à lancer en premier, parce qu'ils financent la confiance du décideur ; les projets structurants, à planifier avec un jalon intermédiaire ; les compléments ; et ce qu'il faut écarter. Chez Kestrel, la mise en conformité de la géolocalisation et l'authentification multifacteur sont des gains rapides, le pilote OR-Tools et le renouvellement des boîtiers sont des projets structurants, et la maintenance prédictive par IA est écartée. Pour la sécurité et la conformité, une variante croise le risque traité et le gain : une mesure qui réduit un risque grave reste prioritaire même si elle rapporte peu."}, {"cue": "Restez sur la matrice", "text": "Deux contraintes s'ajoutent : les échéances imposées, comme une fin de maintenance, et les dépendances entre recommandations."}, {"cue": "Chevrons court, moyen, long terme", "text": "La feuille de route ordonne ensuite les recommandations sur trois horizons : court terme, trois à six mois ; moyen terme, six à dix-huit mois ; long terme, au-delà. Chaque recommandation y figure avec sa date de début, sa durée, son responsable, son jalon de décision et son budget par année."}, {"cue": "Encadré sombre « Contraintes de Medisecure »", "text": "Pour Medisecure, l'encadré rappelle les contraintes que l'élément E19 vérifie : aucun budget de projet en 2026, une enveloppe de quatre virgule cinq millions sur 2027-2029, une hausse du fonctionnement plafonnée à dix pour cent par an, quatre postes supplémentaires au plus, et la fin de maintenance de MediDossier version 8."}], "words": 283}, {"n": 60, "title": "Le pitch de trois minutes, environ 400 mots", "paras": [{"cue": "Titre", "text": "Un directeur général accorde rarement plus de quelques minutes à un sujet en comité de direction. Trois minutes, c'est environ quatre cents mots à l'oral. Il faut donc choisir."}, {"cue": "Bandeau du temps : 0 à 30 s, puis les quatre séquences", "text": "La structure est simple. Les trente premières secondes posent le problème, avec un fait marquant tiré du cas. La minute suivante présente la solution et ce qui la rend crédible : la source de veille, un exemple de pair. Une minute présente le coût, les gains et les risques, en ordres de grandeur. Et les trente dernières secondes formulent la demande : ce que le décideur doit valider aujourd'hui."}, {"cue": "Cartes sous chaque séquence ; la demande en orange", "text": "Vous avez l'exemple Kestrel sur la diapositive, séquence par séquence. Remarquez qu'il se termine par une demande précise : valider le plan et désigner un pilote."}, {"cue": "Carte « Les deux questions à préparer »", "text": "Un pitch se répète à voix haute, chronomètre en main ; il ne se lit pas. Un seul visuel suffit souvent : la matrice ou la feuille de route. Et préparez les deux questions qu'un décideur pose presque toujours : « Que se passe-t-il si on ne fait rien ? » et « Pourquoi maintenant ? »."}, {"cue": "Carte « À ne pas confondre avec le pitch du Jour 5 »", "text": "Attention à ne pas confondre cet exercice avec le pitch de veille du Jour 5. Celui-là présente votre besoin, vos axes, vos sources clés, votre dispositif qui tourne et une première information repérée, pas une recommandation. Mais les règles de forme sont les mêmes : un fait d'entrée, un message par séquence, une conclusion claire, un temps tenu."}], "words": 239}, {"n": 61, "title": "Transformer un texte, oui ; dire le vrai, non", "paras": [{"cue": "Titre", "text": "Le chapitre 10 traite de l'IA générative, devenue un outil de travail ordinaire. Pour un veilleur, elle est précieuse sur les tâches de transformation de texte, et dangereuse dès qu'on lui demande de dire ce qui est vrai."}, {"cue": "Carte verte « Ce qu'une IA fait bien »", "text": "Ce qu'une IA fait bien, c'est travailler sur un texte que vous lui fournissez : reformuler un passage juridique pour une équipe d'accueil, résumer un rapport à condition de relire les points qui comptent, traduire une ligne directrice publiée en anglais, proposer des mots-clés pour une alerte, comparer deux versions d'un texte. Dans tous ces cas, l'information vient de vous, et vous pouvez contrôler le résultat."}, {"cue": "Carte rouge « Ce qu'une IA fait mal »", "text": "Ce qu'une IA fait mal, c'est produire l'information elle-même. Premier risque, l'invention : un modèle génère un texte plausible, pas un texte vrai. En 2023, un tribunal de New York a sanctionné des avocats qui avaient cité des décisions de justice inventées par ChatGPT. Deuxième risque, la fuite de données. Troisième, les biais : le modèle peut ignorer le droit français. Quatrième, l'obsolescence : interrogé sur l'AI Act, il peut répondre avec un calendrier dépassé."}, {"cue": "Bandeau sombre « Une IA n'est pas une source »", "text": "D'où la règle du cycle : une information produite par une IA n'est jamais une source. C'est une piste. Elle ne devient une information de veille que lorsque vous l'avez retrouvée dans un document d'origine, lu et cité. Dans votre dossier, la référence est toujours le texte officiel ou le rapport, jamais « selon ChatGPT »."}], "words": 235}, {"n": 62, "title": "La charte d'usage de l'IA, applicable à vos travaux", "paras": [{"cue": "Titre", "text": "Les consignes vous demandent d'utiliser l'IA dans le respect de la charte d'usage du cycle. La voici traduite en usages concrets. Si l'équipe pédagogique publie une version mise à jour sur Moodle, c'est elle qui fait foi."}, {"cue": "Colonne verte « Autorisé »", "text": "Est autorisé sans condition : reformuler, corriger ou traduire vos propres textes, et vous faire proposer des mots-clés, des requêtes ou un plan."}, {"cue": "Colonne orange « Autorisé sous conditions »", "text": "Est autorisé sous conditions : résumer ou traduire un document public, à condition de relire le document sur les points utilisés et de citer le document, pas l'IA ; rechercher des sources, à condition d'ouvrir et de lire chacune ; comparer des textes, à condition de les fournir vous-même ; obtenir un chiffre ou une date, seulement comme piste confirmée par la source primaire ; rédiger une partie d'analyse, avec un usage déclaré et une analyse que vous relisez et assumez."}, {"cue": "Colonne rouge « Interdit »", "text": "Est interdit : citer une IA comme source ; saisir des données réelles de patients, de salariés ou d'une entreprise dans un outil public ; saisir des informations techniques internes de votre entreprise d'alternance, comme une architecture, des versions ou des journaux, dans un outil public ; présenter un texte généré sans le déclarer."}, {"cue": "Les deux cartes du bas", "text": "Deux rappels. Anonymiser n'est pas retirer le nom : l'âge, la commune, la pathologie et la date suffisent souvent à réidentifier un patient. Dans le doute, ne saisissez rien. Et tenez pendant l'intersession un journal court de vos usages : date, outil, tâche, données fournies, vérification. Il deviendra votre annexe G. Attention : le correcteur ouvre au hasard deux sources et trois informations de votre dossier, et une information introuvable met à zéro chaque élément qui s'appuie dessus."}], "words": 273}];
+const $ = (id) => document.getElementById(id);
+const stage = $("script").parentElement, script = $("script");
+const store = { get(k, d) { try { const v = localStorage.getItem("prompteur." + k); return v === null ? d : JSON.parse(v); } catch { return d; } }, set(k, v) { try { localStorage.setItem("prompteur." + k, JSON.stringify(v)); } catch {} } };
+
+let wpm = store.get("wpm", 130), size = store.get("size", innerWidth < 640 ? 30 : 44);
+let playing = false, last = 0, carry = 0, wordsTotal = 0;
+const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+
+// Construction du texte
+const html = [];
+DATA.forEach((d) => {
+  wordsTotal += d.words;
+  html.push(`<section class="slide" id="d${d.n}" data-n="${d.n}"><div class="marker"><span class="clic">▶ Diapo ${d.n}</span><span class="t">${esc(d.title)}</span></div>${d.paras.map((p) => `<p><span class="cue">${esc(p.cue)}</span>${esc(p.text)}</p>`).join("")}</section>`);
+  const o = document.createElement("option"); o.value = d.n; o.textContent = `${d.n} · ${d.title}`; $("jump").append(o);
+});
+html.push(`<p class="end">Fin du script</p>`);
+script.innerHTML = html.join("");
+const slides = [...script.querySelectorAll(".slide")];
+
+function applySize() { document.documentElement.style.setProperty("--size", size + "px"); store.set("size", size); }
+function pxPerWord() { const h = slides.at(-1).offsetTop + slides.at(-1).offsetHeight - slides[0].offsetTop; return h / wordsTotal; }
+function showSpeed() { $("speed").textContent = wpm + " mots/min"; store.set("wpm", wpm); }
+function guideY() { return innerHeight * 0.34 + size * 0.7; }
+function current() { const y = stage.scrollTop + guideY(); let c = slides[0]; for (const s of slides) { if (s.offsetTop <= y) c = s; else break; } return c; }
+function fmt(min) { const m = Math.max(0, Math.round(min)); return m >= 60 ? `${Math.floor(m / 60)} h ${String(m % 60).padStart(2, "0")}` : `${m} min`; }
+
+function hud() {
+  const c = current(), i = slides.indexOf(c), d = DATA[i];
+  $("where").innerHTML = `<b>Diapo ${d.n}</b> (${i + 1}/${DATA.length}) <span class="t">· ${esc(d.title)}</span>`;
+  const max = stage.scrollHeight - stage.clientHeight;
+  const ratio = max > 0 ? stage.scrollTop / max : 0;
+  $("progress").style.width = (ratio * 100).toFixed(2) + "%";
+  const before = DATA.slice(0, i).reduce((a, x) => a + x.words, 0);
+  const inSlide = Math.min(1, Math.max(0, (stage.scrollTop + guideY() - c.offsetTop) / c.offsetHeight));
+  const remain = wordsTotal - before - inSlide * d.words;
+  $("left").textContent = `reste ${fmt(remain / wpm)}`;
+  if ($("jump").value != d.n) $("jump").value = d.n;
+}
+
+let wakeLock = null;
+async function lock(on) { try { if (on && "wakeLock" in navigator) wakeLock = await navigator.wakeLock.request("screen"); else if (!on && wakeLock) { await wakeLock.release(); wakeLock = null; } } catch {} }
+
+function setPlay(p) {
+  playing = p; document.body.classList.toggle("playing", p);
+  $("play").textContent = p ? "❚❚ Pause" : "▶ Lecture";
+  if (p) { last = performance.now(); carry = 0; requestAnimationFrame(tick); idleSoon(); } else document.body.classList.remove("idle");
+  lock(p);
+}
+function tick(t) {
+  if (!playing) return;
+  const dt = Math.min(0.1, (t - last) / 1000); last = t;
+  carry += (wpm / 60) * pxPerWord() * dt;
+  const step = Math.floor(carry); if (step) { stage.scrollTop += step; carry -= step; }
+  if (stage.scrollTop >= stage.scrollHeight - stage.clientHeight - 1) setPlay(false);
+  requestAnimationFrame(tick);
+}
+function goTo(n) { const s = $("d" + n); if (s) stage.scrollTop = s.offsetTop - innerHeight * 0.34 + size * 0.2; hud(); }
+function step(k) { const i = slides.indexOf(current()); const j = Math.min(slides.length - 1, Math.max(0, i + k)); goTo(DATA[j].n); }
+function speed(k) { wpm = Math.min(260, Math.max(60, wpm + k)); showSpeed(); hud(); }
+function resize(k) { const c = current(), off = stage.scrollTop - c.offsetTop; const r = off / c.offsetHeight; size = Math.min(96, Math.max(22, size + k)); applySize(); stage.scrollTop = c.offsetTop + r * c.offsetHeight; hud(); }
+function toggle(id, cls) { const b = $(id), on = b.getAttribute("aria-pressed") !== "true"; b.setAttribute("aria-pressed", on); script.classList.toggle(cls, on); store.set(cls, on); hud(); }
+async function full() { try { if (document.fullscreenElement) await document.exitFullscreen(); else await document.documentElement.requestFullscreen(); } catch {} }
+
+let idleT; function idleSoon() { document.body.classList.remove("idle"); clearTimeout(idleT); idleT = setTimeout(() => { if (playing) document.body.classList.add("idle"); }, 2500); }
+
+$("play").onclick = () => setPlay(!playing);
+stage.onclick = () => setPlay(!playing);
+$("slower").onclick = () => speed(-10); $("faster").onclick = () => speed(10);
+$("smaller").onclick = () => resize(-4); $("bigger").onclick = () => resize(4);
+$("prev").onclick = () => step(-1); $("next").onclick = () => step(1);
+$("jump").onchange = (e) => goTo(e.target.value);
+$("mirror").onclick = () => toggle("mirror", "mirror"); $("wide").onclick = () => toggle("wide", "wide");
+$("full").onclick = full;
+stage.addEventListener("scroll", hud, { passive: true });
+addEventListener("mousemove", idleSoon); addEventListener("touchstart", idleSoon, { passive: true });
+addEventListener("resize", hud);
+addEventListener("keydown", (e) => {
+  if (e.target.tagName === "SELECT" && !["Space", "KeyM", "KeyF"].includes(e.code)) return;
+  const map = { Space: () => setPlay(!playing), ArrowUp: () => speed(10), ArrowDown: () => speed(-10), ArrowRight: () => step(1), ArrowLeft: () => step(-1), PageDown: () => step(1), PageUp: () => step(-1), Home: () => goTo(1), KeyM: () => toggle("mirror", "mirror"), KeyF: full, Equal: () => resize(4), NumpadAdd: () => resize(4), Minus: () => resize(-4), NumpadSubtract: () => resize(-4) };
+  if (e.key === "+") { e.preventDefault(); return resize(4); }
+  const f = map[e.code]; if (f) { e.preventDefault(); f(); idleSoon(); }
+});
+
+if (store.get("mirror", false)) toggle("mirror", "mirror");
+if (store.get("wide", false)) toggle("wide", "wide");
+applySize(); showSpeed(); requestAnimationFrame(hud);
+</script>
+
+</body>
+</html>

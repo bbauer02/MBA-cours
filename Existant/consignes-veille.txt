@@ -1,0 +1,119 @@
+CONSIGNES POUR LE DOSSIER DE VEILLE TECHNOLOGIQUE
+Contexte du référentiel Expert en informatique et système d'information
+Conformément au référentiel Expert en informatique et système d'information (niveau 7), le candidat doit démontrer sa capacité à :
+
+Suivre et analyser les données issues de la veille technologique en validant leur fiabilité, les gains et les risques possibles
+En faire une restitution disponible et compréhensible à l'équipe
+Recommander des solutions en s'appuyant sur les résultats de la veille pour améliorer une pratique professionnelle et un environnement de développement défini
+IMPORTANT : Le dossier doit permettre d'évaluer votre capacité à mener une veille technologique structurée, méthodique et utile pour une organisation. Chaque étape de votre processus doit être expliquée et justifiée.
+
+1. Présentation du cas : MediSecure
+1.1 Informations sur la société (fictive)
+Nom : MediSecure
+Secteur d'activité : Santé / Solutions informatiques médicales
+Ancienneté : Fondée en 2010
+Taille : 150 employés
+Services : Logiciels de gestion médicale, dossiers patients électroniques, systèmes de rendez-vous en ligne, solutions de facturation médicale
+1.2 Infrastructure et architecture actuelles
+MediSecure dispose d'une architecture complexe comportant plusieurs couches :
+
+Frontend Applications
+Application Web (Angular 12 Legacy, Node.js 14.x) - Tests E2E manquants
+Application Mobile (React Native 0.63) - Version obsolète
+Application Desktop (Java Swing JDK 8) - Non maintenue depuis 2 ans
+API Gateway & Auth
+Kong Gateway (Ubuntu 20.04 LTS, Python FastAPI 0.68) - Rate limiting non configuré
+Keycloak 15.0 (CentOS 7) - Version avec vulnérabilités CVE
+Business Services
+Service Patient (Python 3.7/Django 2.2, Ubuntu 18.04) - Version Python obsolète
+Service RDV (Python 3.9/Flask 2.0, Debian 11) - À jour mais non optimisé
+Service Documents (.NET Core 3.1, Windows Server 2019) - Migration Python prévue
+Service Facturation (Python 3.8/FastAPI, Ubuntu 20.04) - Code non modulaire
+Message Brokers & Cache
+RabbitMQ 3.8 (Ubuntu 20.04) - Files non purgées
+Redis 6.0 (Debian 11) - Pas de failover
+Data Layer
+PostgreSQL 13 (Ubuntu 20.04) - Indexes non optimisés
+MongoDB 4.4 (Ubuntu 20.04) - Pas de sharding
+MinIO Object Storage (CentOS 8) - Backup incomplet
+MariaDB 10.5 (Debian 11) - Réplication cassée
+Infrastructure & Réseau
+HAProxy 2.4 (Debian 11) - Config SSL obsolète
+Backup Veeam (Windows Server 2019) - Rétention non conforme
+Prometheus/Grafana (Ubuntu 20.04) - Alerting incomplet
+1.3 Problématiques Python & Architecture
+L'entreprise fait face à plusieurs défis techniques :
+
+Dette Technique Python : Versions multiples (3.7-3.9), dépendances conflictuelles, requirements.txt non à jour
+Patterns Manquants : Pas de Factory Pattern, Singleton mal implémenté, absence de Strategy Pattern
+Qualité Code : Coverage < 40%, pas de typing, documentation Sphinx manquante
+Architecture : Couplage fort, pas de Domain-Driven Design (DDD), principes SOLID non respectés
+2. Objectifs du dossier de veille technologique
+Mener une veille technologique pertinente pour résoudre les problématiques de MediSecure
+Analyser rigoureusement les informations collectées et évaluer leur fiabilité
+Identifier les tendances et innovations technologiques applicables
+Formuler des recommandations concrètes et argumentées
+Proposer une méthodologie de veille technologique pérenne pour l'organisation
+3. Structure attendue du dossier
+Format du dossier :
+
+Minimum 15 pages, maximum 25 pages
+Police taille 11
+Inclure des schémas récapitulatifs, tableaux et captures d'écran
+Chaque élément doit être justifié - absence de justification = point non compté
+3.1 Introduction et contextualisation (2-3 pages)
+Présentation du contexte de MediSecure et de ses problématiques
+Définition claire de la veille technologique et de son importance pour l'entreprise
+Explication de l'approche méthodologique adoptée
+Formulation des objectifs précis de la veille technologique
+3.2 Définition des objectifs et périmètre de la veille (3-4 pages)
+Diagnostic de la situation actuelle : Identifier au moins 3 symptômes majeurs affectant l'organisation
+Analyse des besoins informationnels : Cartographier les besoins en information de l'entreprise
+Cadrage du périmètre : Utiliser la méthode QQOQCCP (Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi)
+Définition des axes de veille : Prioriser les thématiques à surveiller
+Planification : Définir les délais, fréquence et livrables de la veille
+Identification des parties prenantes : Déterminer qui produira et consommera l'information
+3.3 Méthodologie de veille et sélection des sources (3-4 pages)
+Présentation détaillée de la méthodologie : Expliquer clairement l'approche (pull, push ou hybride)
+Cartographie des sources : Dresser un inventaire structuré des sources d'information (tableau avec critères)
+Évaluation de la fiabilité des sources : Présenter les critères d'évaluation utilisés
+Outils de collecte : Détailler les outils utilisés (agrégateurs RSS, alertes, newsletters, etc.)
+Justification du choix des outils : Expliquer pourquoi ces outils sont adaptés aux besoins
+Tableau de bord de la veille : Présenter votre système de centralisation des informations
+Processus de collecte : Schématiser le workflow de collecte et traitement initial
+3.4 Techniques d'analyse et qualification des données (3-4 pages)
+Processus de filtrage : Expliciter comment vous discriminez l'information pertinente
+Évaluation de la fiabilité des données : Présenter votre méthode de fact-checking
+Catégorisation et indexation : Expliquer comment vous organisez l'information
+Analyse de tendance : Présenter vos méthodes d'analyse des signaux faibles et forts
+Outils d'analyse : Présenter les outils utilisés pour l'analyse des données
+Processus d'analyse : Décrire les étapes d'analyse depuis la donnée brute jusqu'à l'information exploitable
+Évaluation de l'impact potentiel : Expliquer comment vous mesurez l'importance d'une information
+3.5 Capitalisation et diffusion des connaissances (3-4 pages)
+Stratégie de capitalisation : Expliquer comment vous stockez et organisez les connaissances
+Base de connaissances : Présenter l'outil/système utilisé pour la gestion des connaissances
+Formats de diffusion : Détailler les différents formats selon les destinataires
+Canaux de diffusion : Justifier le choix des canaux de communication
+Processus de mise à jour : Expliciter comment vous maintenez la base de connaissances à jour
+Mesure de l'utilité : Présenter comment vous évaluez l'impact de la veille sur l'organisation
+Adaptation contextuelle : Montrer comment vous adaptez la veille à l'évolution de l'environnement
+3.6 Recommandations issues de la veille (4-5 pages)
+Synthèse des tendances identifiées : Présenter les principales tendances pertinentes
+Analyse d'opportunités : Évaluer les opportunités d'amélioration pour MediSecure
+Recommandations techniques : Formuler des recommandations précises pour chaque problématique
+Plan d'action : Proposer une feuille de route d'implémentation
+Analyse coûts/bénéfices : Évaluer l'investissement nécessaire vs les gains attendus
+Gestion des risques : Identifier les risques potentiels et proposer des mesures d'atténuation
+Exemples de formats adaptés : Présenter 3 formats de communication différents adaptés aux profils DSI, Tech Lead et Développeurs
+3.7 Conclusion et perspectives (1-2 pages)
+Synthèse du travail réalisé et des principaux enseignements
+Limites de l'approche et axes d'amélioration
+Perspectives d'évolution de la veille technologique pour l'entreprise
+4. Conseils pour réussir
+Structurez méthodiquement votre approche : Documentez chaque étape du processus
+Contextualisez votre veille : Adaptez votre approche aux spécificités de MediSecure
+Démontrez la valeur ajoutée : Montrez comment la veille répond concrètement aux problématiques identifiées
+Justifiez chaque choix : Expliquez pourquoi vous avez sélectionné telle source, tel outil, telle approche
+Soyez précis dans vos recommandations : Évitez les généralités, formulez des propositions concrètes
+Illustrez votre propos : Utilisez des schémas, tableaux et captures d'écran pertinents
+Pensez utilisateurs finaux : Adaptez votre communication selon les destinataires (DSI, Tech Lead, Développeurs)

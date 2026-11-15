@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name><text>F01-Q1 Selon Le Moigne, quel sous-système fixe les objectifs et con</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon Le Moigne, quel sous-système fixe les objectifs et contrôle les résultats ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le pilotage décide et contrôle ; l&#x27;opérant réalise ; le SI relie les deux.</p><p><em>À revoir : fiche 01, L&#x27;organisation vue comme un système (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le système opérant]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le système d&#x27;information]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le système de pilotage]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F01-Q2 Les 60 scanners de quai de Kestrel relèvent de quelle catégo</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Les 60 scanners de quai de Kestrel relèvent de quelle catégorie de ressources ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les équipements sont des ressources matérielles, même s&#x27;ils servent à collecter de l&#x27;information.</p><p><em>À revoir : fiche 01, L&#x27;organisation vue comme un système (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Matérielle]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Informationnelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Immatérielle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F01-Q3 Une organisation découpée par région, chaque région ayant se</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une organisation découpée par région, chaque région ayant ses propres fonctions, a une structure…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La structure divisionnelle découpe par produit, marché ou région, avec des fonctions propres à chaque division ; la matricielle croise métier et projet.</p><p><em>À revoir : fiche 01, L&#x27;organisation vue comme un système (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[fonctionnelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[divisionnelle]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[matricielle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q1 Dans la chaîne de valeur de Porter, la gestion des ressource</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans la chaîne de valeur de Porter, la gestion des ressources humaines est…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les activités de soutien sont l&#x27;infrastructure, les ressources humaines, le développement technologique et les approvisionnements.</p><p><em>À revoir : fiche 02, Chaîne de valeur, processus et parties prenantes (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[une activité de soutien]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[une activité principale]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[une partie prenante interne]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q2 Dans le tableau des processus de Kestrel du chapitre 1, « Fa</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans le tableau des processus de Kestrel du chapitre 1, « Facturer le client » est rangé parmi les processus…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le cours range la facturation du client parmi les processus de réalisation de Kestrel, car elle clôt la prestation rendue au client.</p><p><em>À revoir : fiche 02, Chaîne de valeur, processus et parties prenantes (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[de support, car il relève de la comptabilité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[de pilotage, car il fixe le chiffre d&#x27;affaires]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[de réalisation, car il clôt la prestation au client]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F02-Q3 Qui a popularisé la notion de partie prenante, en 1984 ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Qui a popularisé la notion de partie prenante, en 1984 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>R. Edward Freeman a popularisé la notion en 1984 ; « Competitive Advantage » de Porter date de 1985.</p><p><em>À revoir : fiche 02, Chaîne de valeur, processus et parties prenantes (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Michael Porter]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[R. Edward Freeman]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Henry Mintzberg]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q1 Lequel de ces éléments fait partie du SI mais pas du système</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel de ces éléments fait partie du SI mais pas du système informatique ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le système informatique se limite aux moyens techniques ; les procédures, même manuelles, font partie du SI.</p><p><em>À revoir : fiche 03, Le système d&#x27;information et ses applications (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le serveur de virtualisation du siège]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La procédure de ressaisie des temps de conduite]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La base PostgreSQL qui stocke les données de Kestrel Track]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q2 « Le camion 17 était à Vénissieux à 6 h 42, avec 40 minutes </text></name>
+    <questiontext format="html"><text><![CDATA[<p>« Le camion 17 était à Vénissieux à 6 h 42, avec 40 minutes de retard » est…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est une donnée mise en contexte, qui a un sens pour quelqu&#x27;un ; elle ne dit pas encore pourquoi le retard se répète.</p><p><em>À revoir : fiche 03, Le système d&#x27;information et ses applications (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[une donnée, car c&#x27;est un fait enregistré]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[une connaissance, car elle explique le retard]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[une information, car le fait est mis en contexte]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F03-Q3 Le portail EDI qui relie Kestrel à la grande distribution il</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le portail EDI qui relie Kestrel à la grande distribution illustre surtout quel rôle du SI ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Relier l&#x27;organisation à ses partenaires est le rôle de coordination ; la mémorisation est une fonction, pas un rôle.</p><p><em>À revoir : fiche 03, Le système d&#x27;information et ses applications (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La coordination]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;aide à la décision]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La mémorisation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q1 Selon Chandler, la stratégie réunit trois éléments. Lesquels</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon Chandler, la stratégie réunit trois éléments. Lesquels ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Destination (objectifs), chemin (actions) et moyens (ressources) ; le diagnostic et le choix sont des étapes de la démarche.</p><p><em>À revoir : fiche 04, La stratégie : niveaux, objectifs, avantage concurrentiel (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une vision, une mission et des valeurs partagées]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un diagnostic, un choix et un contrôle des résultats]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Des objectifs, des actions et des ressources]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q2 « Porter la part e-commerce à 40 % du chiffre d&#x27;affaires d&#x27;i</text></name>
+    <questiontext format="html"><text><![CDATA[<p>« Porter la part e-commerce à 40 % du chiffre d&#x27;affaires d&#x27;ici 2029 » : selon le cours, que reste-t-il à démontrer pour cet objectif de Kestrel ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Il est chiffré, part d&#x27;une valeur connue (30 %) et porte une échéance ; aucun plan commercial chiffré ne montre encore qu&#x27;il est atteignable.</p><p><em>À revoir : fiche 04, La stratégie : niveaux, objectifs, avantage concurrentiel (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sa mesure, faute de valeur de départ connue]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Son caractère atteignable, faute de plan]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sa pertinence, faute de lien avec Cap 2029]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F04-Q3 Kestrel vise une région avec une promesse de service (J+1, s</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Kestrel vise une région avec une promesse de service (J+1, suivi). Quelle stratégie générique ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une cible restreinte (une région) et une offre distinctive caractérisent la focalisation par la différenciation ; la marge faible oblige seulement à surveiller les coûts.</p><p><em>À revoir : fiche 04, La stratégie : niveaux, objectifs, avantage concurrentiel (cours, chapitre 1).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Focalisation par la différenciation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Différenciation sur tout le marché]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Domination par les coûts, vu sa marge de 3,1 %]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q1 Une application peu utilisée aujourd&#x27;hui mais qui portera un</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une application peu utilisée aujourd&#x27;hui mais qui portera un objectif majeur du plan stratégique se place en…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Impact actuel faible et impact futur fort : c&#x27;est la case « avenir », où l&#x27;enjeu est d&#x27;investir.</p><p><em>À revoir : fiche 05, Stratégie SI, grille de McFarlan et alignement (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[avenir, car son impact actuel est faible]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[stratégique, car l&#x27;objectif est majeur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[production, car il faudra la fiabiliser]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q2 Quelle erreur faut-il éviter pour une application en positio</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle erreur faut-il éviter pour une application en position « production » ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une application de production bloque l&#x27;activité si elle s&#x27;arrête ; fiabilité, continuité et mode dégradé sont justement ses priorités.</p><p><em>À revoir : fiche 05, Stratégie SI, grille de McFarlan et alignement (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Privilégier d&#x27;abord sa fiabilité et sa continuité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La juger peu importante parce que peu innovante]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Lui prévoir un mode dégradé en cas d&#x27;arrêt]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F05-Q3 Dans le modèle de Henderson et Venkatraman, l&#x27;intégration fo</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans le modèle de Henderson et Venkatraman, l&#x27;intégration fonctionnelle relie…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La cohérence stratégique relie l&#x27;externe et l&#x27;interne ; l&#x27;intégration fonctionnelle relie le monde des métiers et celui des technologies.</p><p><em>À revoir : fiche 05, Stratégie SI, grille de McFarlan et alignement (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[le choix externe et l&#x27;organisation interne]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[la stratégie d&#x27;entreprise et son budget SI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[le monde des métiers et celui des technologies]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q1 Selon ISO/IEC 38500, quel cycle décrit l&#x27;action des organes </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon ISO/IEC 38500, quel cycle décrit l&#x27;action des organes de direction sur le SI ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Évaluer, diriger, surveiller est le cycle de gouvernance ; planifier, construire, exploiter relève du management.</p><p><em>À revoir : fiche 06, La gouvernance du SI (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Planifier, construire, exploiter, surveiller]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Évaluer, diriger, surveiller]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Identifier, analyser, traiter les risques]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q2 Quel fait renseigne le mieux sur la gouvernance du SI d&#x27;une </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel fait renseigne le mieux sur la gouvernance du SI d&#x27;une organisation ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La gouvernance se lit dans les décisions : qui arbitre, sur quels critères, avec quel suivi.</p><p><em>À revoir : fiche 06, La gouvernance du SI (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Les projets sont arbitrés au cas par cas, sans critères]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La DSI compte dix personnes réparties en trois équipes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le parc applicatif comprend douze applications]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F06-Q3 Quel référentiel porte d&#x27;abord sur la gestion des services i</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel référentiel porte d&#x27;abord sur la gestion des services informatiques (incidents, changements) ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>ITIL porte d&#x27;abord sur la gestion des services informatiques ; COBIT couvre la gouvernance et le management du SI, dont les services ; ISO/IEC 38500 ne porte que sur la gouvernance.</p><p><em>À revoir : fiche 06, La gouvernance du SI (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[COBIT 2019]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ISO/IEC 38500]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ITIL 4]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q1 Dans un plan d&#x27;urbanisation, comment nomme-t-on un bloc fonc</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans un plan d&#x27;urbanisation, comment nomme-t-on un bloc fonctionnel ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le niveau fonctionnel dit ce que le SI doit faire, sans dire avec quel logiciel ni quel service.</p><p><em>À revoir : fiche 07, Urbanisation et schéma directeur (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par le nom de l&#x27;application qui le sert]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par le nom du service qui l&#x27;utilise le plus]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Par un verbe et un objet, sans nom de logiciel]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q2 Sur quelle durée porte en général un schéma directeur ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Sur quelle durée porte en général un schéma directeur ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est un plan pluriannuel, en général sur trois à cinq ans, révisé au moins une fois par an.</p><p><em>À revoir : fiche 07, Urbanisation et schéma directeur (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Trois à cinq ans, révisé chaque année]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un an, calé sur le budget annuel]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dix ans au moins, comme un plan d&#x27;urbanisme]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F07-Q3 Chez un e-commerçant, l&#x27;adresse d&#x27;un client est saisie sépar</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Chez un e-commerçant, l&#x27;adresse d&#x27;un client est saisie séparément dans l&#x27;outil de vente, à l&#x27;entrepôt et au service client, sans source désignée. Quelle règle d&#x27;urbanisme est enfreinte ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une donnée de référence n&#x27;est créée et modifiée qu&#x27;à un seul endroit, puis diffusée aux autres blocs.</p><p><em>À revoir : fiche 07, Urbanisation et schéma directeur (cours, chapitre 2).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le passage des échanges par une zone d&#x27;échange]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La donnée de référence créée à un seul endroit]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le propriétaire métier unique de chaque bloc]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q1 Selon le guide de l&#x27;ANSSI, une cartographie doit permettre…</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon le guide de l&#x27;ANSSI, une cartographie doit permettre…</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Inventaire et vues sont indissociables ; la cible relève du schéma directeur.</p><p><em>À revoir : fiche 08, Pourquoi et comment cartographier : la démarche de l&#x27;ANSSI (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[d&#x27;inventorier le SI et de le présenter en vues]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[de dessiner un schéma unique et complet de tout le SI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[de choisir l&#x27;architecture cible du SI et ses projets]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q2 À quelle étape du guide fixe-t-on les objets, les attributs,</text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quelle étape du guide fixe-t-on les objets, les attributs, la légende et la nomenclature ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;étape 2 définit le modèle, en parallèle de la collecte de l&#x27;existant.</p><p><em>À revoir : fiche 08, Pourquoi et comment cartographier : la démarche de l&#x27;ANSSI (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Étape 1]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Étape 4]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Étape 2]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F08-Q3 Selon le guide de l&#x27;ANSSI, la démarche de cartographie est i</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon le guide de l&#x27;ANSSI, la démarche de cartographie est incrémentale. Qu&#x27;est-ce que cela signifie ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Incrémentale : on ajoute des vues au fil du temps ; itérative : on affine celles déjà construites (chapitre 3).</p><p><em>À revoir : fiche 08, Pourquoi et comment cartographier : la démarche de l&#x27;ANSSI (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On décrit tout le SI d&#x27;emblée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[On ajoute des vues au fil du temps]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[On refait toute la cartographie chaque année]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q1 Quelle vue du D2 n&#x27;existe pas dans le guide de l&#x27;ANSSI ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle vue du D2 n&#x27;existe pas dans le guide de l&#x27;ANSSI ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La vue fonctionnelle vient de l&#x27;urbanisation ; le guide passe directement des processus aux applications.</p><p><em>À revoir : fiche 09, Les vues, les niveaux et les objets pivots (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La vue de l&#x27;administration]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La vue fonctionnelle]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La vue métier]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q2 À quel niveau de maturité la cartographie représente-t-elle </text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quel niveau de maturité la cartographie représente-t-elle toutes les vues, orientée sur la sécurité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le niveau 2 couvre toutes les vues ; c&#x27;est le minimum exigé pour les systèmes d&#x27;information d&#x27;importance vitale.</p><p><em>À revoir : fiche 09, Les vues, les niveaux et les objets pivots (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Niveau 2]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Niveau 1]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Niveau 3]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F09-Q3 Quel objet pivot permet de répondre à la question « quelles </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel objet pivot permet de répondre à la question « quelles applications tournent sur ce serveur ? » ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le serveur logique, décrit dans la vue des infrastructures logiques, porte l&#x27;attribut « applications liées ».</p><p><em>À revoir : fiche 09, Les vues, les niveaux et les objets pivots (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le processus métier]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;entité de l&#x27;écosystème]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le serveur logique]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q1 Pourquoi préférer une liste fermée de valeurs pour un attrib</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi préférer une liste fermée de valeurs pour un attribut ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Des valeurs fixées à l&#x27;avance se comparent et se comptent ; le texte libre ne se compare pas.</p><p><em>À revoir : fiche 10, Le modèle de cartographie et les notations (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Elle prend moins de place dans le tableur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le guide de l&#x27;ANSSI interdit le texte libre]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Les valeurs deviennent comparables entre objets]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q2 Dans ArchiMate 3.2, quelles sont les trois couches centrales</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans ArchiMate 3.2, quelles sont les trois couches centrales ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Métier, application et technologie ; ArchiMate 4 (avril 2026) parle de domaines plutôt que de couches.</p><p><em>À revoir : fiche 10, Le modèle de cartographie et les notations (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Écosystème, applications, infrastructures]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Métier, application, technologie]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Stratégie, motivation, implémentation]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F10-Q3 Selon le cours, quelles mentions chaque vue de la cartograph</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon le cours, quelles mentions chaque vue de la cartographie doit-elle porter ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La date et la version rappellent qu&#x27;une vue est un extrait à un instant donné ; la légende le rend lisible.</p><p><em>À revoir : fiche 10, Le modèle de cartographie et les notations (cours, chapitre 3).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un titre, une date, une version, une légende]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le nom de l&#x27;outil utilisé et celui de l&#x27;auteur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le niveau de maturité visé et la granularité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q1 Quand faut-il envoyer le compte rendu d&#x27;un entretien de cart</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quand faut-il envoyer le compte rendu d&#x27;un entretien de cartographie ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un compte rendu court, envoyé vite et validé, transforme une conversation en source citable.</p><p><em>À revoir : fiche 11, Collecter et conduire les entretiens (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Dans les 48 heures, pour validation par l&#x27;interlocuteur]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À la fin de l&#x27;étude, en même temps que les autres sources]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Après la cartographie, pour faire valider les vues dessinées]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q2 Un scan réseau trouve un serveur que personne n&#x27;a cité en en</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un scan réseau trouve un serveur que personne n&#x27;a cité en entretien. Que montre ce cas ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un outil de collecte voit l&#x27;état technique exact, qu&#x27;un entretien peut ignorer ; c&#x27;est le principe du recoupement.</p><p><em>À revoir : fiche 11, Collecter et conduire les entretiens (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Que les entretiens deviennent inutiles]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Que le scan est forcément erroné]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Que les sources de nature différente se complètent]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F11-Q3 Pourquoi une CMDB bien tenue ne suffit-elle pas à faire une </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi une CMDB bien tenue ne suffit-elle pas à faire une cartographie ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La CMDB décrit les éléments de configuration et leurs relations techniques, pas le métier ni les contournements.</p><p><em>À revoir : fiche 11, Collecter et conduire les entretiens (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Elle ne recense jamais les serveurs ni leurs relations techniques]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Elle ignore en général les processus métier et les flux manuels]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le guide de l&#x27;ANSSI la déconseille comme source d&#x27;inventaire]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q1 Dans la matrice des flux, quel champ distingue une ressaisie</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans la matrice des flux, quel champ distingue une ressaisie au clavier d&#x27;un échange par interface ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le mode distingue automatique et manuel ; la fréquence donne le rythme de l&#x27;échange et la protection du canal sa sécurité.</p><p><em>À revoir : fiche 12, Inventaires, matrice des flux et matrice processus × applications (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La fréquence]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La protection du canal]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le mode de l&#x27;échange]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q2 Que signale une application rattachée à aucun processus dans</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que signale une application rattachée à aucun processus dans la matrice processus × applications ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La matrice vérifie que rien n&#x27;est oublié ; l&#x27;anomalie se vérifie avant de conclure.</p><p><em>À revoir : fiche 12, Inventaires, matrice des flux et matrice processus × applications (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Qu&#x27;elle est orpheline ou qu&#x27;un processus manque]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Qu&#x27;il faut la retirer de l&#x27;inventaire pour l&#x27;alléger]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Qu&#x27;elle est hors support, faute d&#x27;utilisateurs connus]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F12-Q3 Dans la matrice des flux, que faut-il écrire quand la protec</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans la matrice des flux, que faut-il écrire quand la protection d&#x27;un canal n&#x27;apparaît dans aucune source ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est une réponse honnête et utile à l&#x27;analyse de risques ; une valeur posée sans source devient une hypothèse numérotée.</p><p><em>À revoir : fiche 12, Inventaires, matrice des flux et matrice processus × applications (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[« Chiffré », valeur par défaut des échanges récents]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[« Non documentée », ce qui est déjà un constat]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rien : la case reste vide jusqu&#x27;à l&#x27;entretien]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q1 Lequel de ces éléments est un point unique de défaillance hu</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel de ces éléments est un point unique de défaillance humain ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une personne qui détient seule une compétence ou un accès est un point unique de défaillance.</p><p><em>À revoir : fiche 13, Points uniques de défaillance, zones de confiance, outils et maintien à jour (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un administrateur parmi trois qui connaissent le réseau]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le seul agent qui connaît la configuration du réseau]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un prestataire qui détient un contrat de maintenance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q2 Un prestataire accède en VPN permanent aux serveurs internes</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un prestataire accède en VPN permanent aux serveurs internes. Sur la vue de l&#x27;administration, c&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le passage de la zone des prestataires au réseau interne est un franchissement, donc un chemin d&#x27;attaque possible.</p><p><em>À revoir : fiche 13, Points uniques de défaillance, zones de confiance, outils et maintien à jour (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une redondance fonctionnelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un flux manuel entre le prestataire et la DSI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un franchissement entre deux zones de confiance]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F13-Q3 Où le guide de l&#x27;ANSSI recommande-t-il de ne pas stocker la </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Où le guide de l&#x27;ANSSI recommande-t-il de ne pas stocker la cartographie ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un intrus y trouverait toute l&#x27;architecture, et elle serait inaccessible en cas de coupure.</p><p><em>À revoir : fiche 13, Points uniques de défaillance, zones de confiance, outils et maintien à jour (cours, chapitre 4).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sur le système d&#x27;information qu&#x27;elle représente]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sur un support chiffré, conservé hors du siège]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dans une armoire fermée, en version papier datée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q1 Une commande EDI est modifiée en transit et envoie des palet</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une commande EDI est modifiée en transit et envoie des palettes à la mauvaise adresse. Quel critère est atteint ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;information n&#x27;est plus exacte : elle a été modifiée de façon illégitime.</p><p><em>À revoir : fiche 14, Les critères de sécurité DICT (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La confidentialité, car elle a circulé]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La disponibilité, car les palettes arrivent en retard]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;intégrité, car la commande a été altérée]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q2 Comment s&#x27;exprime habituellement le besoin de disponibilité </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Comment s&#x27;exprime habituellement le besoin de disponibilité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La disponibilité se mesure en temps : ce sont la DMIA et la PDMA du chapitre 8.</p><p><em>À revoir : fiche 14, Les critères de sécurité DICT (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En durée d&#x27;arrêt tolérée et de perte de données]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En nombre de personnes autorisées à accéder à l&#x27;application]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En niveau de chiffrement exigé sur les données]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F14-Q3 D&#x27;où viennent les trois premiers critères du sigle DICT ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>D&#x27;où viennent les trois premiers critères du sigle DICT ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La traçabilité est un ajout courant des méthodes françaises.</p><p><em>À revoir : fiche 14, Les critères de sécurité DICT (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Du RGPD, article 32]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[De la norme ISO/IEC 27000]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Du guide d&#x27;hygiène de l&#x27;ANSSI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q1 Un serveur unique, sans redondance, héberge une application </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un serveur unique, sans redondance, héberge une application critique. C&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>C&#x27;est une faiblesse qu&#x27;une menace, comme une panne, peut exploiter.</p><p><em>À revoir : fiche 15, Menace, vulnérabilité, impact, risque et options de traitement (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une vulnérabilité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une menace]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un impact]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q2 Que transfère une assurance cyber ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que transfère une assurance cyber ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle ne transfère jamais l&#x27;arrêt des opérations ni l&#x27;atteinte à l&#x27;image.</p><p><em>À revoir : fiche 15, Menace, vulnérabilité, impact, risque et options de traitement (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La totalité du risque]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une partie de l&#x27;impact financier]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;arrêt de l&#x27;activité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F15-Q3 Qui doit accepter un risque résiduel ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Qui doit accepter un risque résiduel ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;acceptation est une décision écrite et motivée, prise par un responsable qui en a l&#x27;autorité selon le seuil fixé par la direction ; le plus souvent, c&#x27;est la direction.</p><p><em>À revoir : fiche 15, Menace, vulnérabilité, impact, risque et options de traitement (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Celui qui a proposé la mesure, quel que soit le niveau du risque]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Personne : un risque résiduel est négligeable par définition]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un responsable qui en a l&#x27;autorité selon le seuil fixé]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q1 Combien de mesures de sécurité compte l&#x27;annexe A d&#x27;ISO/IEC 2</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de mesures de sécurité compte l&#x27;annexe A d&#x27;ISO/IEC 27001:2022 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>ISO/IEC 27002:2022 les détaille en quatre thèmes : organisationnelles, liées aux personnes, physiques et technologiques.</p><p><em>À revoir : fiche 16, Les normes ISO 27001, 27002, 27005 et le socle de sécurité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[42]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[114]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[93]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q2 Dans ISO/IEC 27005:2022, l&#x27;appréciation du risque regroupe :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans ISO/IEC 27005:2022, l&#x27;appréciation du risque regroupe :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le contexte la précède, le traitement et l&#x27;acceptation la suivent ; communication et surveillance accompagnent tout le processus.</p><p><em>À revoir : fiche 16, Les normes ISO 27001, 27002, 27005 et le socle de sécurité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;identification, l&#x27;analyse et l&#x27;évaluation]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le contexte et le traitement]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La communication et la surveillance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F16-Q3 Comment qualifier un écart au socle pour qu&#x27;il soit recevabl</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Comment qualifier un écart au socle pour qu&#x27;il soit recevable ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un écart sans fait n&#x27;est qu&#x27;une opinion.</p><p><em>À revoir : fiche 16, Les normes ISO 27001, 27002, 27005 et le socle de sécurité (cours, chapitre 5).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par l&#x27;avis motivé de l&#x27;auditeur qui a mené les entretiens]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Par l&#x27;exigence, un constat sourcé et un état d&#x27;application]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par une note de 1 à 10 attribuée à chaque référentiel]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q1 Laquelle de ces formulations est un événement redouté receva</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Laquelle de ces formulations est un événement redouté recevable ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un événement redouté décrit la conséquence pour le métier, ni l&#x27;attaquant ni le moyen.</p><p><em>À revoir : fiche 17, Les principes d&#x27;EBIOS Risk Manager et l&#x27;atelier 1 (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Piratage du serveur de paie]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Les salaires ne peuvent pas être versés à la date prévue]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rançongiciel sur l&#x27;ERP, qui chiffre les données comptables]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q2 Que vérifie l&#x27;approche par conformité d&#x27;EBIOS Risk Manager ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que vérifie l&#x27;approche par conformité d&#x27;EBIOS Risk Manager ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle traite les risques courants par l&#x27;application des règles ; les scénarios traitent ensuite les attaquants plus ciblés.</p><p><em>À revoir : fiche 17, Les principes d&#x27;EBIOS Risk Manager et l&#x27;atelier 1 (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le socle de sécurité et ses écarts]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Les scénarios opérationnels des attaquants]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Les couples de sources de risque]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F17-Q3 Quelle est la version en vigueur du guide EBIOS Risk Manager</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle est la version en vigueur du guide EBIOS Risk Manager à la date du cours ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;ANSSI l&#x27;a annoncée en mars 2024 ; aucune source officielle ne confirme une « version 2 ».</p><p><em>À revoir : fiche 17, Les principes d&#x27;EBIOS Risk Manager et l&#x27;atelier 1 (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La version 2010]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La version 2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La version 1.5]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q1 Pourquoi EBIOS Risk Manager raisonne-t-il sur des couples SR</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi EBIOS Risk Manager raisonne-t-il sur des couples SR/OV ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un groupe criminel peut vouloir chiffrer le SI ou voler des données : ce sont deux couples distincts.</p><p><em>À revoir : fiche 18, L&#x27;atelier 2 : sources de risque et objectifs visés (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce qu&#x27;il faut compter les attaquants un à un]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce que le couple donne la vraisemblance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Parce qu&#x27;une même source vise plusieurs objectifs]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q2 Quels sont les trois critères d&#x27;évaluation d&#x27;un couple propo</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quels sont les trois critères d&#x27;évaluation d&#x27;un couple proposés par le guide ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les critères de dépendance et de pénétration servent à l&#x27;atelier 3.</p><p><em>À revoir : fiche 18, L&#x27;atelier 2 : sources de risque et objectifs visés (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dépendance, pénétration, maturité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Motivation, ressources, activité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Gravité, vraisemblance, impact]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F18-Q3 Que faire d&#x27;un couple jugé peu pertinent ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Que faire d&#x27;un couple jugé peu pertinent ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Écrire le motif d&#x27;exclusion montre que la question a été posée.</p><p><em>À revoir : fiche 18, L&#x27;atelier 2 : sources de risque et objectifs visés (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;écarter en écrivant pourquoi]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le supprimer du dossier sans laisser de trace]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le retenir quand même, par prudence]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q1 Quels critères augmentent le niveau de menace d&#x27;une partie p</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quels critères augmentent le niveau de menace d&#x27;une partie prenante ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ce sont les critères d&#x27;exposition ; la maturité et la confiance, critères de fiabilité, l&#x27;atténuent.</p><p><em>À revoir : fiche 19, L&#x27;atelier 3 : parties prenantes et scénarios stratégiques (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La dépendance et la pénétration]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La maturité et la confiance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La gravité et la vraisemblance du scénario]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q2 Quelle gravité porte un scénario stratégique ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle gravité porte un scénario stratégique ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La gravité vient de l&#x27;atelier 1 et reste attachée à l&#x27;événement redouté.</p><p><em>À revoir : fiche 19, L&#x27;atelier 3 : parties prenantes et scénarios stratégiques (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La moyenne des gravités des événements redoutés visés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Celle de l&#x27;événement redouté le plus grave]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une gravité nouvelle, fixée à l&#x27;atelier 3]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F19-Q3 Une partie prenante obtient (4 × 3) / (2 × 2) = 3. Avec les </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une partie prenante obtient (4 × 3) / (2 × 2) = 3. Avec les seuils de Kestrel, où la place-t-on ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Chez Kestrel, la zone de danger commence au-dessus de 3 ; 3 reste en zone de contrôle.</p><p><em>À revoir : fiche 19, L&#x27;atelier 3 : parties prenantes et scénarios stratégiques (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En zone de danger]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En zone de veille]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En zone de contrôle]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q1 Déjà connecté au réseau du siège, l&#x27;attaquant obtient un com</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Déjà connecté au réseau du siège, l&#x27;attaquant obtient un compte d&#x27;administration et s&#x27;en sert pour localiser le serveur de sauvegarde. Dans quelle phase se range cette action ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Trouver, c&#x27;est se déplacer dans le réseau et obtenir des droits élevés pour localiser les biens supports utiles ; le premier accès, lui, relève de « rentrer ».</p><p><em>À revoir : fiche 20, L&#x27;atelier 4 : scénarios opérationnels et vraisemblance (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Rentrer]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Trouver]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Exploiter]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q2 Deux étapes mènent à l&#x27;étape C, avec des indices cumulés de </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Deux étapes mènent à l&#x27;étape C, avec des indices cumulés de 2 et 4. L&#x27;action C vaut 3. Quel est l&#x27;indice cumulé de C ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>On prend le meilleur chemin (4), puis le minimum avec l&#x27;action (3).</p><p><em>À revoir : fiche 20, L&#x27;atelier 4 : scénarios opérationnels et vraisemblance (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F20-Q3 Quelle méthode de cotation cote directement le scénario, san</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle méthode de cotation cote directement le scénario, sans détailler chaque action ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;expresse cote le scénario à partir de la source et des vulnérabilités ; la standard cote chaque action.</p><p><em>À revoir : fiche 20, L&#x27;atelier 4 : scénarios opérationnels et vraisemblance (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La méthode expresse]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La méthode standard]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La méthode avancée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q1 Un plan de reprise testé et un poste de travail de secours p</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un plan de reprise testé et un poste de travail de secours prêt à l&#x27;emploi sont des mesures :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elles limitent les conséquences et permettent de reprendre l&#x27;activité ; la protection, elle, empêche ou complique l&#x27;attaque.</p><p><em>À revoir : fiche 21, L&#x27;atelier 5 : traitement du risque, mesures et risques résiduels (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[De protection, car elles évitent l&#x27;arrêt]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[De défense, car elles détectent l&#x27;attaque]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[De résilience, car elles limitent l&#x27;impact]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q2 Comment obtient-on le niveau d&#x27;un risque initial à l&#x27;atelier</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Comment obtient-on le niveau d&#x27;un risque initial à l&#x27;atelier 5 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La gravité vient du scénario stratégique, la vraisemblance du scénario opérationnel ; la matrice est fixée avant l&#x27;analyse.</p><p><em>À revoir : fiche 21, L&#x27;atelier 5 : traitement du risque, mesures et risques résiduels (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par la moyenne des cotes de toutes les parties prenantes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En croisant sur la matrice gravité et vraisemblance]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Par le nombre de mesures du socle qui manquent]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F21-Q3 Quelle mention est indispensable dans une acceptation explic</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle mention est indispensable dans une acceptation explicite de risque ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Sans motif ni responsable identifié, le risque est ignoré, pas accepté.</p><p><em>À revoir : fiche 21, L&#x27;atelier 5 : traitement du risque, mesures et risques résiduels (cours, chapitre 6).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le motif et l&#x27;instance qui accepte]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le coût des mesures qui n&#x27;ont pas été retenues]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le nom de l&#x27;attaquant le plus probable]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q1 Pourquoi la veille sur les vulnérabilités publiées ne suffit</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Pourquoi la veille sur les vulnérabilités publiées ne suffit-elle pas pour repérer les faiblesses d&#x27;une infrastructure de données ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Ce sont surtout des faiblesses de conception, de configuration ou d&#x27;organisation : une base partagée sous un seul compte ou un export jamais supprimé ne figure dans aucun avis.</p><p><em>À revoir : fiche 22, Les vulnérabilités des infrastructures de données (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Parce que ces faiblesses n&#x27;ont souvent aucun numéro CVE]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce que le CERT-FR ne publie aucun avis sur les bases de données]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Parce que les scores CVSS des bases de données sont faibles]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q2 Où un export CSV envoyé chaque semaine par courriel doit-il </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Où un export CSV envoyé chaque semaine par courriel doit-il apparaître ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un flux manuel figure dans la matrice des flux avec sa protection, même si celle-ci est « aucune ».</p><p><em>À revoir : fiche 22, Les vulnérabilités des infrastructures de données (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Dans la vue des infrastructures physiques]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Nulle part, puisqu&#x27;il ne s&#x27;agit pas d&#x27;une application]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Dans la matrice des flux, comme flux manuel avec sa protection]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F22-Q3 Quel critère de sécurité l&#x27;absence de journalisation des acc</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel critère de sécurité l&#x27;absence de journalisation des accès aux données atteint-elle en priorité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Sans journaux, on ne peut pas savoir si des données ont été copiées, ni mesurer l&#x27;étendue d&#x27;une fuite.</p><p><em>À revoir : fiche 22, Les vulnérabilités des infrastructures de données (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La disponibilité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La traçabilité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;intégrité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q1 Un historique d&#x27;alertes mal étiquetées, utilisé pour entraîn</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un historique d&#x27;alertes mal étiquetées, utilisé pour entraîner un modèle de tri, lui apprend à ignorer des alertes graves. De quelle attaque s&#x27;agit-il ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;empoisonnement vise la phase d&#x27;entraînement ; des données de mauvaise qualité produisent le même effet qu&#x27;un attaquant.</p><p><em>À revoir : fiche 23, Attaques contre les systèmes d&#x27;IA et IA fantôme (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D&#x27;une évasion]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D&#x27;une extraction de modèle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[D&#x27;un empoisonnement des données]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q2 Une instruction cachée dans un courriel entrant détourne l&#x27;a</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une instruction cachée dans un courriel entrant détourne l&#x27;assistant chargé de le résumer. C&#x27;est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle est indirecte, car l&#x27;instruction est cachée dans un contenu que le modèle traite, et non saisie par l&#x27;utilisateur.</p><p><em>À revoir : fiche 23, Attaques contre les systèmes d&#x27;IA et IA fantôme (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une injection de prompt indirecte]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une injection de prompt directe]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une inférence d&#x27;appartenance]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F23-Q3 Un collaborateur colle un compte rendu dans un assistant d&#x27;I</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un collaborateur colle un compte rendu dans un assistant d&#x27;IA gratuit. Quel critère de sécurité est atteint en priorité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Les données sortent du SI sans contrat ni maîtrise de leur hébergement : la confidentialité est atteinte, avec un impact de conformité (chapitre 7).</p><p><em>À revoir : fiche 23, Attaques contre les systèmes d&#x27;IA et IA fantôme (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La disponibilité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La confidentialité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;intégrité du compte rendu]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q1 Quel risque occupe le premier rang du Top 10 de l&#x27;OWASP pour</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quel risque occupe le premier rang du Top 10 de l&#x27;OWASP pour les applications LLM, en 2025 comme en 2026 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;injection de prompt reste au premier rang ; l&#x27;autonomie excessive monte au troisième en 2026, classement à vérifier sur le site du projet.</p><p><em>À revoir : fiche 24, OWASP, MITRE ATLAS, ANSSI : du vocabulaire au scénario (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La divulgation d&#x27;informations sensibles]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;injection de prompt]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;autonomie excessive]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q2 Dans MITRE ATLAS, une tactique désigne :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Dans MITRE ATLAS, une tactique désigne :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La tactique est l&#x27;objectif (reconnaissance, accès initial, exfiltration…) ; la technique est le moyen de l&#x27;atteindre.</p><p><em>À revoir : fiche 24, OWASP, MITRE ATLAS, ANSSI : du vocabulaire au scénario (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un logiciel d&#x27;attaque précis]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une vulnérabilité publiée (CVE)]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L&#x27;objectif de l&#x27;attaquant à une étape]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F24-Q3 À quoi servent les recommandations de l&#x27;ANSSI de 2024 sur l&#x27;</text></name>
+    <questiontext format="html"><text><![CDATA[<p>À quoi servent les recommandations de l&#x27;ANSSI de 2024 sur l&#x27;IA générative dans le D2 ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le guide complète le socle de sécurité et inspire les mesures ; il ne remplace ni l&#x27;échelle de vraisemblance ni l&#x27;hygiène.</p><p><em>À revoir : fiche 24, OWASP, MITRE ATLAS, ANSSI : du vocabulaire au scénario (cours, chapitre 7).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Au socle (atelier 1) et aux mesures (atelier 5)]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À coter la vraisemblance à la place de l&#x27;échelle de l&#x27;atelier 1]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[À remplacer le guide d&#x27;hygiène informatique de l&#x27;ANSSI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q1 Quelle différence entre PCA et PRA ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle différence entre PCA et PRA ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le PCA vise à ne pas s&#x27;arrêter ou à fonctionner autrement pendant l&#x27;arrêt ; le PRA est la partie consacrée au redémarrage.</p><p><em>À revoir : fiche 25, PCA, PRA et bilan d&#x27;impact sur l&#x27;activité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le PCA concerne l&#x27;informatique ; le PRA concerne les locaux et le personnel]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le PCA intervient après le sinistre ; le PRA intervient avant]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Le PCA vise à ne pas s&#x27;arrêter ; le PRA vise à redémarrer]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q2 Le BIA part :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le BIA part :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le BIA part des métiers ; il porte d&#x27;abord sur des activités, puis sur les applications qui les servent.</p><p><em>À revoir : fiche 25, PCA, PRA et bilan d&#x27;impact sur l&#x27;activité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Des menaces qui pèsent sur le SI]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Des activités métier et du coût de leur arrêt]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Des solutions de secours disponibles]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F25-Q3 Quelle norme fixe les exigences d&#x27;un système de management d</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle norme fixe les exigences d&#x27;un système de management de la continuité d&#x27;activité ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;ISO/TS 22317 donne des lignes directrices pour le BIA ; l&#x27;ISO 22301 fixe les exigences.</p><p><em>À revoir : fiche 25, PCA, PRA et bilan d&#x27;impact sur l&#x27;activité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ISO 22301]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ISO/IEC 27005]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[ISO/TS 22317]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q1 Une base est sauvegardée chaque nuit à 23 h. Une panne survi</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une base est sauvegardée chaque nuit à 23 h. Une panne survient le lendemain à 22 h. Combien de données peut-on perdre ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>On revient à la sauvegarde de la veille à 23 h : de 23 h à 22 h le lendemain, 23 heures de données sont perdues ; dans le pire cas, une sauvegarde nocturne fait perdre jusqu&#x27;à 24 heures.</p><p><em>À revoir : fiche 26, DMIA, PDMA, MTPD et classes de criticité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Environ 1 heure]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Environ 23 heures]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Aucune, puisque la sauvegarde est quotidienne]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q2 Quelle relation lie la DMIA et la MTPD ?</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle relation lie la DMIA et la MTPD ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La MTPD est le seuil de l&#x27;intolérable pour l&#x27;activité ; la DMIA est l&#x27;objectif de reprise fixé en deçà, pour garder une marge.</p><p><em>À revoir : fiche 26, DMIA, PDMA, MTPD et classes de criticité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La DMIA est fixée plus courte que la MTPD]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La DMIA est fixée plus longue que la MTPD, par prudence]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Les deux désignent la même durée sous deux noms]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F26-Q3 Avec la règle de Kestrel, une application dont la DMIA valid</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Avec la règle de Kestrel, une application dont la DMIA validée est de 24 heures est classée :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La classe 2 couvre les DMIA de plus de 4 heures et jusqu&#x27;à 24 heures inclus.</p><p><em>À revoir : fiche 26, DMIA, PDMA, MTPD et classes de criticité (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En classe 1]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En classe 3]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En classe 2]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q1 Une application est sauvegardée chaque nuit sur un NAS placé</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une application est sauvegardée chaque nuit sur un NAS placé dans la même pièce que son serveur. En cas d&#x27;incendie de la pièce, cette sauvegarde :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une sauvegarde qui ne survit pas au sinistre ne compte pas dans la capacité pour ce scénario.</p><p><em>À revoir : fiche 27, Capacité actuelle de reprise, dépendances et écarts (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Disparaît avec le serveur et ne compte pas]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Garantit une perte de données de 24 heures au plus]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Garantit une reprise en moins de 4 heures]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q2 Le besoin est une DMIA de 2 heures ; la durée constatée lors</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Le besoin est une DMIA de 2 heures ; la durée constatée lors d&#x27;une panne est de 9 heures. L&#x27;écart est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>L&#x27;écart se calcule en heures, capacité moins besoin : 9 − 2 = +7 h. Un écart positif signifie que le besoin n&#x27;est pas tenu.</p><p><em>À revoir : fiche 27, Capacité actuelle de reprise, dépendances et écarts (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[−7 heures]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4,5 fois le besoin, sans unité]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[+7 heures]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F27-Q3 Quelle source donne la meilleure estimation de la DMIA réell</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle source donne la meilleure estimation de la DMIA réelle ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La durée constatée vient en premier, un test récent en second ; à défaut, on estime et on le dit.</p><p><em>À revoir : fiche 27, Capacité actuelle de reprise, dépendances et écarts (cours, chapitre 8).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[L&#x27;estimation du responsable de l&#x27;infrastructure]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une restauration constatée lors d&#x27;un incident]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La durée de garantie indiquée sur la facture du serveur]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q1 Un analyste range la même réforme à la fois en « politique »</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un analyste range la même réforme à la fois en « politique » et en « légal ». Que lui conseiller ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Chaque facteur apparaît une fois : en « légal » s&#x27;il est opposable, en « politique » s&#x27;il relève d&#x27;une orientation ou d&#x27;un texte en discussion.</p><p><em>À revoir : fiche 28, Le PESTEL du SI (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La laisser dans les deux, pour ne rien oublier]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La déplacer en « économique », car elle coûte]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La garder une fois, dans une dimension justifiable]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q2 Quelle colonne distingue un PESTEL du SI d&#x27;un PESTEL d&#x27;entre</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Quelle colonne distingue un PESTEL du SI d&#x27;un PESTEL d&#x27;entreprise ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une colonne « effet sur le SI » vide ou vague signale un PESTEL d&#x27;entreprise.</p><p><em>À revoir : fiche 28, Le PESTEL du SI (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La colonne « effet sur le SI »]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La colonne « source »]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[La colonne « opportunité ou menace »]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F28-Q3 « La cybercriminalité augmente », sans autre précision, est </text></name>
+    <questiontext format="html"><text><![CDATA[<p>« La cybercriminalité augmente », sans autre précision, est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Un rapport public de l&#x27;ANSSI ou du CERT Santé, cité avec sa date, en ferait un facteur.</p><p><em>À revoir : fiche 28, Le PESTEL du SI (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un bon facteur technologique de niveau 3, à garder tel quel]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un facteur sans valeur faute de source datée]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un fait interne à placer dans la section 5.2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q1 Selon Porter (2008), l&#x27;État est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon Porter (2008), l&#x27;État est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Porter précise en 2008 que l&#x27;État n&#x27;est pas une sixième force.</p><p><em>À revoir : fiche 29, Cinq forces, facteurs clés de succès et évaluation des impacts (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une sixième force, au même rang que les autres]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un acteur qui agit à travers les cinq forces]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un fournisseur du secteur, comme les autres]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q2 Un facteur clé de succès :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un facteur clé de succès :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Il dépend des attentes des clients et des règles du jeu concurrentiel, pas de l&#x27;organisation elle-même ; ce qui distingue les acteurs, c&#x27;est leur capacité à le maîtriser.</p><p><em>À revoir : fiche 29, Cinq forces, facteurs clés de succès et évaluation des impacts (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Est propre à une organisation et la distingue de ses concurrents]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Est d&#x27;abord une technologie]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Est commun à tout un secteur ; seule sa maîtrise distingue]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F29-Q3 Avec la règle du cours, un facteur qui touche une applicatio</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Avec la règle du cours, un facteur qui touche une application critique et prendra effet de façon certaine dans dix-huit mois reçoit le niveau :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Application critique et effet certain dans les deux ans : niveau 3.</p><p><em>À revoir : fiche 29, Cinq forces, facteurs clés de succès et évaluation des impacts (cours, chapitre 9).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q1 Combien de domaines le D2 impose-t-il pour le diagnostic int</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de domaines le D2 impose-t-il pour le diagnostic interne ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Gouvernance, organisation et processus, applications, données, infrastructure, sécurité, compétences, budget.</p><p><em>À revoir : fiche 30, Diagnostic, domaines et échelles de maturité (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Huit]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Six]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Cinq]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q2 Selon la règle du maillon faible, un domaine ne peut pas êtr</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Selon la règle du maillon faible, un domaine ne peut pas être noté 3 si :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>La note suit le maillon le plus faible, pas la meilleure partie du périmètre.</p><p><em>À revoir : fiche 30, Diagnostic, domaines et échelles de maturité (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Un indicateur du domaine n&#x27;a pas de référence chiffrée ni datée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Un critère du niveau 2 manque sur une partie importante]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le domaine compte moins de quatre faits sourcés]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F30-Q3 Un composant que l&#x27;éditeur ne maintient plus relève :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Un composant que l&#x27;éditeur ne maintient plus relève :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Hors support, il ne reçoit plus de correctifs de sécurité ; la date se prouve par la page de cycle de vie de l&#x27;éditeur.</p><p><em>À revoir : fiche 30, Diagnostic, domaines et échelles de maturité (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[De la dette technique de code]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[De l&#x27;obsolescence fonctionnelle]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[De l&#x27;obsolescence technique]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q1 Une faiblesse a un impact de 3 et une urgence de 2. Son scor</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une faiblesse a un impact de 3 et une urgence de 2. Son score est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le score est le produit de l&#x27;impact et de l&#x27;urgence.</p><p><em>À revoir : fiche 31, Hiérarchiser forces et faiblesses, construire le SWOT (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q2 Une case du SWOT contient un fait absent des sections 5.1 à </text></name>
+    <questiontext format="html"><text><![CDATA[<p>Une case du SWOT contient un fait absent des sections 5.1 à 5.3. Conséquence :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Le SWOT résume le diagnostic et l&#x27;analyse externe ; il n&#x27;ajoute rien.</p><p><em>À revoir : fiche 31, Hiérarchiser forces et faiblesses, construire le SWOT (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[La condition de E19 sur le fait nouveau échoue]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Aucune, si le fait est sourcé et daté en annexe H]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Le fait doit être signalé en gras et renvoyé en 5.3]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F31-Q3 « Passer au cloud » dans la case des opportunités est :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>« Passer au cloud » dans la case des opportunités est :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une opportunité est un fait externe favorable, pas un choix qui relève du D3.</p><p><em>À revoir : fiche 31, Hiérarchiser forces et faiblesses, construire le SWOT (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une opportunité technologique valable]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Une solution déguisée en opportunité]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Une menace mal classée]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q1 Lequel de ces énoncés a la forme d&#x27;un enjeu (une question, s</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Lequel de ces énoncés a la forme d&#x27;un enjeu (une question, sans solution imposée, avec une échéance) ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Une question, sans solution imposée, avec une échéance ; dans le dossier, l&#x27;enjeu doit aussi être relié à une faiblesse numérotée et son échéance justifiée.</p><p><em>À revoir : fiche 32, Enjeux, synthèse pour une direction et restitution orale (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[« Comment remplacer le logiciel de caisse ? Décision avant fin 2027 »]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[« Quelle protection des accès à distance exiger ? Avant la fin du semestre »]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[« Quelle protection des accès à distance exiger des prestataires ? »]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q2 La synthèse d&#x27;une page s&#x27;écrit :</text></name>
+    <questiontext format="html"><text><![CDATA[<p>La synthèse d&#x27;une page s&#x27;écrit :</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>Elle résume des résultats qui n&#x27;existent qu&#x27;à la fin du travail.</p><p><em>À revoir : fiche 32, Enjeux, synthèse pour une direction et restitution orale (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[En premier, pour cadrer le dossier]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pendant la préparation de la restitution orale]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[En dernier, bien qu&#x27;elle ouvre le dossier]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name><text>F32-Q3 Combien de temps dure la présentation de la restitution oral</text></name>
+    <questiontext format="html"><text><![CDATA[<p>Combien de temps dure la présentation de la restitution orale, hors questions ?</p>]]></text></questiontext>
+    <generalfeedback format="html"><text><![CDATA[<p>8 minutes de présentation en quatre temps, puis 4 minutes de questions.</p><p><em>À revoir : fiche 32, Enjeux, synthèse pour une direction et restitution orale (cours, chapitre 10).</em></p>]]></text></generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html"><text></text></correctfeedback>
+    <partiallycorrectfeedback format="html"><text></text></partiallycorrectfeedback>
+    <incorrectfeedback format="html"><text></text></incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[8 minutes]]></text>
+      <feedback format="html"><text><![CDATA[Bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[12 minutes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[4 minutes]]></text>
+      <feedback format="html"><text><![CDATA[Ce n’est pas la bonne réponse.]]></text></feedback>
+    </answer>
+  </question>
+</quiz>

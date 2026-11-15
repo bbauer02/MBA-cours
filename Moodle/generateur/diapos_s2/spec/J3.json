@@ -1,0 +1,1180 @@
+{
+  "day": 3,
+  "title": "Semaine S2 · Jour 3 · Sécurité, risque et EBIOS Risk Manager",
+  "first_number": 47,
+  "deroule": "Matin : diapositives 48 à 64. Chapitre 5 (critères de sécurité, vocabulaire du risque, options de traitement, normes, socle, échelles et matrice, fiches FT 12 et FT 13, étude de document sur la cyberattaque du centre hospitalier Sud Francilien), puis début du chapitre 6 (principes d'EBIOS Risk Manager, ateliers 1 et 2 sur Kestrel, fiche FT 14). Après-midi : diapositives 65 à 67, qui lancent trois ateliers sur Medisecure : les échelles et le socle, l'atelier 1, l'atelier 2. Chaque atelier est commencé en séance et terminé en autonomie.",
+  "slides": [
+    {
+      "pattern": "cover",
+      "kicker": "UE2 · Semaine S2 · Systèmes d'information, cartographie et risques",
+      "title": "Sécurité, risque et EBIOS Risk Manager : cadrer l'analyse",
+      "subtitle": "Des critères de sécurité aux échelles de gravité, du socle de sécurité aux sources de risque : la carte du SI devient la base d'un jugement sur ce qui peut lui arriver.",
+      "minutes": 1.5,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Bonjour à toutes et à tous. Hier, vous avez appris à décrire le système d'information : ses vues, ses objets, ses flux, ses points uniques de défaillance. Aujourd'hui, on change de question. On ne demande plus « qu'y a-t-il dans le SI ? », mais « qu'est-ce qui peut lui arriver, et combien cela coûterait-il ? ». On passe de la carte au jugement."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "Ce passage exige un vocabulaire précis. Dans la vie courante, on emploie « risque », « menace » et « vulnérabilité » à tort et à travers. Dans une analyse de risques, chacun de ces mots a un sens exact, et les confondre fausse tout le raisonnement. Nous allons donc poser les notions, les normes, le socle réglementaire et les échelles, puis entrer dans la méthode de l'ANSSI, l'Agence nationale de la sécurité des systèmes d'information : EBIOS Risk Manager. Tout cela prépare la partie 3 de votre dossier D2, l'analyse de risques. Gardez en tête une idée simple pour toute la journée : une analyse de risques ne vaut que par le fil qui la relie à votre cartographie."
+        }
+      ]
+    },
+    {
+      "pattern": "steps",
+      "kicker": "Programme de la journée",
+      "title": "Le matin, les notions et la méthode ; l'après-midi, Medisecure",
+      "steps": [
+        {
+          "head": "Notions",
+          "body": "DICT, menace, vulnérabilité, risque"
+        },
+        {
+          "head": "Normes et socle",
+          "body": "ISO 27001, 27002, 27005 ; écarts"
+        },
+        {
+          "head": "Échelles",
+          "body": "Gravité, vraisemblance, matrice"
+        },
+        {
+          "head": "EBIOS RM",
+          "body": "Principes, ateliers 1 et 2"
+        },
+        {
+          "head": "Ateliers",
+          "body": "Trois exercices Medisecure"
+        }
+      ],
+      "highlight": [
+        4
+      ],
+      "cards": [
+        {
+          "tag": "Matin",
+          "head": "Chapitre 5 et début du chapitre 6",
+          "body": "Notions, normes, socle et échelles sur Kestrel Logistique ; étude d'une cyberattaque contre un hôpital ; ateliers 1 et 2 d'EBIOS RM ; fiches FT 12, FT 13 et FT 14."
+        },
+        {
+          "tag": "Après-midi",
+          "head": "Trois ateliers sur Medisecure",
+          "body": "Les échelles et le socle, l'atelier 1, l'atelier 2 : commencés en séance, terminés en autonomie.",
+          "fill": "ambbg"
+        },
+        {
+          "tag": "Dossier D2",
+          "head": "Sections 3.1 à 3.3",
+          "body": "Méthode et échelles, cadrage et socle, sources de risque."
+        }
+      ],
+      "minutes": 2,
+      "notes": [
+        {
+          "cue": "Frise des cinq étapes",
+          "text": "Voici le programme de la journée. La frise se lit de gauche à droite, et c'est aussi l'ordre dans lequel une analyse de risques se construit. D'abord les notions : les critères de sécurité, que l'on résume par le sigle DICT, puis le vocabulaire du risque. Ensuite les normes et le socle : ce que disent ISO/IEC 27001, 27002 et 27005, et quelles règles s'imposent déjà à une organisation avant même qu'elle analyse ses risques. Puis les échelles de gravité et de vraisemblance, et la matrice qui les croise. Enfin, la méthode EBIOS Risk Manager, avec ses principes et ses deux premiers ateliers."
+        },
+        {
+          "cue": "Carte « Matin »",
+          "text": "Toute la matinée suit un seul exemple, Kestrel Logistique, le transporteur que vous connaissez depuis le début de la semaine. Vous verrez ses échelles, ses écarts au socle, ses valeurs métier, ses sources de risque. Nous ferons aussi une étude de document sur une attaque réelle contre un hôpital français : c'est le chapitre 5 qui la propose. Gardez le cours ouvert à côté de vous : les tableaux que je montre sont ceux des chapitres 5 et 6, parfois raccourcis pour l'écran. Quand je dis « le cours », c'est là que se trouvent les versions complètes, les définitions encadrées et les gabarits. Trois fiches de travail ponctuent la matinée : la FT 12 sur les critères de sécurité, la FT 13 sur la cotation, la FT 14 sur les ateliers 1 et 2. Je vous dirai à quel moment sortir chacune."
+        },
+        {
+          "cue": "Carte orangée « Après-midi », puis carte « Dossier D2 »",
+          "text": "L'après-midi, vous passez à Medisecure avec trois ateliers. Je vous préviens tout de suite : le cours leur donne sept heures au total. Vous ne les finirez pas cet après-midi, et ce n'est pas le but. Le but est de les commencer ici, avec moi, pour que les questions de méthode soient réglées avant l'intersession. Ces trois ateliers alimentent les sections 3.1, 3.2 et 3.3 de votre dossier. Demain, nous terminerons la méthode avec les ateliers 3 à 5."
+        }
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 5",
+      "title": "Sécurité et risque : notions et cadre normatif",
+      "subtitle": "Exprimer un besoin de sécurité, décomposer un incident, situer ISO/IEC 27001, 27002 et 27005, mesurer les écarts au socle et construire des échelles de gravité et de vraisemblance.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Écran de chapitre",
+          "text": "Nous ouvrons le chapitre 5. Il pose les fondations de l'analyse de risques : les notions, les normes, le socle réglementaire et les échelles. Le chapitre 6 les met ensuite en œuvre avec EBIOS Risk Manager. Les deux chapitres préparent ensemble la partie 3 du dossier."
+        },
+        {
+          "cue": "Sous-titre : ce que vous saurez faire",
+          "text": "À la fin de ce chapitre, vous saurez exprimer un besoin de sécurité avec quatre critères, et décomposer un incident en actif, menace, vulnérabilité et impact. Vous saurez situer trois normes l'une par rapport à l'autre, et faire correspondre la démarche d'ISO/IEC 27005 avec les ateliers d'EBIOS Risk Manager. Vous saurez enfin identifier le socle de sécurité d'une organisation, en mesurer les écarts, et construire des échelles adaptées à son métier. Ce dernier point est le plus important pour votre dossier : sans échelles écrites à l'avance, aucune cotation ne tient."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 5 · Les critères de sécurité",
+      "title": "La sécurité protège quatre propriétés, pas des machines",
+      "intro": "Disponibilité, intégrité, confidentialité, traçabilité (ou preuve) : d'où les sigles DICT ou DICP. Les trois premiers critères sont définis par ISO/IEC 27000.",
+      "intro_h": 44,
+      "header": [
+        "Critère",
+        "Question à poser au métier",
+        "Exemple chez Kestrel",
+        "Mesure typique"
+      ],
+      "rows": [
+        [
+          "Disponibilité",
+          "Combien de temps pouvez-vous vous passer de cet élément ?",
+          "RoutePro : 2 heures d'arrêt toléré",
+          "Redondance, sauvegarde restaurable, plan de reprise"
+        ],
+        [
+          "Intégrité",
+          "Que se passe-t-il si les données sont fausses sans que vous le sachiez ?",
+          "Une commande EDI modifiée envoie 30 palettes à la mauvaise adresse",
+          "Contrôle de cohérence, signature, droits limités en écriture"
+        ],
+        [
+          "Confidentialité",
+          "Qui ne doit en aucun cas voir ces données ?",
+          "Noms, adresses et téléphones de 2,5 millions de livraisons par an",
+          "Contrôle d'accès, chiffrement, cloisonnement"
+        ],
+        [
+          "Traçabilité",
+          "Faudra-t-il prouver qui a fait quoi ?",
+          "Preuve de livraison avec photo et signature dans KDriver",
+          "Journalisation, horodatage, conservation des journaux"
+        ]
+      ],
+      "widths": [
+        1.1,
+        2,
+        2,
+        2
+      ],
+      "note": "Un même élément n'a pas les mêmes besoins sur chaque critère : RoutePro, disponibilité très forte, confidentialité moyenne.",
+      "minutes": 2.5,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Première idée du chapitre, et elle surprend souvent : la sécurité de l'information ne protège pas des machines. Elle protège des propriétés de l'information et des processus qui l'utilisent. On les appelle critères de sécurité, ou besoins de sécurité quand on les exprime pour un élément donné."
+        },
+        {
+          "cue": "Bandeau d'introduction et colonne « Critère »",
+          "text": "Il y en a quatre. La disponibilité, c'est être accessible et utilisable au moment voulu par une personne autorisée. L'intégrité, c'est être exact et complet, non modifié de façon illégitime. La confidentialité, c'est n'être accessible qu'aux personnes autorisées. La traçabilité, que l'on appelle aussi preuve, c'est pouvoir retrouver qui a fait quoi et quand. D'où les sigles DICT ou DICP. Les trois premiers viennent de la norme ISO/IEC 27000 ; le quatrième est un ajout courant des méthodes françaises."
+        },
+        {
+          "cue": "Colonne « Question à poser au métier »",
+          "text": "Regardez la deuxième colonne : c'est la plus utile en entretien. Vous ne demandez pas à un directeur des opérations « quel est votre besoin d'intégrité ? ». Il ne saurait pas répondre. Vous lui demandez : « que se passe-t-il si les données sont fausses sans que vous le sachiez ? ». Chez Kestrel, la réponse est concrète : une commande EDI, c'est-à-dire reçue par échange de données informatisé, modifiée, et trente palettes partent à la mauvaise adresse."
+        },
+        {
+          "cue": "Bandeau du bas",
+          "text": "Un même élément n'a pas les mêmes besoins sur chaque critère. RoutePro, l'application de gestion du transport, a un besoin de disponibilité très fort : les camions partent à 5 heures, et les directions tolèrent 2 heures d'arrêt au plus. Son besoin de confidentialité est moyen : un ordre de transport n'est pas un secret. À l'inverse, les données des destinataires ont un besoin de confidentialité élevé, car leur fuite exposerait Kestrel à une sanction de la CNIL. Vous avez déjà renseigné ces besoins dans l'inventaire applicatif du chapitre 4 : ils deviennent ici la matière première de l'analyse. La disponibilité, elle, s'exprimera en durée d'interruption admissible, la DMIA, que nous verrons demain au chapitre 8."
+        }
+      ],
+      "maxs": 14
+    },
+    {
+      "pattern": "cards",
+      "kicker": "Chapitre 5 · Le vocabulaire du risque · Panne de novembre 2024",
+      "title": "Décomposer un incident montre où agir",
+      "intro": "Risque : possibilité qu'une menace exploite une ou plusieurs vulnérabilités d'un actif et cause un impact. On le décrit en scénario et on l'estime par sa gravité et sa vraisemblance.",
+      "intro_h": 46,
+      "cols": 3,
+      "cards": [
+        {
+          "tag": "Valeur métier",
+          "head": "Ce qui compte pour la mission",
+          "body": "Le processus « planifier les tournées »."
+        },
+        {
+          "tag": "Bien support",
+          "head": "Ce qui la porte dans le SI",
+          "body": "Le serveur de virtualisation qui portait APP-01 RoutePro, dans SAL-01 Salle serveur du siège."
+        },
+        {
+          "tag": "Menace",
+          "head": "La cause potentielle",
+          "body": "Une panne matérielle, sans aucune intention malveillante."
+        },
+        {
+          "tag": "Vulnérabilité",
+          "head": "La faiblesse exploitée",
+          "body": "Pas de stockage redondant ni de bascule documentée de RoutePro vers l'autre serveur de virtualisation."
+        },
+        {
+          "tag": "Impact",
+          "head": "Ce que perd Kestrel",
+          "body": "9 heures d'arrêt, 2 300 colis livrés en retard, 38 k€ de pénalités appliquées par deux clients.",
+          "fill": "pet"
+        },
+        {
+          "tag": "Où agir",
+          "head": "Pas sur la menace",
+          "body": "Un disque finit toujours par tomber en panne : on traite la vulnérabilité (stockage redondant) ou on réduit l'impact (tournées sur papier).",
+          "fill": "tealbg"
+        }
+      ],
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Bandeau d'introduction",
+          "text": "Le langage courant dit « il y a un risque de piratage », sans préciser qui pirate, par quel moyen, ni avec quelles conséquences. Une analyse de risques fait l'inverse : elle décompose chaque risque en éléments distincts, que l'on peut vérifier et traiter séparément. La norme ISO 31000 définit le risque comme l'effet de l'incertitude sur les objectifs. En sécurité de l'information, c'est la possibilité qu'une menace exploite une vulnérabilité d'un actif et cause un impact. On le décrit comme un scénario, d'une cause à une conséquence, et on l'estime en combinant gravité et vraisemblance."
+        },
+        {
+          "cue": "Cartes « Valeur métier » et « Bien support »",
+          "text": "Prenons la panne de novembre 2024 chez Kestrel : un disque du serveur de RoutePro lâche, l'affectation des tournées s'arrête 9 heures. L'actif, c'est tout ce qui a de la valeur. EBIOS Risk Manager le dédouble. La valeur métier est le processus ou l'information essentiels : ici « planifier les tournées ». Le bien support est l'élément du SI sur lequel elle repose : le serveur de virtualisation qui portait APP-01 RoutePro, dans la salle SAL-01. Retenez bien cette distinction : c'est le pont entre votre cartographie et votre analyse de risques. Les biens supports, ce sont vos objets de cartographie."
+        },
+        {
+          "cue": "Cartes « Menace » et « Vulnérabilité »",
+          "text": "La menace est la cause potentielle : ici une panne matérielle, sans intention malveillante. La vulnérabilité est la faiblesse que la menace exploite : pas de stockage redondant, pas de bascule documentée vers l'autre serveur. Une menace sans vulnérabilité reste théorique ; une vulnérabilité sans menace crédible reste une faiblesse dormante. Et la vraisemblance, j'y insiste, n'est pas une prédiction : EBIOS Risk Manager la définit comme la facilité avec laquelle un attaquant décidé réussirait."
+        },
+        {
+          "cue": "Carte sombre « Impact », puis carte « Où agir »",
+          "text": "L'impact est mesuré : 2 300 colis en retard et 38 000 euros de pénalités. Et voici l'intérêt de la décomposition : elle montre où agir. On ne supprime pas la menace, un disque finit toujours par tomber en panne. On traite la vulnérabilité, ou on réduit l'impact par une procédure dégradée. La même grille s'applique à la tentative de fraude au virement de septembre 2025 : la menace est un escroc, la vulnérabilité est l'absence de contre-appel avant un changement de coordonnées bancaires. Comme la fiche de Kestrel ne décrit pas cette procédure, le cours l'écrit comme hypothèse numérotée, H17, et non comme un fait. Une dernière remarque : les pannes et accidents relèvent surtout du socle et de l'analyse d'impact du chapitre 8 ; les scénarios d'EBIOS Risk Manager portent sur les attaques."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 5 · Fiche de travail",
+      "title": "Prenez la fiche FT 12 : qualifier les incidents de Kestrel",
+      "minutes": 2,
+      "ft": "FT 12",
+      "name": "Critères de sécurité et vocabulaire du risque",
+      "duration": "60 minutes",
+      "consigne": [
+        "Janvier 2026 : vous êtes stagiaire auprès de Romain Chevalier, qui veut présenter les incidents de 2025 dans le langage du risque.",
+        "Qualifiez chaque incident par le critère atteint, décomposez les plus instructifs (valeur métier, bien support, menace, vulnérabilité, impact) et comparez les interruptions aux durées tolérées.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez nommer le critère atteint et décomposer un incident sans confondre menace et vulnérabilité.",
+        "Complétez le « Je retiens » à la fin de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre et bandeau vert",
+          "text": "Avant d'aller plus loin, sortez la fiche de travail FT 12. Elle reprend exactement ce que nous venons de voir : les quatre critères de sécurité et la décomposition d'un incident. Vous la faites maintenant, en soixante minutes, seuls ou à deux."
+        },
+        {
+          "cue": "Consigne",
+          "text": "La situation : nous sommes en janvier 2026, vous êtes stagiaire auprès de Romain Chevalier, le RSSI à temps partiel de Kestrel. Il veut que le bilan des incidents de 2025 parle le langage du risque, et non celui des pannes. Vous qualifiez chaque incident, puis vous décomposez les plus instructifs, et vous calculez l'écart entre l'interruption constatée et la durée tolérée par les métiers."
+        },
+        {
+          "cue": "Carte « À la fin de la fiche »",
+          "text": "Terminez par l'encadré « Je retiens » : il reprend les définitions du cours avec des mots manquants. Nous mettrons en commun deux ou trois décompositions avant de passer aux échelles."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 5 · Risque initial, risque résiduel, traitement",
+      "title": "Traiter un risque : quatre options, une acceptation écrite",
+      "intro": "Risque initial : avec les mesures en place et leurs défauts. Risque résiduel : après les mesures décidées, jamais nul, accepté par un responsable qui en a l'autorité.",
+      "intro_h": 44,
+      "header": [
+        "Option",
+        "Principe",
+        "Exemple chez Kestrel",
+        "Limite"
+      ],
+      "rows": [
+        [
+          "Réduire",
+          "Agir sur la vraisemblance ou la gravité par des mesures",
+          "Copie des sauvegardes hors ligne ; authentification multifacteur pour tous",
+          "Coûte du budget et du temps ; ne supprime jamais tout le risque"
+        ],
+        [
+          "Transférer",
+          "Faire porter une partie des conséquences par un tiers",
+          "Assurance cyber ; clause de responsabilité dans le contrat de l'éditeur de RoutePro",
+          "Ne transfère que l'impact financier, jamais l'arrêt des livraisons ni l'image"
+        ],
+        [
+          "Éviter",
+          "Renoncer à l'activité ou à l'élément qui crée le risque",
+          "Supprimer l'accès VPN des chauffeurs, utilisé seulement pour déclarer des frais",
+          "Peut priver le métier d'un service utile"
+        ],
+        [
+          "Accepter",
+          "Décider en connaissance de cause de ne rien faire de plus",
+          "Accepter 24 heures d'arrêt de TeleFleet, jugé tolérable par les opérations",
+          "Doit être écrit, motivé et signé par un responsable"
+        ]
+      ],
+      "widths": [
+        1,
+        2,
+        2.3,
+        2.1
+      ],
+      "note": "Un risque que personne n'a traité n'est pas un risque accepté : c'est un risque ignoré. Le D2 demande au moins une acceptation explicite.",
+      "note_style": "warn",
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Bandeau d'introduction",
+          "text": "Un même risque peut être estimé à trois moments. Le risque inhérent est estimé comme si aucune mesure n'existait : c'est le sens qu'il a en audit interne. Le risque initial, terme d'EBIOS Risk Manager, est le risque tel qu'il existe aujourd'hui, avec les mesures en place et leurs défauts. Le risque résiduel est celui qui subsiste après les mesures décidées. Ne confondez pas inhérent et initial : dans le cours et dans votre dossier, on parle de risque initial et de risque résiduel. Et un risque résiduel n'est jamais nul. Il doit être accepté par quelqu'un qui en a l'autorité : pour un risque significatif, c'est la direction, pas l'équipe technique qui a posé les mesures."
+        },
+        {
+          "cue": "Tableau, lignes « Réduire » et « Transférer »",
+          "text": "Face à un risque, quatre options. La norme ISO/IEC 27005 parle de modifier, partager, éviter ou maintenir le risque ; le dossier D2 retient réduire, transférer, éviter et accepter. Réduire, c'est agir par des mesures, par exemple une copie des sauvegardes hors ligne. C'est l'option la plus fréquente, mais elle ne supprime jamais tout. Transférer, c'est faire porter une partie des conséquences par un tiers, typiquement un assureur. Attention à sa limite : une assurance rembourse, elle ne fait pas partir les camions et ne répare pas l'image."
+        },
+        {
+          "cue": "Lignes « Éviter » et « Accepter »",
+          "text": "Éviter, c'est renoncer à ce qui crée le risque. Chez Kestrel, les chauffeurs ont un accès VPN au réseau interne uniquement pour déclarer leurs frais : le supprimer évite le risque, au prix d'un service. Accepter, c'est décider en connaissance de cause de ne rien faire de plus : par exemple, 24 heures d'arrêt de TeleFleet, la télématique, jugées tolérables par les opérations."
+        },
+        {
+          "cue": "Bandeau rouge du bas",
+          "text": "Et voici le piège. Un risque que personne n'a traité n'est pas un risque accepté : c'est un risque ignoré. L'acceptation est une décision écrite, prise par un responsable identifié, avec un motif. Votre dossier en demande au moins une. Une phrase comme « risque accepté car le budget manque » est recevable si elle est assumée et datée. « Risque faible », sans autre explication, ne l'est pas. Question à la salle : dans votre entreprise d'alternance, savez-vous qui a le droit d'accepter un risque ?"
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 5 · ISO/IEC 27001, 27002 et 27005",
+      "title": "ISO/IEC 27005 décrit la démarche, EBIOS RM la met en œuvre",
+      "fig": "c05-processus-iso27005",
+      "side": {
+        "tag": "Trois normes, trois rôles",
+        "head": "Le système de management (SMSI)",
+        "body": [
+          "ISO/IEC 27001:2022 : exigences du SMSI, certifiable ; annexe A de 93 mesures.",
+          "ISO/IEC 27002:2022 : les 93 mesures détaillées ; catalogue non certifiable.",
+          "ISO/IEC 27005:2022 : la démarche de gestion des risques ; des conseils."
+        ]
+      },
+      "note": "L'ANSSI présente EBIOS RM 1.5 comme conforme à ISO/IEC 27005:2022 : le D2 accepte l'une ou l'autre, avec des résultats équivalents.",
+      "note_style": "dossier",
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Carte de droite, en-tête « SMSI »",
+          "text": "Une analyse de risques isolée vieillit vite. Les normes de la famille ISO/IEC 27000 l'insèrent dans un dispositif permanent : le système de management de la sécurité de l'information, le SMSI. C'est l'ensemble des politiques, responsabilités, processus et ressources par lesquels une organisation gère sa sécurité, selon la boucle planifier, faire, vérifier, agir. Ses exigences sont fixées par ISO/IEC 27001, dont l'édition en vigueur date de 2022. La transition depuis l'édition 2013 s'est achevée le 31 octobre 2025."
+        },
+        {
+          "cue": "Carte de droite, les trois normes",
+          "text": "Distinguez bien les trois normes. 27001 fixe les exigences ; elle est certifiable, et son annexe A liste 93 mesures. 27002 détaille ces 93 mesures, réparties en quatre thèmes : organisationnelles, liées aux personnes, physiques et technologiques. Ce n'est qu'un catalogue, non certifiable. 27005, enfin, donne la démarche de gestion des risques. Chez Kestrel, personne ne demande de certificat, mais les clients de la grande distribution posent des questions de sécurité dans leurs appels d'offres : adopter la démarche sans viser le certificat est un choix fréquent pour une PME."
+        },
+        {
+          "cue": "Schéma : du contexte à l'acceptation",
+          "text": "Le schéma reprend la figure du chapitre 5. Tout commence par l'établissement du contexte : périmètre, critères de risque, critère d'acceptation. Vient l'appréciation du risque, en trois activités : identifier, analyser, évaluer. Puis le traitement, et l'acceptation des risques résiduels. Sur les côtés, deux activités accompagnent tout le processus : la communication et la concertation, la surveillance et la revue. L'édition 2022 décrit deux approches pour identifier les risques : par les événements, qui part des sources de risque, et par les biens, qui part des actifs. Vous les reconnaîtrez demain, aux ateliers 3 et 4 : ce sont les scénarios stratégiques et opérationnels d'EBIOS."
+        },
+        {
+          "cue": "Bandeau « Pour votre dossier D2 »",
+          "text": "Les consignes vous laissent le choix entre EBIOS Risk Manager et ISO/IEC 27005, à condition de produire des résultats équivalents. Le chapitre 5 contient un tableau de correspondance, activité par activité, avec son équivalent dans EBIOS Risk Manager : lisez-le. Mais sachez que la norme ne vous donne ni grille d'évaluation des parties prenantes, ni séquence d'attaque toute faite : il faudrait les construire et les justifier. C'est pourquoi le cours recommande EBIOS. Et quelle que soit la méthode, gardez un seul vocabulaire du début à la fin : « actif primordial » dans un tableau et « valeur métier » dans le suivant, c'est une erreur fréquente."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 5 · Le socle de sécurité · Kestrel Logistique",
+      "title": "Un écart au socle se prouve par un fait, sinon c'est une opinion",
+      "intro": "Socle : lois, normes, contrats, PSSI et guides applicables. On cite l'exigence, on décrit un constat vérifiable, on qualifie l'état d'application.",
+      "intro_h": 40,
+      "header": [
+        "Référentiel",
+        "Exigence",
+        "Constat chez Kestrel",
+        "État"
+      ],
+      "rows": [
+        [
+          "Guide d'hygiène ANSSI",
+          "Authentification forte des accès sensibles",
+          "Authentification multifacteur sur APP-10 Microsoft 365 pour les cadres seulement",
+          "Partiellement appliqué"
+        ],
+        [
+          "Guide d'hygiène ANSSI",
+          "Sauvegarde dont une copie hors ligne et éloignée",
+          "STO-01 NAS dans SAL-01 ; STO-02 Disque externe hebdomadaire, au siège",
+          "Partiellement appliqué"
+        ],
+        [
+          "Guide d'hygiène ANSSI",
+          "Mises à jour de sécurité sans délai",
+          "SEC-01 Passerelle VPN : 11 jours début 2025, puis 4 heures ; aucun délai écrit",
+          "Partiellement appliqué"
+        ],
+        [
+          "Guide d'hygiène ANSSI",
+          "Accès distants des prestataires maîtrisés",
+          "Accès VPN permanent de PP-05 Éditeur de RoutePro",
+          "Non appliqué"
+        ],
+        [
+          "RGPD",
+          "Durée de conservation définie",
+          "Positions GPS d'APP-05 TeleFleet conservées sans durée définie",
+          "Non appliqué"
+        ]
+      ],
+      "widths": [
+        1.4,
+        2,
+        3,
+        1.3
+      ],
+      "fills": [
+        [
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk2"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ]
+      ],
+      "note": "NIS2 : la loi française de transposition n'est pas promulguée à la date du cours. Vérifiez son état sur le site de l'Assemblée nationale et sur Légifrance.",
+      "note_style": "warn",
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Bandeau d'introduction",
+          "text": "Toute organisation est soumise à des règles de sécurité avant même d'analyser ses risques : la loi, les contrats, les bonnes pratiques de son secteur, sa propre politique. EBIOS Risk Manager appelle cet ensemble le socle de sécurité. On liste les référentiels, on évalue l'état d'application de chacun, on relève les écarts. Et ces écarts ne restent pas dans un coin : ils deviennent souvent les vulnérabilités exploitées dans les scénarios."
+        },
+        {
+          "cue": "Colonne « Référentiel »",
+          "text": "Quels référentiels ? D'abord le guide d'hygiène informatique de l'ANSSI, « Renforcer la sécurité de son système d'information en 42 mesures », version 2 de 2017 : c'est le minimum attendu de toute organisation. Ensuite le RGPD, le règlement général sur la protection des données, dès qu'il y a des données personnelles : son article 32 impose une sécurité adaptée au risque, son article 33 la notification d'une violation à la CNIL dans les 72 heures si possible. Pour la santé s'ajoute la certification HDS, hébergement de données de santé, référentiel en version 2 depuis 2024 ; elle ne concerne pas Kestrel. Enfin la PSSI, la politique de sécurité interne : une PSSI ancienne jamais révisée reste un référentiel, et son ancienneté est elle-même un écart."
+        },
+        {
+          "cue": "Lignes du tableau, colonnes « Constat » et « État »",
+          "text": "Regardez la méthode sur Kestrel. On cite l'exigence, on décrit un constat appuyé sur un fait vérifiable, on qualifie : appliqué, partiellement appliqué, non appliqué. L'authentification multifacteur existe sur Microsoft 365, mais pour les cadres seulement : partiellement appliqué. L'éditeur de RoutePro dispose d'un accès VPN permanent : non appliqué. Les positions GPS de TeleFleet sont conservées sans durée définie : écart au RGPD. Notez que les biens portent leur nom de cartographie, identifiant compris. Un écart sans fait n'est qu'une opinion."
+        },
+        {
+          "cue": "Bandeau rouge sur NIS2",
+          "text": "Un mot sur NIS2, la directive européenne 2022/2555. Elle étend les obligations de cybersécurité à la santé et aux services postaux et d'expédition, ce qui pourrait concerner Kestrel, point à confirmer. Les États devaient la transposer avant le 17 octobre 2024 ; la France ne l'a pas fait, et le projet de loi est toujours en discussion à la date du cours. Ne l'écrivez donc jamais de mémoire dans votre dossier : vérifiez sur le site de l'Assemblée nationale et sur Légifrance le jour où vous rédigez."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 5 · Échelle de gravité · Kestrel Logistique",
+      "title": "Une gravité se lit sur une échelle ancrée dans les faits",
+      "intro": "Construite avec la DAF et le directeur des opérations. Seuils financiers ancrés sur la marge 2025 : environ 1,3 M€ (3,1 % de 42 M€).",
+      "intro_h": 40,
+      "header": [
+        "Niveau",
+        "Livraisons et clients",
+        "Finances",
+        "Juridique et conformité",
+        "Image et personnes"
+      ],
+      "rows": [
+        [
+          "G1 Mineure",
+          "Retard de moins de 2 h sur l'affectation, sans colis en retard",
+          "Moins de 10 k€",
+          "Aucune suite",
+          "Aucun effet visible à l'extérieur"
+        ],
+        [
+          "G2 Significative",
+          "Tournées perturbées moins d'une journée ; jusqu'à 3 000 colis en retard",
+          "10 à 100 k€",
+          "Manquement contractuel isolé",
+          "Réclamations, sans perte de client"
+        ],
+        [
+          "G3 Grave",
+          "1 à 3 jours, ou un site entier ; plus de 3 000 colis ; fuite de données de destinataires",
+          "100 k€ à 1,3 M€",
+          "Notification à la CNIL, contrôle, mise en demeure",
+          "Presse régionale ; client qui suspend ses commandes"
+        ],
+        [
+          "G4 Critique",
+          "Arrêt des livraisons de plus de 3 jours sur tout le réseau",
+          "Plus de 1,3 M€",
+          "Sanction lourde, mise en cause pénale",
+          "Perte d'un client de la grande distribution ; salarié atteint"
+        ]
+      ],
+      "widths": [
+        1.25,
+        2.6,
+        1.25,
+        1.9,
+        2
+      ],
+      "fills": [
+        [
+          "risk1",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "risk2",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "risk3",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "risk4",
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "note": "Test sur la panne de novembre 2024 : 9 h d'arrêt, 2 300 colis, 38 k€, tout sous les seuils de G3. Résultat G2, jugé juste par les directeurs.",
+      "note_style": "key",
+      "minutes": 2.5,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Une gravité n'a de sens que lue sur une échelle écrite à l'avance. Sans échelle, chacun note selon son intuition, et deux analyses du même risque divergent. Retenez la règle : l'échelle est définie avant toute cotation. La fiche méthode de l'ANSSI donne trois conseils : construire l'échelle avec les métiers, reprendre l'échelle de gestion des risques de l'organisation si elle existe, et choisir quatre niveaux, cinq seulement pour les organisations dont une crise toucherait tout un secteur ou une mission de l'État."
+        },
+        {
+          "cue": "Bandeau d'introduction et colonne « Finances »",
+          "text": "Chez Kestrel, l'échelle a été construite avec la directrice administrative et financière et le directeur des opérations. Les seuils financiers sont ancrés sur la marge opérationnelle de 2025 : environ 1,3 million d'euros, soit 3,1 % de 42 millions. G4 commence donc à une année de marge. Ce n'est pas un chiffre au hasard : c'est un seuil que la direction comprend immédiatement. Les seuils d'activité, eux, sont ancrés sur l'heure de départ des camions et sur la panne de novembre 2024. Autrement dit, chaque frontière entre deux niveaux correspond à quelque chose que les directeurs ont déjà vécu ou déjà chiffré. C'est cela, une échelle propre à l'organisation : elle parle la langue de ceux qui l'utiliseront."
+        },
+        {
+          "cue": "Colonnes d'impact, lignes G1 à G4",
+          "text": "Quatre dimensions ici : les livraisons, les finances, le juridique, l'image et les personnes. Chaque case est un descripteur concret, chiffré quand c'est possible. Et la règle de lecture est simple : une seule dimension atteinte suffit à classer l'événement à ce niveau. Une fuite de données de destinataires est G3, même si elle ne coûte rien sur le moment. Pour Medisecure, attention : la grille du D2 impose cinq dimensions, dont la santé des patients. Vous ne pouvez pas reprendre ces quatre colonnes."
+        },
+        {
+          "cue": "Bandeau sombre du bas",
+          "text": "Dernière étape, indispensable : tester l'échelle sur un incident réel. La panne de novembre 2024 donne G2 : 9 heures, moins d'une journée, 2 300 colis, 38 000 euros, tout reste sous les seuils de G3. Les directeurs ont jugé ce niveau juste. Si le test avait donné G4, l'échelle aurait été trop sensible et aurait écrasé toutes les différences. Vous ferez le même test cet après-midi avec l'incident de Medisecure."
+        }
+      ],
+      "maxs": 14
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 5 · Vraisemblance et matrice · Kestrel Logistique",
+      "title": "La matrice croise les échelles et dit qui peut accepter",
+      "header": [
+        "Gravité / Vraisemblance",
+        "V1",
+        "V2",
+        "V3",
+        "V4"
+      ],
+      "rows": [
+        [
+          "G4 Critique",
+          "Élevé",
+          "Critique",
+          "Critique",
+          "Critique"
+        ],
+        [
+          "G3 Grave",
+          "Moyen",
+          "Élevé",
+          "Élevé",
+          "Critique"
+        ],
+        [
+          "G2 Significative",
+          "Faible",
+          "Moyen",
+          "Moyen",
+          "Élevé"
+        ],
+        [
+          "G1 Mineure",
+          "Faible",
+          "Faible",
+          "Faible",
+          "Moyen"
+        ]
+      ],
+      "widths": [
+        1.8,
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxs": 20,
+      "fills": [
+        [
+          null,
+          "risk3",
+          "risk4",
+          "risk4",
+          "risk4"
+        ],
+        [
+          null,
+          "risk2",
+          "risk3",
+          "risk3",
+          "risk4"
+        ],
+        [
+          null,
+          "risk1",
+          "risk2",
+          "risk2",
+          "risk3"
+        ],
+        [
+          null,
+          "risk1",
+          "risk1",
+          "risk1",
+          "risk2"
+        ]
+      ],
+      "side": {
+        "tag": "Échelle de vraisemblance",
+        "head": "Ce que l'attaquant doit faire",
+        "body": [
+          "V1 Peu vraisemblable : lever plusieurs protections efficaces.",
+          "V2 Vraisemblable : savoir-faire réel, plusieurs faiblesses combinées.",
+          "V3 Très vraisemblable : faiblesse connue, outils disponibles.",
+          "V4 Quasi certain : à la portée d'un attaquant peu qualifié, ou déjà arrivé."
+        ]
+      },
+      "note": "Seuil : faible, accepté par le responsable de l'infrastructure ; moyen, par le comité de direction avec un motif écrit ; élevé ou critique, traité.",
+      "note_h": 52,
+      "minutes": 2.5,
+      "notes": [
+        {
+          "cue": "Carte sombre de droite : V1 à V4",
+          "text": "Passons à la vraisemblance. Le point de méthode est le suivant : on ne décrit pas une probabilité chiffrée, on décrit ce que l'attaquant doit faire pour réussir. V1, peu vraisemblable : il doit lever plusieurs protections efficaces, avec des moyens importants. V2, vraisemblable : l'attaque demande un vrai savoir-faire et la combinaison de plusieurs faiblesses. V3, très vraisemblable : la faiblesse est connue, documentée, et les outils existent. V4, quasi certain : un attaquant peu qualifié y arrive, ou le scénario s'est déjà produit. Les libellés reprennent ceux de l'échelle générique de l'ANSSI. Remarquez qu'aucun pourcentage n'apparaît. Dire « une chance sur dix » donnerait une fausse précision que personne ne pourrait justifier. Décrire l'effort de l'attaquant, en revanche, se vérifie : la faille est-elle publique, corrigée, exposée ?"
+        },
+        {
+          "cue": "Matrice, case G4 × V1 puis ligne G1",
+          "text": "La matrice croise les deux échelles et donne quatre niveaux de risque. Regardez-la bien : elle n'est pas symétrique. Une gravité G4 donne un risque élevé même peu vraisemblable, et critique dès qu'elle est vraisemblable. Une gravité G1, elle, ne dépasse jamais le niveau moyen, même quasi certaine. C'est un choix assumé, qui traduit l'aversion de Kestrel pour l'arrêt total de ses livraisons. Pour Medisecure, vous pouvez faire un autre choix, à condition de l'écrire et de le justifier."
+        },
+        {
+          "cue": "Bandeau du bas : le seuil d'acceptation",
+          "text": "La matrice ne suffit pas : il faut dire qui décide. C'est le seuil d'acceptation, fixé par la direction. Chez Kestrel, un risque faible peut être accepté par le responsable de l'infrastructure ; un risque moyen, par le comité de direction, avec un motif écrit ; un risque élevé ou critique doit être traité. Tant que son traitement est en cours, un risque élevé ne peut être accepté que temporairement, par le directeur général, avec une mesure compensatoire et une date de réexamen. Dans votre dossier, la matrice et ce seuil doivent figurer en section 3.1, avant le premier risque coté."
+        }
+      ]
+    },
+    {
+      "pattern": "study",
+      "kicker": "Chapitre 5 · Étude de document",
+      "title": "Un hôpital paralysé : lire une crise avec les critères de sécurité",
+      "source": "Document · cas réel résumé pour le cours à partir de la presse professionnelle, articles d'août à décembre 2022 (résumé)",
+      "document": [
+        "Dans la nuit du 20 au 21 août 2022, le centre hospitalier Sud Francilien (Corbeil-Essonnes, environ 1 000 lits) est victime d'un rançongiciel revendiqué par le groupe LockBit. L'hôpital refuse de payer.",
+        "Logiciels métier et une partie du stockage sont inaccessibles : retour au papier, urgences et chirurgie perturbées, patients instables orientés vers d'autres établissements, examens d'imagerie gravés sur CD.",
+        "L'établissement indique que l'attaque a touché les serveurs virtuels et environ 10 % de l'espace de stockage, sans compromettre les bases de données métier.",
+        "Fin septembre, environ 11 Go de données de patients, de personnels et de partenaires sont publiés. Une reprise « proche de la normale » est annoncée pour fin octobre. Le surcoût est estimé à environ 7 M€ par la presse : chiffre à vérifier avant de le citer."
+      ],
+      "questions": [
+        "Classez les conséquences selon les quatre critères DICT.",
+        "Quel niveau sur l'échelle de Kestrel adaptée à un hôpital ? Quelles dimensions faut-il ajouter ?",
+        "Quelles informations manquent pour décomposer l'incident en menace, vulnérabilité et bien support ?",
+        "Comparez avec l'incident de mars 2025 de Medisecure : qu'en déduisez-vous pour votre niveau G4 ?",
+        "Refuser de payer : quelle option de traitement, et quand aurait-elle dû être décidée ?"
+      ],
+      "minutes": 2.5,
+      "notes": [
+        {
+          "cue": "Document à gauche",
+          "text": "Nous terminons le chapitre 5 par une étude de document. C'est un cas réel, résumé dans le cours à partir de la presse professionnelle : la cyberattaque du centre hospitalier Sud Francilien, en août 2022. Je vous laisse cinq minutes pour lire la version complète, dans l'encadré ÉTUDE du chapitre 5, et pour noter une réponse courte à chacune des cinq questions. Travaillez seuls d'abord."
+        },
+        {
+          "cue": "Questions 1 et 2",
+          "text": "Puis nous faisons un tour de table rapide, une question par personne. Sur la première question, je veux entendre les quatre critères. La disponibilité saute aux yeux : logiciels inaccessibles, retour au papier, patients orientés ailleurs. La confidentialité aussi : 11 gigaoctets publiés. Mais cherchez l'intégrité et la traçabilité : le texte dit que les bases métier n'ont pas été compromises. Sur la deuxième, faites remarquer que l'échelle de Kestrel n'a pas de dimension « santé des personnes » au sens des soins : une échelle hospitalière doit l'ajouter, et c'est justement l'une des cinq dimensions exigées pour Medisecure."
+        },
+        {
+          "cue": "Questions 3 à 5",
+          "text": "La troisième question est la plus formatrice. Le texte ne dit rien de la porte d'entrée. Sans elle, impossible de nommer la vulnérabilité ni le bien support : on ne peut décrire que la menace et l'impact. Retenez-le : une décomposition incomplète se signale, elle ne s'invente pas. Pour la quatrième, je ne donne aucune réponse sur Medisecure : je vous demande seulement de comparer durée d'arrêt, exfiltration et coût rapporté à la taille de l'organisation. Sur la cinquième, laissez le débat s'ouvrir : refuser la rançon est une décision, mais elle se prépare avant la crise, pas pendant."
+        },
+        {
+          "cue": "Retour sur le titre",
+          "text": "Pour conclure la discussion, je fais le lien avec la suite. Cette étude montre trois choses que vous retrouverez dans votre dossier. Une crise réelle touche plusieurs critères à la fois. Une échelle de gravité doit avoir des dimensions propres au métier, ici la santé des patients. Et une décomposition honnête signale ce qu'elle ignore. Le chapitre 5 rappelle que ces chiffres viennent de la presse et des communiqués de l'établissement : si vous les citez, vérifiez-les et donnez la source."
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 5 · Fiche de travail",
+      "title": "Prenez la fiche FT 13 : coter quatre risques de Kestrel",
+      "minutes": 2,
+      "ft": "FT 13",
+      "name": "Coter un risque : échelles, matrice et options de traitement",
+      "duration": "60 minutes",
+      "consigne": [
+        "Mars 2026 : vous assistez Isabelle Roux, directrice administrative et financière, qui prépare le comité de direction.",
+        "Cotez quatre risques (paie, site web, StockFlow) avec les échelles de Kestrel en citant le descripteur, placez-les sur la matrice, appliquez le seuil d'acceptation et proposez une option de traitement avec son décideur.",
+        "Seul ou à deux, annexes 1 à 4."
+      ],
+      "livrable": [
+        "Vous savez justifier une cote par un descripteur et dire qui peut accepter un risque.",
+        "Complétez le « Je retiens » à la fin de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Deuxième fiche de la matinée : la FT 13. Elle vous fait manipuler les échelles et la matrice que nous venons de voir, avant que vous construisiez celles de Medisecure cet après-midi."
+        },
+        {
+          "cue": "Consigne",
+          "text": "Vous assistez Isabelle Roux, la directrice administrative et financière. Romain Chevalier lui a signalé quatre risques hors de l'étude en cours : deux sur la paie, un sur le site web, un sur StockFlow. Pour chacun, vous citez le descripteur qui justifie le niveau de gravité et de vraisemblance, vous placez le risque sur la matrice, puis vous choisissez une option de traitement et vous désignez qui décide. Soixante minutes, seuls ou à deux."
+        },
+        {
+          "cue": "Carte « À la fin de la fiche »",
+          "text": "Le piège à éviter : coter au jugé. Chaque niveau doit renvoyer à une phrase de l'échelle. Nous comparerons vos cotes ; quand elles divergent, c'est presque toujours un descripteur mal lu."
+        }
+      ]
+    },
+    {
+      "pattern": "section",
+      "kicker": "Chapitre 6",
+      "title": "Analyser les risques avec EBIOS Risk Manager",
+      "subtitle": "Conduire les ateliers 1 et 2 à partir de la cartographie : valeurs métier et biens supports, événements redoutés et gravité, socle, puis couples source de risque et objectif visé.",
+      "minutes": 1,
+      "notes": [
+        {
+          "cue": "Écran de chapitre",
+          "text": "Nous ouvrons le chapitre 6, le plus long du cours. Il met en œuvre tout ce que nous venons de voir avec la méthode de l'ANSSI. Il suit une seule étude, conduite sur Kestrel, du premier au cinquième atelier : vous verrez comment les résultats d'un atelier deviennent les entrées du suivant. Ce matin, nous voyons les principes et les ateliers 1 et 2 ; demain, les ateliers 3 à 5."
+        },
+        {
+          "cue": "Sous-titre",
+          "text": "Un avertissement dès maintenant. Les tableaux du chapitre sont simplifiés, et les consignes précisent que les livrables complets du guide de l'ANSSI ne sont pas exigés. Mais ces tableaux ne sont pas facultatifs : chaque colonne porte une information dont l'atelier suivant a besoin. Et l'étude Kestrel montre une manière de faire, pas la réponse. Un passage qui reprend la structure et les formulations de Kestrel en changeant seulement les noms ne rapporte aucun point."
+        }
+      ]
+    },
+    {
+      "pattern": "figure",
+      "kicker": "Chapitre 6 · Origine et principes de la méthode",
+      "title": "Cinq ateliers : les sorties de l'un nourrissent le suivant",
+      "fig": "c06-cinq-ateliers",
+      "side": {
+        "tag": "Principes",
+        "head": "EBIOS Risk Manager",
+        "body": [
+          "Méthode de l'ANSSI, version 1.5 en vigueur (guide de septembre 2024).",
+          "Approche par conformité (le socle), puis par scénarios (la menace ciblée).",
+          "Deux cycles : stratégique (quelques années), opérationnel (souvent annuel)."
+        ]
+      },
+      "note": "Ateliers 1 à 5 : sections 3.2 à 3.6 ; les tableaux complets vont en annexe E.",
+      "note_style": "dossier",
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Carte de droite : la méthode",
+          "text": "EBIOS signifie « Expression des besoins et identification des objectifs de sécurité ». La première méthode date de 1995. EBIOS 2010 était centrée sur les biens et leurs vulnérabilités. EBIOS Risk Manager, publiée par l'ANSSI en octobre 2018 avec le Club EBIOS, a renouvelé la démarche en partant de la menace et de l'écosystème. La version en vigueur est la 1.5, annoncée en mars 2024 ; le guide téléchargeable est daté de septembre 2024. Certains sites commerciaux parlent d'une version 2 : aucune source officielle ne la confirme. Citez donc la 1.5, avec sa référence exacte, en section 3.1. Le guide est complété par des fiches méthodes, mises à jour régulièrement, qui détaillent chaque étape avec des exemples."
+        },
+        {
+          "cue": "Carte de droite : conformité, puis scénarios",
+          "text": "La méthode combine deux approches. L'approche par conformité vérifie d'abord le socle : elle traite les risques courants par les bonnes pratiques. L'approche par scénarios traite ensuite les attaquants motivés, qui contournent le socle. L'ANSSI le représente par une pyramide : la conformité protège contre la menace fréquente et peu élaborée, les scénarios servent pour la menace plus rare et plus sophistiquée."
+        },
+        {
+          "cue": "Schéma des cinq ateliers et flèches en pointillés",
+          "text": "Le schéma reprend la figure du chapitre 6. Atelier 1 : que protège-t-on, et quelles règles s'appliquent déjà ? Atelier 2 : qui pourrait attaquer, et pour obtenir quoi ? Atelier 3 : par quels chemins, y compris par l'écosystème ? Atelier 4 : comment, concrètement, et avec quelle facilité ? Atelier 5 : que décide-t-on ? Regardez les flèches en pointillés : la gravité de l'atelier 1 sert à l'atelier 3, ses biens supports à l'atelier 4, ses écarts au socle à l'atelier 5. Et les deux boucles de retour : le cycle stratégique revisite toute l'étude à un rythme de quelques années, le cycle opérationnel revoit les scénarios et les mesures, souvent chaque année."
+        },
+        {
+          "cue": "Bandeau « Pour votre dossier D2 »",
+          "text": "Pour le dossier, la correspondance est directe : un atelier, une section. L'atelier 1 remplit la section 3.2, et ainsi de suite jusqu'à l'atelier 5, section 3.6. La partie 3 présente les résultats et les choix ; les tableaux complets vont en annexe E. Pour outiller la méthode, un tableur et votre outil de cartographie suffisent. L'ANSSI labellise des logiciels, mais aucun ne réfléchira à votre place."
+        }
+      ]
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 6 · Atelier 1 · Cadrage et socle · Kestrel Logistique",
+      "title": "Atelier 1 : ce que l'on protège, et à quel point c'est grave",
+      "intro": "Événement redouté : atteinte à un critère de sécurité d'une valeur métier, formulée du point de vue du métier ; ni l'attaquant, ni le moyen.",
+      "intro_h": 40,
+      "header": [
+        "Événement redouté",
+        "Valeur métier",
+        "Critère",
+        "Gravité"
+      ],
+      "rows": [
+        [
+          "ER1 Tournées impossibles à affecter pendant deux à trois jours",
+          "VM1",
+          "Disponibilité",
+          "G3"
+        ],
+        [
+          "ER2 Livraisons, réception des ordres et facturation arrêtées sur tout le réseau plus de 3 jours",
+          "VM1, VM2, VM5",
+          "Disponibilité",
+          "G4"
+        ],
+        [
+          "ER3 Ordres de transport EDI perdus ou altérés",
+          "VM2",
+          "Intégrité",
+          "G3"
+        ],
+        [
+          "ER4 Données des destinataires divulguées",
+          "VM4",
+          "Confidentialité",
+          "G3"
+        ],
+        [
+          "ER5 Virement à un faux fournisseur",
+          "VM5",
+          "Intégrité",
+          "G3"
+        ],
+        [
+          "ER6 Preuves de livraison falsifiées",
+          "VM3",
+          "Intégrité, traçabilité",
+          "G2"
+        ]
+      ],
+      "widths": [
+        3.6,
+        1.3,
+        1.4,
+        0.8
+      ],
+      "fills": [
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk4"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk3"
+        ],
+        [
+          null,
+          null,
+          null,
+          "risk2"
+        ]
+      ],
+      "side": {
+        "tag": "Valeurs métier",
+        "head": "VM1 à VM5",
+        "body": [
+          "VM1 Planifier les tournées",
+          "VM2 Recevoir les ordres de transport",
+          "VM3 Livrer et prouver la livraison",
+          "VM4 Données des destinataires",
+          "VM5 Facturer le client et payer les fournisseurs"
+        ]
+      },
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Carte de droite : VM1 à VM5",
+          "text": "L'atelier 1 dit ce que l'on protège, à quel point c'est important, et quelles règles s'appliquent déjà. On commence par les valeurs métier, tirées de la vue métier : cinq à dix processus ou informations suffisent. Chez Kestrel, le groupe de travail en a retenu cinq, que vous voyez à droite : quatre processus et une information, les données des destinataires. Les valeurs métier sont sous la responsabilité des métiers ; les biens supports, sous celle de la DSI ou d'un tiers."
+        },
+        {
+          "cue": "Toujours la carte de droite : les biens supports",
+          "text": "On relie ensuite chaque valeur métier à ses biens supports, en suivant la matrice processus × applications, puis la vue d'infrastructure. Par exemple, VM1 « Planifier les tournées » repose sur APP-01 RoutePro et sa base SQL Server 2016, sur SRV-01 et SRV-02, les deux serveurs de virtualisation, sur APP-09 Planification des tournées, et sur les planificateurs eux-mêmes : une personne est un bien support. Et la salle SAL-01, le NAS STO-01 et la passerelle SEC-01 servent toutes les valeurs métier. Un bien support partagé est un signal d'alerte : il concentre le risque. Règle du dossier : chaque bien support est un objet de votre cartographie, sous le même nom."
+        },
+        {
+          "cue": "Bandeau d'introduction et colonne « Événement redouté »",
+          "text": "Viennent ensuite les événements redoutés. Lisez la formulation : « Tournées impossibles à affecter pendant deux à trois jours ». Pas « piratage de RoutePro ». L'événement redouté décrit la conséquence pour le métier, avec le critère atteint ; il ne dit ni qui attaque ni comment. Écrire une attaque à la place d'une conséquence est l'une des erreurs les plus fréquentes du chapitre 6."
+        },
+        {
+          "cue": "Colonne « Gravité », lignes ER1 et ER2",
+          "text": "La gravité se lit sur l'échelle, avec les métiers, et elle reste attachée à l'événement dans tous les ateliers suivants. Le cours raconte la discussion sur ER1. Le directeur des opérations veut G4 : « sans RoutePro, on ne livre plus ». Romain Chevalier relit l'échelle avec lui. Deux jours d'arrêt dépassent G2 et correspondent exactement au descripteur de G3. G4 suppose un arrêt de plus de trois jours sur tout le réseau : c'est ER2. Le groupe retient G3 pour ER1, G4 pour ER2. Et la discussion fait apparaître un mode dégradé sur Excel, écrit nulle part : il est noté comme mesure existante à formaliser. L'atelier se termine par le socle et ses écarts, ceux que nous avons vus tout à l'heure."
+        }
+      ],
+      "maxs": 14
+    },
+    {
+      "pattern": "table",
+      "kicker": "Chapitre 6 · Atelier 2 · Sources de risque · Kestrel Logistique",
+      "title": "Atelier 2 : qui attaquerait, pour obtenir quoi, et le croit-on ?",
+      "intro": "Motivation, ressources, activité : chaque critère de 1 à 3. Pertinence élevée de 8 à 9, moyenne de 6 à 7, faible en dessous ; moyenne ou élevée, le couple est retenu.",
+      "intro_h": 40,
+      "header": [
+        "Couple SR/OV",
+        "M · R · A",
+        "Pertinence",
+        "Retenu",
+        "Justification"
+      ],
+      "rows": [
+        [
+          "SR1 Groupe cybercriminel / extorquer une rançon en chiffrant le SI",
+          "3 · 3 · 3",
+          "Élevée",
+          "Oui",
+          "PME et ETI parmi les premières victimes (panorama de l'ANSSI)"
+        ],
+        [
+          "SR2 Escroc / détourner un paiement par usurpation d'un fournisseur",
+          "3 · 2 · 3",
+          "Élevée",
+          "Oui",
+          "Tentative réelle déjouée de justesse en septembre 2025"
+        ],
+        [
+          "SR3 Cybercriminel / voler les données des destinataires pour les revendre",
+          "2 · 2 · 2",
+          "Moyenne",
+          "Oui",
+          "2,5 millions de livraisons par an ; SMS « colis en attente »"
+        ],
+        [
+          "SR4 Concurrent / obtenir les tarifs et la liste des clients",
+          "2 · 1 · 1",
+          "Faible",
+          "Non",
+          "L'information circule déjà par les commerciaux ; aucun indice d'espionnage"
+        ],
+        [
+          "SR5 Ancien salarié mécontent / saboter les tournées",
+          "2 · 1 · 1",
+          "Faible",
+          "Non",
+          "Traité par le socle : comptes désactivés au départ"
+        ],
+        [
+          "SR6 Militant / perturber les livraisons",
+          "1 · 2 · 1",
+          "Faible",
+          "Non",
+          "Aucune exposition médiatique ou politique"
+        ]
+      ],
+      "widths": [
+        3.2,
+        1,
+        1.1,
+        0.8,
+        3
+      ],
+      "fills": [
+        [
+          null,
+          null,
+          "risk4",
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          "risk4",
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          "risk2",
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          "risk1",
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          "risk1",
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          "risk1",
+          null,
+          null
+        ]
+      ],
+      "note": "Un couple écarté s'écrit avec son motif : la question a été posée. Discuté par la DAF, SR5 a ajouté un écart au socle.",
+      "minutes": 3,
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "L'atelier 2 identifie qui pourrait vouloir atteindre les valeurs métier, et dans quel but. On ne parle pas encore de moyens techniques. Une source de risque est une personne, un groupe ou une organisation susceptible d'engendrer un risque : groupe cybercriminel, escroc, concurrent, salarié malveillant, militant, État. L'objectif visé est ce qu'elle cherche : extorquer, revendre, saboter, se venger. On raisonne sur le couple, noté SR/OV, parce qu'une même source peut poursuivre plusieurs objectifs. Les entrées sont les valeurs métier, les incidents passés et la veille sur la menace, par exemple le panorama de la cybermenace de l'ANSSI, que vous avez rencontré en S1."
+        },
+        {
+          "cue": "Bandeau d'introduction et colonne « M · R · A »",
+          "text": "La démarche a trois temps. On dresse d'abord une liste large, sans censure. On évalue ensuite chaque couple selon des critères explicites : la motivation de la source, ses ressources, c'est-à-dire son argent, ses compétences et ses outils, et son activité, ce que l'on sait de ses attaques récentes contre des organisations comparables. Chez Kestrel, chaque critère est coté de 1 à 3, et la somme donne la pertinence. On retient enfin les couples les plus pertinents, en général trois à cinq."
+        },
+        {
+          "cue": "Lignes SR1 à SR3 et colonne « Justification »",
+          "text": "Regardez la dernière colonne, c'est elle qui rapporte les points. Chaque couple retenu s'appuie sur un fait ou une source. SR1, le rançongiciel : le panorama de l'ANSSI compte les PME et les ETI parmi les premières victimes, et un arrêt de RoutePro au-delà de 2 heures pousse à payer. SR2, l'escroc : la tentative de septembre 2025 est un fait vécu, la meilleure justification qui soit. SR3 : les données de 2,5 millions de livraisons par an se revendent pour des campagnes de SMS frauduleux « colis en attente »."
+        },
+        {
+          "cue": "Lignes SR4 à SR6, puis bandeau du bas",
+          "text": "Un couple écarté n'est pas oublié : on écrit pourquoi. C'est la preuve que la question a été posée. Et l'exclusion peut se discuter. Isabelle Roux, la DAF, conteste celle de SR5 : des chauffeurs licenciés auraient gardé leur accès VPN. Romain Chevalier vérifie : c'est exact pour l'un des trois. Le groupe maintient la pertinence faible, mais il ajoute un écart au socle, « comptes non désactivés au départ », qui sera traité à l'atelier 5. L'atelier 2 a enrichi l'atelier 1 : la méthode est itérative. Question pour vous : dans votre entreprise, qui vérifie que les comptes sont fermés au départ d'un salarié ?"
+        }
+      ]
+    },
+    {
+      "pattern": "fiche",
+      "kicker": "Chapitre 6 · Fiche de travail",
+      "title": "Prenez la fiche FT 14 : ateliers 1 et 2 sur le e-commerce",
+      "minutes": 2,
+      "ft": "FT 14",
+      "name": "EBIOS RM, ateliers 1 et 2 : ce que l'on protège et qui menace",
+      "duration": "75 minutes",
+      "consigne": [
+        "Avril 2026 : Hélène Garnier lance une étude EBIOS RM complémentaire sur l'activité e-commerce de Kestrel (stockage, préparation, facturation) ; vous préparez les tableaux.",
+        "Reliez les valeurs métier à leurs biens supports, formulez et cotez des événements redoutés, puis évaluez des couples source de risque et objectif visé, en justifiant chaque sélection par des faits.",
+        "Seul ou à deux, annexes 1 à 5."
+      ],
+      "livrable": [
+        "Vous savez mener les ateliers 1 et 2 sur un périmètre neuf, sans recopier l'exemple du cours.",
+        "Complétez le « Je retiens » à la fin de la fiche."
+      ],
+      "notes": [
+        {
+          "cue": "Titre",
+          "text": "Avant de lancer les ateliers sur Medisecure, une dernière fiche ce matin : la FT 14. Elle vous fait refaire les ateliers 1 et 2 sur Kestrel, mais sur un autre périmètre que celui de l'exemple : l'activité e-commerce, à l'entrepôt de Moirans."
+        },
+        {
+          "cue": "Consigne",
+          "text": "Hélène Garnier lance une étude complémentaire ; Romain Chevalier anime, et vous préparez les tableaux. Vous identifiez les valeurs métier, vous les reliez à des biens supports nommés comme dans la cartographie, vous formulez les événements redoutés et vous cotez leur gravité. Puis vous évaluez les couples source de risque et objectif visé, et vous justifiez par des faits ceux que vous retenez et ceux que vous écartez. Soixante-quinze minutes, seuls ou à deux."
+        },
+        {
+          "cue": "Carte « À la fin de la fiche »",
+          "text": "Vérifiez une chose avant de rendre : aucun événement redouté ne doit nommer l'attaquant ni le moyen. Si c'est le cas, il décrit un scénario, pas une conséquence. Ensuite, vous ferez la même démarche sur Medisecure."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 5 · Atelier de l'après-midi",
+      "title": "Premier atelier : les échelles de Medisecure et le socle",
+      "name": "Échelles et cinq écarts au socle",
+      "duration": "2 h 30",
+      "consigne": [
+        "Échelle de gravité à quatre niveaux, décrite pour la santé des patients, l'activité, les finances, la conformité et l'image.",
+        "Seuils ancrés sur « Carte d'identité », « L'incident de mars 2025 » et « Continuité d'activité : ce que demandent les métiers » ; test sur l'incident de Lens.",
+        "Échelle de vraisemblance, matrice et seuil d'acceptation : qui accepte quel niveau ?",
+        "Référentiels du socle (« Conformité ») et cinq écarts sourcés ; pour NIS2, ce qui reste à vérifier."
+      ],
+      "livrable": "Deux tableaux d'échelles, une matrice avec son seuil, un tableau des référentiels et un tableau de cinq écarts sourcés.",
+      "dossier": "D2 · section 3.1 et socle de la section 3.2.",
+      "minutes": 2,
+      "notes": [
+        {
+          "cue": "Titre et consigne",
+          "text": "Place aux ateliers. Le premier est l'exercice du chapitre 5. Vous construisez l'échelle de gravité de Medisecure à quatre niveaux, avec cinq dimensions : santé des patients, activité, finances, conformité, image. Ancrez vos seuils sur des faits du dossier de présentation, dans les sections citées à l'écran. Puis testez l'échelle sur l'incident de Lens : quel niveau obtenez-vous, et ce niveau vous paraît-il juste ? Ensuite viennent l'échelle de vraisemblance, la matrice et le seuil d'acceptation, en précisant qui peut accepter quoi chez Medisecure."
+        },
+        {
+          "cue": "Dernière ligne de la consigne",
+          "text": "Dans un second temps, vous listez les référentiels du socle à partir de la section « Conformité », et vous relevez cinq écarts. Pour chacun : l'exigence, le constat avec sa section, l'état d'application. Pour NIS2, dites ce qui reste à vérifier."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Vous travaillez seuls : ce sont vos échelles, elles serviront dans tout le dossier et au pitch d'étape. Vous pouvez comparer vos dimensions avec votre voisin au bout d'une heure. Je passe dans les rangs et je vérifie trois choses : que chaque niveau de gravité a un descripteur pour les cinq dimensions, que vos seuils renvoient à un chiffre du dossier de présentation, et que votre test sur Lens est écrit. Je ne vous dirai pas quel niveau vous devez trouver. Si vous terminez vos échelles avant la fin de l'après-midi, passez au socle, puis à l'atelier suivant. Sinon, terminez-les en priorité en intersession : sans elles, aucune gravité de l'atelier 1 ne pourra être justifiée, et la matrice comme le seuil d'acceptation doivent être définis avant d'être utilisés."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 6 · Atelier de l'après-midi",
+      "title": "Deuxième atelier : valeurs métier et événements redoutés",
+      "name": "Atelier 1 d'EBIOS Risk Manager sur Medisecure",
+      "duration": "3 h",
+      "consigne": [
+        "Au moins cinq valeurs métier tirées de la vue métier, dont une liée aux soins et une à la télésurveillance.",
+        "Au moins dix biens supports pris dans votre cartographie, sous le même nom (« Parc applicatif », « La plateforme Medisecure Connect », « Infrastructure, réseau et postes de travail »).",
+        "Au moins six événements redoutés, du point de vue du métier, avec leurs impacts et leur gravité lue sur l'échelle.",
+        "Quels biens supports servent plusieurs valeurs métier ? Quel événement atteint la santé des patients ?"
+      ],
+      "livrable": "Un tableau des valeurs métier et de leurs biens supports, un tableau des événements redoutés avec gravité justifiée, les écarts au socle repris.",
+      "dossier": "D2 · section 3.2 et annexe E.",
+      "minutes": 2,
+      "notes": [
+        {
+          "cue": "Titre et deux premières lignes de la consigne",
+          "text": "Deuxième atelier : l'atelier 1 d'EBIOS sur Medisecure. Partez de votre vue métier et des sections « Activités et processus métier » et « Données et échanges ». Choisissez au moins cinq valeurs métier, dont au moins une liée aux soins et une liée à la télésurveillance. Reliez-les à au moins dix biens supports pris dans votre cartographie. Si un bien d'infrastructure n'est pas encore dessiné, créez-le d'abord dans votre outil, avec son nom définitif, puis reprenez ce nom ici."
+        },
+        {
+          "cue": "Troisième et quatrième lignes de la consigne",
+          "text": "Formulez ensuite au moins six événements redoutés, comme des conséquences pour le métier, jamais comme des attaques. Pour chacun, décrivez les impacts et lisez la gravité sur l'échelle que vous venez de construire, en citant le descripteur qui la justifie. Les deux questions finales sont là pour vous faire réfléchir : un bien support partagé concentre le risque, et un événement qui touche la santé des patients n'a pas le même poids qu'un événement qui touche seulement l'activité."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Vous travaillez seuls. En passant, je vérifie trois choses : que vos biens supports portent exactement le nom de vos objets de cartographie, que vos événements redoutés sont écrits du point de vue du métier, et que chaque gravité cite un descripteur de votre échelle. Si je lis « piratage » dans la colonne des événements redoutés, je vous le signalerai. Un conseil pour l'ordre de travail : écrivez d'abord vos valeurs métier et vos biens supports, montrez-les à votre voisin, puis passez aux événements redoutés. Le regard d'un autre repère vite un bien support qui manque ou un nom qui ne correspond pas à la cartographie. Le tableau des écarts au socle, vous l'avez déjà : il est repris tel quel."
+        }
+      ]
+    },
+    {
+      "pattern": "exercise",
+      "kicker": "Chapitre 6 · Atelier de l'après-midi",
+      "title": "Troisième atelier : les sources de risque de Medisecure",
+      "name": "Atelier 2 d'EBIOS Risk Manager sur Medisecure",
+      "duration": "1 h 30",
+      "consigne": [
+        "Au moins cinq couples source de risque et objectif visé : données de santé, interruption des soins contre rançon, usages non encadrés.",
+        "Évaluation de chaque couple (motivation, ressources, activité) avec un barème écrit.",
+        "Au moins trois couples retenus, chacun justifié par un fait (« L'incident de mars 2025 », « La veille aujourd'hui ») ou une source citée en annexe H.",
+        "Pourquoi des données de santé intéressent-elles davantage un attaquant que des adresses de livraison ?"
+      ],
+      "livrable": "Un tableau d'évaluation des couples, avec la justification de chaque choix et de chaque exclusion.",
+      "dossier": "D2 · section 3.3 et annexe E.",
+      "minutes": 1.5,
+      "notes": [
+        {
+          "cue": "Titre et consigne",
+          "text": "Troisième atelier, le plus court : l'atelier 2. Dressez une liste d'au moins cinq couples source de risque et objectif visé. Pensez aux attaquants qui visent les données de santé, à ceux qui veulent interrompre les soins pour obtenir une rançon, et à ceux qui exploitent les usages non encadrés. Évaluez chaque couple avec la motivation, les ressources et l'activité, selon un barème que vous écrivez avant de coter, en section 3.1."
+        },
+        {
+          "cue": "Troisième ligne de la consigne",
+          "text": "Retenez-en au moins trois, et justifiez chaque choix par un fait du dossier de présentation, ou par une source publique citée en annexe H, comme le panorama de la cybermenace de l'ANSSI ou l'observatoire du CERT Santé. Justifiez aussi chaque exclusion. La dernière question vous aide à argumenter : réfléchissez à la valeur des données pour celui qui les vole. Et souvenez-vous de l'exemple de Kestrel : un couple écarté peut révéler un écart au socle. Si cela vous arrive, ajoutez cet écart à votre tableau de l'atelier 1 : c'est le caractère itératif de la méthode, et c'est un signe de rigueur."
+        },
+        {
+          "cue": "Carte « Livrable »",
+          "text": "Si vous n'avez pas le temps de commencer cet atelier aujourd'hui, ce n'est pas grave : il se termine en autonomie. Mais avant de partir, relisez votre échelle : c'est elle que tout le reste utilisera. Demain, nous continuons avec les ateliers 3 à 5."
+        }
+      ]
+    }
+  ]
+}

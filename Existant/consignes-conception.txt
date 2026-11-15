@@ -1,0 +1,254 @@
+Dossier de Conception d'Application - MediSecure
+Version 1.0 - 2025
+
+Objectif du dossier : Élaborer un dossier de conception détaillé pour la plateforme MediSecure, un système de gestion des dossiers patients et de planification des rendez-vous médicaux, en respectant les meilleures pratiques architecturales et les exigences de sécurité du secteur médical.
+Contexte du projet
+MediSecure est une entreprise de santé qui souhaite moderniser son système d'information pour améliorer la gestion des dossiers patients et la planification des rendez-vous. L'application actuelle souffre de nombreux problèmes techniques et fonctionnels :
+
+Architecture monolithique vieillissante avec un couplage fort entre les composants
+Dette technique importante (versions Python disparates, conflits de dépendances)
+Performances insuffisantes et problèmes de synchronisation
+Sécurité non conforme aux standards actuels du secteur médical
+Non-respect des principes SOLID et absence de patterns architecturaux
+Couverture de tests insuffisante (moins de 40%)
+La nouvelle plateforme devra répondre à ces défis tout en garantissant un haut niveau de sécurité, de performance et de conformité réglementaire (RGPD, HDS).
+
+Instructions générales
+Format attendu
+Volume minimal : 15 pages (sans compter les annexes)
+Format : Document structuré selon le plan fourni
+Langue : Français
+Schémas : Diagrammes UML, schémas d'architecture, etc.
+Références : Citations des sources utilisées
+Critères d'évaluation
+Pertinence des choix architecturaux et leur justification
+Application correcte des patterns de conception
+Prise en compte des exigences de sécurité et de conformité
+Qualité des schémas et diagrammes
+Cohérence globale de la solution proposée
+Clarté et structure du document
+Important : Ce dossier doit être professionnel et rigoureux. Il constitue la documentation technique de référence sur laquelle s'appuieront les équipes de développement. Veillez à justifier chacun de vos choix techniques et à illustrer vos propos avec des diagrammes et schémas appropriés.
+Plan détaillé du dossier
+Votre dossier devra suivre le plan ci-dessous. Chaque section est accompagnée d'indications sur son contenu attendu.
+
+1. Architecture Logicielle
+1.1 Analyse de l'Existant
+Analysez en détail le système actuel de MediSecure, en identifiant les problématiques principales et la dette technique accumulée.
+
+État des lieux de l'architecture existante
+Problèmes techniques identifiés
+Impacts sur les utilisateurs et le métier
+Conseil : Utilisez l'architecture présentée dans le document architecture_medisecure.pdf comme point de départ pour votre analyse.
+1.2 Architecture Hexagonale (Ports & Adapters)
+Présentez l'architecture hexagonale et justifiez son choix pour MediSecure.
+
+Principes fondamentaux de l'architecture hexagonale
+Avantages pour le contexte médical
+Structure de projet proposée
+Diagramme d'architecture hexagonale appliquée à MediSecure
+1.3 Bounded Contexts & Domain-Driven Design
+Décomposez l'application en bounded contexts selon les principes du DDD.
+
+Identification des bounded contexts (au moins 4)
+Entités et aggrégats pour chaque contexte
+Schéma des relations entre contexts
+Invariants de domaine à respecter
+2. Design Patterns
+Présentez les patterns de conception que vous allez utiliser dans l'application MediSecure.
+
+2.1 Patterns Créationnels
+Abstract Factory (pour la création d'entités métier)
+Builder (pour documents médicaux complexes)
+Singleton (services partagés)
+2.2 Patterns Structurels
+Adapter (intégration avec systèmes legacy)
+Façade (simplification des interfaces complexes)
+Proxy (contrôle d'accès aux dossiers médicaux)
+2.3 Patterns Comportementaux
+Observer (notifications automatiques)
+Strategy (règles de facturation variables)
+Chain of Responsibility (workflow médical)
+Attendu : Pour chaque pattern, expliquez :
+Son principe général
+Comment vous l'appliquez spécifiquement dans MediSecure
+Les avantages qu'il apporte dans ce contexte
+Un exemple de code ou un diagramme illustrant son implémentation
+3. Accessibilité
+Décrivez comment vous allez garantir l'accessibilité de l'application pour tous les utilisateurs.
+
+3.1 Principes d'accessibilité
+Présentez les principes WCAG 2.1 (niveau AA) et leur application dans MediSecure.
+
+3.2 Implémentation technique
+Structures HTML sémantiques
+Contraste et lisibilité
+Navigation au clavier
+Compatibilité avec les technologies d'assistance
+3.3 Tests d'accessibilité
+Décrivez la stratégie et les outils de test d'accessibilité que vous allez mettre en place.
+
+4. APIs & Intégration avec les Systèmes Externes
+4.1 Architecture des APIs
+Présentez l'architecture API de MediSecure basée sur les principes REST.
+
+Principes de conception
+Formats d'échange
+Versioning
+Documentation (OpenAPI/Swagger)
+4.2 Intégration avec les Systèmes Externes
+Décrivez les intégrations avec les systèmes externes :
+
+Laboratoires d'analyses (HL7 FHIR)
+Assurances
+Imagerie médicale (DICOM)
+Pharmacies (ePrescription)
+4.3 Implémentation du Pattern Adapter
+Détaillez l'utilisation du pattern Adapter pour faciliter ces intégrations.
+
+Fournissez un exemple de code illustrant l'implémentation d'un adaptateur pour un système externe.
+
+5. Protection des Données & RGPD
+5.1 Principes Fondamentaux
+Présentez les principes RGPD appliqués à MediSecure :
+
+Privacy by Design
+Minimisation des données
+Consentement explicite
+Droit à l'oubli
+Portabilité des données
+5.2 Modélisation de la Gestion des Données Personnelles
+Pseudonymisation
+Traçabilité
+Gestion des consentements
+Mise en œuvre des droits des personnes
+5.3 Analyse d'Impact sur la Protection des Données (AIPD)
+Réalisez une AIPD simplifiée pour MediSecure :
+
+Identification des risques principaux
+Mesures d'atténuation
+Évaluation de l'impact résiduel
+6. DevSecOps
+6.1 Principes DevSecOps appliqués
+Expliquez comment vous intégrez la sécurité dans le cycle de développement :
+
+Automatisation des tests de sécurité
+Analyse statique et dynamique du code
+Gestion des dépendances
+Formation et sensibilisation
+6.2 Pipeline de Sécurité
+Détaillez le pipeline CI/CD intégrant les contrôles de sécurité :
+
+SAST (Static Application Security Testing)
+DAST (Dynamic Application Security Testing)
+SCA (Software Composition Analysis)
+Tests de pénétration automatisés
+6.3 Authentification & Autorisation
+Présentez le système d'authentification et d'autorisation :
+
+Authentification multi-facteurs
+Gestion des sessions (JWT)
+RBAC (Role-Based Access Control)
+Contrôles contextuels
+Point critique : La sécurité est particulièrement importante dans le contexte médical. Assurez-vous de couvrir tous les aspects de la sécurité des données de santé et de respecter les exigences HDS (Hébergeur de Données de Santé).
+7. Plan de Reprise d'Activité (PRA)
+7.1 Objectifs de Continuité
+Définissez les objectifs de continuité de service :
+
+RTO (Recovery Time Objective)
+RPO (Recovery Point Objective)
+Disponibilité globale (99,9%)
+Identification des services critiques
+7.2 Architecture Haute Disponibilité
+Présentez l'architecture de haute disponibilité :
+
+Infrastructure redondante (multi-zones)
+Load balancing
+Clustering des bases de données
+Monitoring et alerting
+7.3 Niveaux de Criticité et Services Essentiels
+Établissez une classification des services par niveau de criticité :
+
+Niveau	Services	RTO	RPO	Stratégie
+Critique (P1)	À compléter	À compléter	À compléter	À compléter
+Important (P2)	À compléter	À compléter	À compléter	À compléter
+Standard (P3)	À compléter	À compléter	À compléter	À compléter
+7.4 Tests et Validation du PRA
+Présentez la stratégie de test du PRA :
+
+Tests unitaires
+Tests de basculement
+Exercices de table
+Exercices complets
+8. Big Data & Analyse Prédictive
+8.1 Architecture Big Data
+Présentez l'architecture Big Data pour MediSecure :
+
+Collecte et ingestion des données
+Stockage et traitement
+Analyse et modèles prédictifs
+Restitution et visualisation
+8.2 Modèles Prédictifs et Cas d'Usage
+Décrivez les modèles d'apprentissage automatique envisagés :
+
+Prédiction des risques
+Optimisation du parcours patient
+Aide au diagnostic
+8.3 Éthique et Conformité
+Abordez les questions éthiques liées à l'IA dans le domaine médical :
+
+Transparence des algorithmes
+Équité et lutte contre les biais
+Consentement explicite
+Supervision humaine
+Validation clinique
+Remarque : N'oubliez pas que l'utilisation de l'IA et de l'analyse prédictive dans le domaine médical est soumise à des contraintes éthiques et réglementaires strictes. Votre approche doit les prendre en compte.
+9. Conclusion et Perspectives
+9.1 Synthèse de la Conception
+Présentez une synthèse des éléments principaux de votre conception :
+
+Architecture hexagonale modulaire
+Sécurité intégrée (DevSecOps)
+Conformité réglementaire
+Haute disponibilité
+Capacités analytiques
+9.2 Bénéfices Attendus
+Décrivez les bénéfices de votre solution pour :
+
+Les patients
+Les professionnels de santé
+L'établissement
+Les équipes techniques
+9.3 Perspectives d'Évolution
+Présentez les axes d'évolution futurs :
+
+Internationalisation
+Télémédecine
+Blockchain
+Autres innovations envisageables
+9.4 Indicateurs de Performance (KPIs)
+Proposez des KPIs pour mesurer le succès de l'implémentation :
+
+KPIs techniques (disponibilité, performance, sécurité)
+KPIs métier (satisfaction, adoption, réduction des erreurs)
+Méthodes de mesure
+Conseils pour la réalisation
+Méthodologie
+Commencez par analyser l'existant en détail avant de proposer votre solution.
+Identifiez clairement les problèmes à résoudre dans l'architecture actuelle.
+Justifiez chaque choix technique en le mettant en relation avec les besoins et contraintes.
+Utilisez des diagrammes UML pour illustrer vos concepts (architecture, classes, séquences).
+Créez un plan de travail pour aborder méthodiquement chaque section.
+Révisez régulièrement pour assurer la cohérence entre les différentes parties.
+Pièges à éviter
+Ne pas justifier vos choix techniques - Expliquez toujours pourquoi vous avez choisi une solution plutôt qu'une autre.
+Oublier certains aspects de sécurité - Dans le domaine médical, la sécurité est primordiale.
+Négliger la conformité réglementaire - RGPD et HDS sont des exigences non négociables.
+Proposer des solutions trop complexes - La simplicité est souvent préférable si elle répond aux besoins.
+Manquer de cohérence - Assurez-vous que tous les éléments de votre architecture fonctionnent bien ensemble.
+Questions à vous poser
+Architecture Comment garantir l'extensibilité du système pour intégrer de nouveaux types de professionnels ou de services médicaux ?
+Sécurité Comment implémenter la conformité RGPD tout en permettant le partage sécurisé des informations médicales ?
+Performance Quelle stratégie de cache adopter pour optimiser les temps de réponse des dossiers patients volumineux ?
+Disponibilité Comment concevoir un système avec un objectif de disponibilité de 99,9% ?
+Conformité Comment intégrer les exigences HDS dans l'architecture technique ?
+Modifié le: dimanche 9 mars 2025, 11:16
